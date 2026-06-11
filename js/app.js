@@ -132,14 +132,18 @@ function renderPiano() {
     } else {
       for (const task of day.tasks) {
         const done = isDone(task.subj, task.topic.id);
-        html += `<label class="task ${done ? "done" : ""}">
-          <input type="checkbox" ${done ? "checked" : ""}
-            onchange="onTaskToggle('${task.subj}','${esc(task.topic.id)}')">
-          <span>
+        html += `<div class="task ${done ? "done" : ""}">
+          <span class="task-body">
             <span class="task-title"><span class="subj-dot dot-${task.subj}"></span>${esc(task.topic.titolo)}</span>
             <span class="task-area">${esc(subjName(task.subj))} · ${esc(task.topic.area)}</span>
           </span>
-        </label>`;
+          <span class="task-btns">
+            <button class="task-btn tb-open" title="Apri la scheda"
+              onclick="vaiAScheda('${task.subj}','${esc(task.topic.id)}')">Scheda ›</button>
+            <button class="task-btn tb-check ${done ? "on" : ""}" title="${done ? "Segna da ripassare" : "Segna come ripassato"}"
+              onclick="onTaskToggle('${task.subj}','${esc(task.topic.id)}')">${done ? "✓ Fatto" : "Ripassato?"}</button>
+          </span>
+        </div>`;
       }
     }
     html += `</div>`;
@@ -150,6 +154,13 @@ function renderPiano() {
 function onTaskToggle(subj, topicId) {
   toggleDone(subj, topicId);
   render();
+}
+
+/* Dal piano alla scheda dell'argomento */
+function vaiAScheda(subj, topicId) {
+  App.subjSchede = subj;
+  App.schedaAperta = { subj, topicId };
+  setTab("schede");
 }
 
 /* ——— SCHEDE ——— */

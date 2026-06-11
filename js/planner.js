@@ -51,8 +51,9 @@ function distribute(topics, days) {
   const plan = days.map(d => ({ date: d, tasks: [] }));
   if (!days.length || !topics.length) return plan;
   const ordered = interleaveBySubject(topics);
+  // blocchi consecutivi: mantiene il mix di materie dentro la stessa giornata
   ordered.forEach((t, i) => {
-    plan[i % days.length].tasks.push(t);
+    plan[Math.floor(i * days.length / ordered.length)].tasks.push(t);
   });
   // riordina i task del giorno per materia, lettura più pulita
   for (const day of plan) day.tasks.sort((a, b) => a.subj.localeCompare(b.subj));

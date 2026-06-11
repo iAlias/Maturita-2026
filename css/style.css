@@ -165,16 +165,27 @@ h2.section-title {
 .day-head .day-tag.tag-exam { background: var(--accent-italiano); color: #fff; }
 
 .task {
-  display: flex; align-items: flex-start; gap: 10px;
+  display: flex; align-items: center; justify-content: space-between; gap: 10px;
   padding: 9px 12px; margin-bottom: 6px;
   background: var(--card); border: 1px solid var(--line); border-radius: 12px;
-  cursor: pointer; transition: opacity .2s, background .2s;
+  transition: opacity .2s, background .2s;
 }
-.task input { margin-top: 3px; accent-color: var(--ink); width: 17px; height: 17px; flex-shrink: 0; }
-.task.done { opacity: .55; }
+.task.done { opacity: .6; }
 .task.done .task-title { text-decoration: line-through; }
+.task-body { min-width: 0; }
 .task-title { font-weight: 700; font-size: .92rem; display: flex; align-items: center; }
 .task-area { font-size: .76rem; color: var(--ink-soft); }
+.task-btns { display: flex; gap: 6px; flex-shrink: 0; }
+.task-btn {
+  appearance: none; cursor: pointer;
+  font-family: var(--font-body); font-size: .78rem; font-weight: 700;
+  border-radius: 9px; padding: 7px 10px;
+  transition: transform .1s, background .15s, color .15s;
+}
+.task-btn:active { transform: scale(.94); }
+.tb-open { background: var(--paper-deep); border: 1px solid var(--line); color: var(--ink); }
+.tb-check { background: transparent; border: 1.5px solid var(--line); color: var(--ink-soft); }
+.tb-check.on { background: var(--ok); border-color: var(--ok); color: #fff; }
 .exam-day-note {
   font-family: var(--font-display); font-style: italic; font-size: 1rem;
   color: var(--accent-italiano); padding: 6px 2px;
