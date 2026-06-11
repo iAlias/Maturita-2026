@@ -1,0 +1,2262 @@
+{
+  "id": "italiano",
+  "nome": "Italiano",
+  "argomenti": [
+    {
+      "id": "romanticismo",
+      "titolo": "L'età del Romanticismo",
+      "area": "Romanticismo",
+      "priorita": 3,
+      "scheda": {
+        "sintesi": "Il Romanticismo nasce in Germania a fine Settecento e si diffonde in Europa nei primi decenni dell'Ottocento, in reazione al razionalismo illuminista e al classicismo. In Italia assume un carattere moderato, civile e patriottico, intrecciandosi con il Risorgimento, e trova nel romanzo il genere nuovo destinato al pubblico borghese.",
+        "sezioni": [
+          {
+            "titolo": "Concetti chiave",
+            "punti": [
+              "Il Romanticismo valorizza il sentimento, l'immaginazione, l'irrazionale e l'individualità contro la fiducia illuminista nella ragione universale.",
+              "Centrali sono i temi della natura come forza viva, del popolo e della nazione, della storia, della religiosità e dell'infinito (Sehnsucht, tensione verso l'assoluto).",
+              "Il movimento nasce in Germania con il gruppo della rivista Athenaeum (fratelli Schlegel, Novalis) e si diffonde in Inghilterra, Francia e Italia.",
+              "In Italia il dibattito si apre nel 1816 con l'articolo di Madame de Staël sulla Biblioteca Italiana, che invita gli italiani a tradurre le letterature straniere per rinnovare la propria.",
+              "I classicisti difendono la tradizione e la mitologia; i romantici (Berchet, Borsieri, Di Breme) vogliono una letteratura moderna, popolare e nazionale, e fondano la rivista Il Conciliatore (1818-1819).",
+              "Il Romanticismo italiano è meno irrazionalistico di quello nordico: rifiuta gli eccessi fantastici e privilegia il vero storico, l'impegno civile e l'educazione del popolo."
+            ]
+          },
+          {
+            "titolo": "Il romanzo come genere nuovo",
+            "punti": [
+              "Il romanzo diventa il genere dominante dell'Ottocento perché risponde ai gusti del nuovo pubblico borghese e permette di rappresentare la vita reale.",
+              "Il modello del romanzo storico è Walter Scott (Ivanhoe), che mescola personaggi inventati e contesto storico documentato.",
+              "Nella Lettera semiseria di Grisostomo al suo figliuolo (1816) Giovanni Berchet sostiene che la poesia deve rivolgersi al popolo, né ai classicisti ottentotti né ai parigini raffinati.",
+              "In Italia il romanzo storico ha il suo capolavoro nei Promessi Sposi di Manzoni, che unisce invenzione, storia e intento morale.",
+              "Il romanzo permette di dare voce agli umili e alle classi escluse dalla letteratura tradizionale, in linea con la poetica romantica del popolare."
+            ]
+          }
+        ],
+        "collegamenti": [
+          {
+            "materia": "arte",
+            "testo": "La pittura romantica di Friedrich (Viandante sul mare di nebbia), Delacroix (La Libertà che guida il popolo) e Hayez (Il bacio) esprime gli stessi temi del sublime, della nazione e del sentimento."
+          },
+          {
+            "materia": "inglese",
+            "testo": "Il Romanticismo inglese di Wordsworth e Coleridge (Lyrical Ballads, 1798) anticipa i temi della natura e dell'immaginazione che arrivano in Italia con il dibattito del 1816."
+          },
+          {
+            "materia": "scienze-umane",
+            "testo": "L'idea romantica di popolo e di spirito nazionale (Volksgeist) è alla base della riflessione sociologica e antropologica sulle identità collettive e sul nazionalismo."
+          }
+        ]
+      }
+    },
+    {
+      "id": "manzoni",
+      "titolo": "Alessandro Manzoni",
+      "area": "Romanticismo",
+      "priorita": 1,
+      "scheda": {
+        "sintesi": "Alessandro Manzoni (Milano 1785-1873) è il maggiore scrittore del Romanticismo italiano. Dopo la conversione al cattolicesimo (1810) elabora una poetica fondata sul vero storico e sull'utile morale, e con i Promessi Sposi crea il romanzo moderno italiano, dando voce agli umili e fondando la lingua nazionale.",
+        "sezioni": [
+          {
+            "titolo": "Vita, idee, poetica",
+            "punti": [
+              "Nipote di Cesare Beccaria, si forma su ideali illuministi; il soggiorno parigino e la conversione del 1810 segnano la svolta verso un cattolicesimo liberale che unisce fede e ragione.",
+              "Nella Lettera sul Romanticismo (a Cesare d'Azeglio, 1823) sintetizza la sua poetica: la letteratura deve avere l'utile per iscopo, il vero per soggetto e l'interessante per mezzo.",
+              "Manzoni rifiuta la mitologia e il falso poetico: l'arte deve fondarsi sul vero storico e sul vero morale, non sull'invenzione arbitraria.",
+              "Centrale è la visione della Provvidenza: la storia, anche nelle sue ingiustizie, è guidata da un disegno divino che l'uomo coglie solo attraverso la fede.",
+              "Il tema della storia vista dagli oppressi attraversa tutta l'opera: Manzoni dà dignità letteraria agli umili e alle vittime della storia.",
+              "La questione della lingua lo occupa per tutta la vita: con la revisione dei Promessi Sposi (risciacquatura in Arno, edizione 1840) propone il fiorentino colto vivo come lingua nazionale unitaria."
+            ]
+          },
+          {
+            "titolo": "Opere e testi",
+            "punti": [
+              "In morte di Carlo Imbonati (1805) — carme giovanile in cui il defunto compagno della madre detta l'ideale morale del sentir e meditar, del non tradire mai il vero: un programma etico che Manzoni manterrà sempre.",
+              "La Pentecoste (Inni sacri, 1812-1822) — celebra la discesa dello Spirito Santo e la nascita della Chiesa come comunità che accoglie tutti, potenti e umili: religiosità corale e democratica.",
+              "Il cinque maggio (1821) — ode scritta di getto alla notizia della morte di Napoleone: la parabola dell'uomo grande è giudicata non dalla gloria ma dalla prospettiva della fede, con la Provvida sventura che lo piega e lo salva.",
+              "Adelchi (1822) — tragedia sulla caduta del regno longobardo; nella morte di Ermengarda (coro dell'atto IV) la sposa ripudiata da Carlo Magno trova nella provvida sventura la purificazione dal dolore terreno.",
+              "Promessi Sposi, cap. XVII — la notte di Renzo in fuga verso l'Adda (Che notte, povero Renzo): paura, smarrimento e fiducia in Dio nel cammino notturno del protagonista popolare.",
+              "Promessi Sposi, cap. XXXVIII — il sugo della storia: i guai vengono spesso senza colpa, ma la fiducia in Dio li raddolcisce e li rende utili per una vita migliore; conclusione morale del romanzo.",
+              "Il romanzo (1821-1840) intreccia la vicenda di Renzo e Lucia con la storia del Seicento spagnolo: carestia, guerra e peste diventano il banco di prova della Provvidenza e della giustizia."
+            ]
+          },
+          {
+            "titolo": "Promessi Sposi: temi e struttura",
+            "punti": [
+              "È un romanzo storico ambientato nella Lombardia del 1628-1630 sotto la dominazione spagnola, modellato su Walter Scott ma originale per profondità morale.",
+              "I protagonisti sono umili: per la prima volta nella letteratura italiana due contadini sono al centro di un'opera maggiore.",
+              "Il sistema dei personaggi oppone oppressori (don Rodrigo, l'Innominato prima della conversione) e vittime, con figure di mediazione religiosa (fra Cristoforo, il cardinal Borromeo) e negativa (don Abbondio, la monaca di Monza).",
+              "Il narratore onnisciente interviene con ironia e giudizio morale, fingendo di trascrivere un manoscritto seicentesco ritrovato (espediente dell'anonimo).",
+              "La peste del 1630 è il grande quadro storico finale: livella le gerarchie sociali e porta a compimento il disegno provvidenziale.",
+              "Le tre edizioni: Fermo e Lucia (1821-1823), la ventisettana (1827), la quarantana (1840) con la revisione linguistica fiorentina e le illustrazioni del Gonin."
+            ]
+          }
+        ],
+        "collegamenti": [
+          {
+            "materia": "inglese",
+            "testo": "Il romanzo storico di Walter Scott è il modello dei Promessi Sposi; il confronto con Dickens mostra due modi diversi di rappresentare gli umili e la critica sociale nel romanzo ottocentesco."
+          },
+          {
+            "materia": "scienze-umane",
+            "testo": "L'attenzione di Manzoni alla folla (i tumulti di Milano, la psicologia collettiva durante la peste) anticipa gli studi di psicologia delle masse e la sociologia dei comportamenti collettivi."
+          },
+          {
+            "materia": "arte",
+            "testo": "Francesco Hayez, amico di Manzoni e autore del suo celebre ritratto (1841), traduce in pittura il romanticismo storico e patriottico manzoniano."
+          },
+          {
+            "materia": "italiano",
+            "testo": "La Provvidenza manzoniana si può contrapporre al pessimismo di Leopardi e al fatalismo dei vinti di Verga: tre risposte diverse al problema del dolore nella storia."
+          }
+        ]
+      }
+    },
+    {
+      "id": "leopardi",
+      "titolo": "Giacomo Leopardi",
+      "area": "Romanticismo",
+      "priorita": 1,
+      "scheda": {
+        "sintesi": "Giacomo Leopardi (Recanati 1798 - Napoli 1837) è il massimo poeta dell'Ottocento italiano e uno dei più grandi pensatori europei. La sua lirica unisce un pessimismo filosofico radicale, maturato dal pessimismo storico a quello cosmico, a una straordinaria poesia dell'immaginazione, della rimembranza e dell'infinito.",
+        "sezioni": [
+          {
+            "titolo": "Vita e pensiero",
+            "punti": [
+              "Nasce a Recanati, nello Stato Pontificio, da famiglia nobile decaduta; lo studio matto e disperatissimo nella biblioteca paterna gli dà un'erudizione immensa ma mina la sua salute.",
+              "Nel 1819 la fallita fuga da Recanati e la crisi che lo porta dall'erudizione al bello e poi dal bello al vero: nasce la sua filosofia.",
+              "Il pessimismo storico: la natura è madre benigna che ha dato agli uomini le illusioni; è la ragione, con il progresso della civiltà, ad averli resi infelici svelando il vero.",
+              "Il pessimismo cosmico (dal 1824 circa): la natura è in realtà matrigna indifferente, un meccanismo che produce vita e dolore senza scopo; l'infelicità è condizione strutturale di tutti gli esseri.",
+              "La teoria del piacere (Zibaldone, 1820): l'uomo desidera un piacere infinito per estensione e durata, ma ogni piacere reale è finito; perciò l'infelicità è inevitabile e il piacere vero esiste solo nell'attesa, nell'immaginazione e nella rimembranza.",
+              "La poetica del vago e dell'indefinito: parole come lontano, antico, notte, suoni indistinti, suscitano l'immaginazione e producono il piacere poetico proprio perché non delimitano.",
+              "L'ultima fase: nella Ginestra propone la social catena, la solidarietà fra gli uomini uniti contro la natura nemica, un pessimismo eroico e combattivo."
+            ]
+          },
+          {
+            "titolo": "I Canti: testi principali",
+            "punti": [
+              "L'infinito (1819) — idillio in cui la siepe che esclude lo sguardo diventa trampolino dell'immaginazione verso interminati spazi e sovrumani silenzi; il naufragar in questo mare è dolce perché l'immaginazione vince il limite.",
+              "La sera del dì di festa (1820) — il contrasto fra la quiete notturna e l'angoscia dell'io escluso dall'amore; il canto dell'artigiano che si allontana suggerisce il dileguare di ogni cosa umana e della gloria antica.",
+              "Il passero solitario — il poeta si confronta con il passero che canta in disparte: entrambi solitari, ma il passero segue natura mentre il poeta rimpiangerà la giovinezza perduta.",
+              "A Silvia (1828, grande idillio di Pisa) — la morte della giovane Teresa Fattorini diventa simbolo della caduta di tutte le speranze giovanili; la natura ingannatrice promette e non mantiene (all'apparir del vero / tu, misera, cadesti).",
+              "La quiete dopo la tempesta (1829) — il piacere non è che cessazione del dolore (piacer figlio d'affanno): la gioia dopo la tempesta dimostra che la natura concede agli uomini solo intervalli fra le sofferenze.",
+              "Il sabato del villaggio (1829) — il sabato, giorno dell'attesa, vale più della festa: il piacere sta nell'attesa e non nel possesso; il garzoncello scherzoso è ammonito a non avere fretta di crescere.",
+              "I canti pisano-recanatesi sono detti grandi idilli: rimembranza, paesaggio di Recanati e meditazione filosofica si fondono in una lirica nuova."
+            ]
+          },
+          {
+            "titolo": "La ginestra e l'ultimo Leopardi",
+            "punti": [
+              "La ginestra o il fiore del deserto (1836, Napoli, pendici del Vesuvio) è il testamento poetico e filosofico di Leopardi.",
+              "Il fiore che profuma le pendici del vulcano è simbolo dell'uomo consapevole: non si piega con superbia né con viltà, ma resiste senza illusioni.",
+              "Leopardi attacca le magnifiche sorti e progressive, l'ottimismo spiritualista e progressista del suo secolo, opponendo la verità della fragilità umana.",
+              "Propone la social catena: gli uomini devono allearsi fra loro contro il vero nemico, la natura, invece di farsi guerra a vicenda.",
+              "Il pessimismo diventa fondamento di un'etica laica e solidale: la lucidità sul dolore genera fraternità, non disperazione passiva.",
+              "Lo Zibaldone di pensieri (1817-1832, pubblicato postumo nel 1898-1900) è il grande laboratorio del pensiero leopardiano: oltre 4500 pagine di riflessioni filosofiche, linguistiche e poetiche."
+            ]
+          }
+        ],
+        "collegamenti": [
+          {
+            "materia": "scienze-umane",
+            "testo": "La teoria del piacere come desiderio infinito mai colmabile dialoga con la riflessione psicologica sul desiderio e con il concetto di disagio della civiltà: la cultura impone rinunce che generano infelicità."
+          },
+          {
+            "materia": "inglese",
+            "testo": "Il tema romantico dell'infinito e del sublime accomuna Leopardi ai poeti inglesi: la natura immensa di Wordsworth e il sublime che oltrepassa i limiti della ragione."
+          },
+          {
+            "materia": "arte",
+            "testo": "Il sublime pittorico di Caspar David Friedrich, con figure solitarie davanti a paesaggi sconfinati, è il corrispettivo visivo dell'Infinito leopardiano."
+          },
+          {
+            "materia": "italiano",
+            "testo": "Il pessimismo cosmico di Leopardi anticipa il male di vivere di Montale: entrambi negano ogni provvidenza e cercano nella poesia una forma di resistenza conoscitiva."
+          }
+        ]
+      }
+    },
+    {
+      "id": "italia-unita",
+      "titolo": "L'Italia unita: quadro storico-culturale",
+      "area": "Secondo Ottocento",
+      "priorita": 3,
+      "scheda": {
+        "sintesi": "Dopo il 1861 l'Italia unita affronta enormi problemi: arretratezza economica, analfabetismo, questione meridionale, divario fra paese legale e paese reale. La cultura si confronta con il Positivismo e con il compito di fare gli italiani, mentre la letteratura si divide fra celebrazione nazionale e denuncia delle contraddizioni sociali.",
+        "sezioni": [
+          {
+            "titolo": "Concetti chiave",
+            "punti": [
+              "L'unificazione (1861) lascia irrisolti gravi problemi: il brigantaggio nel Sud, la questione romana, un analfabetismo che supera il 70 per cento della popolazione.",
+              "La questione meridionale rivela il divario fra Nord e Sud: la politica fiscale e doganale del nuovo Stato aggrava le condizioni dei contadini meridionali, tema centrale del Verismo.",
+              "La frase attribuita a Massimo d'Azeglio, fatta l'Italia bisogna fare gli italiani, sintetizza il problema della costruzione di un'identità nazionale condivisa.",
+              "Il Positivismo, filosofia di Auguste Comte, domina la cultura del secondo Ottocento: fiducia nella scienza, nel metodo sperimentale e nel progresso; influenza il Naturalismo e il Verismo.",
+              "La scuola diventa strumento di unificazione: la legge Coppino (1877) rende obbligatoria l'istruzione elementare; nascono libri pensati per educare i nuovi italiani, come Cuore e Pinocchio.",
+              "L'emigrazione di massa verso le Americhe e la trasformazione industriale del Nord cambiano la società italiana fra Ottocento e Novecento."
+            ]
+          },
+          {
+            "titolo": "Cultura e letteratura",
+            "punti": [
+              "La Firenze e poi la Roma capitale diventano centri culturali; Milano si afferma come capitale dell'editoria e del giornalismo, sede della Scapigliatura.",
+              "La letteratura postunitaria oscilla fra funzione pedagogico-nazionale (De Amicis, Carducci poeta vate) e critica del presente (Scapigliatura, Verismo).",
+              "Il pubblico si allarga: cresce il mercato editoriale, nascono i romanzi d'appendice sui giornali e la letteratura per l'infanzia.",
+              "Il modello linguistico manzoniano viene adottato dalla scuola, ma il dibattito sulla lingua continua con la posizione storicista di Graziadio Isaia Ascoli.",
+              "La delusione post-risorgimentale, il contrasto fra ideali eroici e prosa borghese del nuovo Stato, alimenta il ribellismo scapigliato e il pessimismo verista."
+            ]
+          }
+        ],
+        "collegamenti": [
+          {
+            "materia": "scienze-umane",
+            "testo": "Il problema dell'alfabetizzazione e della scuola come agenzia di socializzazione e nation building è un tema classico della sociologia dell'educazione."
+          },
+          {
+            "materia": "arte",
+            "testo": "I Macchiaioli (Fattori, Lega) rinnovano la pittura italiana negli anni dell'unificazione, rappresentando con la macchia la vita quotidiana e le battaglie risorgimentali."
+          },
+          {
+            "materia": "italiano",
+            "testo": "La questione meridionale trova la sua massima espressione letteraria nel Verismo di Verga, che racconta la Sicilia esclusa dal progresso unitario."
+          }
+        ]
+      }
+    },
+    {
+      "id": "carducci",
+      "titolo": "Giosuè Carducci",
+      "area": "Secondo Ottocento",
+      "priorita": 2,
+      "scheda": {
+        "sintesi": "Giosuè Carducci (1835-1907) è il poeta ufficiale dell'Italia umbertina, professore a Bologna e primo italiano premio Nobel per la letteratura (1906). Classicista per formazione e polemico contro il Romanticismo languido, evolve da una poesia civile e battagliera alla sperimentazione metrica delle Odi barbare e a una vena malinconica e autobiografica.",
+        "sezioni": [
+          {
+            "titolo": "Vita e poetica",
+            "punti": [
+              "Nato in Versilia, si forma sui classici greci, latini e italiani; insegna letteratura italiana all'Università di Bologna per oltre quarant'anni.",
+              "Giovane anticlericale e repubblicano (scrive il provocatorio Inno a Satana, dove Satana è simbolo della ragione e del progresso), si avvicina poi alla monarchia e diventa poeta vate della terza Italia.",
+              "Si proclama scudiero dei classici: difende la tradizione formale contro il sentimentalismo romantico, ma la sua sensibilità resta spesso romantica nella malinconia e nel culto della memoria.",
+              "Nelle Odi barbare (1877-1889) tenta la metrica barbara: riproduce con accenti italiani i metri quantitativi di Orazio e dei lirici classici, sperimentazione che apre la strada alla metrica novecentesca.",
+              "Temi ricorrenti: la celebrazione della storia romana e risorgimentale, il paesaggio (la Maremma, le Alpi), gli affetti familiari e la presenza ossessiva della morte.",
+              "Riceve il premio Nobel nel 1906: la sua poesia incarna l'ideale di una letteratura nazionale, civile e formalmente impeccabile."
+            ]
+          },
+          {
+            "titolo": "Opere e testi",
+            "punti": [
+              "Pianto antico (Rime nuove, 1871) — breve lirica per la morte del figlio Dante di tre anni: il melograno rinverdisce mentre il bambino è nella terra negra; il contrasto fra natura che rinasce e morte irreversibile riprende il pianto funebre classico.",
+              "Nevicata (Odi barbare) — la neve che cade lenta sulla città silenziosa diventa paesaggio dell'anima: gli amici morti chiamano il poeta e la vita pare sospesa in un'attesa funebre (dormirò all'ombra, nell'ultimo verso).",
+              "Rime nuove (1861-1887) — raccolta che alterna poesia civile, rievocazione storica e liriche intime e malinconiche.",
+              "Odi barbare — dette barbare perché agli orecchi dei greci e dei romani sarebbero suonate tali: i metri classici letti con accento moderno; vi domina il dialogo fra presente e antichità romana.",
+              "La produzione carducciana fa da ponte fra la tradizione classicista e le novità di Pascoli e D'Annunzio, suoi successori nella poesia italiana di fine secolo."
+            ]
+          }
+        ],
+        "collegamenti": [
+          {
+            "materia": "italiano",
+            "testo": "La sperimentazione della metrica barbara prepara la rivoluzione metrica del Novecento: dal verso libero dannunziano fino alla frantumazione del verso in Ungaretti."
+          },
+          {
+            "materia": "arte",
+            "testo": "Il gusto carducciano per la classicità e la storia romana corrisponde alla pittura accademica e celebrativa dell'Italia umbertina e ai monumenti del nuovo Stato."
+          },
+          {
+            "materia": "scienze-umane",
+            "testo": "La figura del poeta vate, costruttore di memoria nazionale, mostra come la letteratura funzioni da rito civile e strumento di coesione identitaria."
+          }
+        ]
+      }
+    },
+    {
+      "id": "letteratura-infanzia",
+      "titolo": "La letteratura per l'infanzia: Collodi e De Amicis",
+      "area": "Secondo Ottocento",
+      "priorita": 3,
+      "scheda": {
+        "sintesi": "Nell'Italia postunitaria la letteratura per l'infanzia diventa strumento per fare gli italiani: Pinocchio di Collodi (1881-1883) e Cuore di De Amicis (1886) sono i due grandi libri pedagogici nazionali, ma con esiti opposti, fantastico e ironico il primo, sentimentale e patriottico il secondo.",
+        "sezioni": [
+          {
+            "titolo": "Concetti chiave",
+            "punti": [
+              "Dopo l'Unità la scuola elementare obbligatoria crea un nuovo pubblico di lettori bambini: la letteratura per l'infanzia nasce con un esplicito compito educativo e nazionale.",
+              "Carlo Lorenzini, detto Collodi (1826-1890), giornalista fiorentino, pubblica Le avventure di Pinocchio a puntate sul Giornale per i bambini (1881-1883).",
+              "Pinocchio è un romanzo di formazione fiabesco: il burattino disobbediente, attraverso fughe, inganni (il Gatto e la Volpe, il Paese dei Balocchi) e prove, si trasforma in bambino vero.",
+              "Sotto la favola, Pinocchio raffigura l'Italia povera di fine Ottocento: la fame, il lavoro, la giustizia ingiusta; la sua morale (studio, lavoro, obbedienza) convive con una vena ironica e anarchica che lo rende ancora vivo.",
+              "Edmondo De Amicis (1846-1908) pubblica Cuore nel 1886: diario scolastico di Enrico Bottini, alunno di terza elementare a Torino, con le lettere dei genitori e i racconti mensili (la piccola vedetta lombarda, Dagli Appennini alle Ande).",
+              "Cuore propone un'etica interclassista del sacrificio, del patriottismo e della solidarietà: la scuola è il luogo dove figli di operai e di borghesi imparano a sentirsi italiani.",
+              "I due libri rappresentano due pedagogie opposte: la fantasia trasgressiva e popolare di Collodi contro il sentimentalismo edificante e conformista di De Amicis."
+            ]
+          }
+        ],
+        "collegamenti": [
+          {
+            "materia": "scienze-umane",
+            "testo": "Pinocchio e Cuore sono casi esemplari di socializzazione attraverso la lettura: la pedagogia ottocentesca usa la narrativa per trasmettere norme, valori e identità nazionale."
+          },
+          {
+            "materia": "inglese",
+            "testo": "Nello stesso periodo l'Inghilterra vittoriana produce i suoi classici per l'infanzia, da Alice nel Paese delle Meraviglie di Carroll ai romanzi di Dickens con protagonisti bambini come Oliver Twist."
+          },
+          {
+            "materia": "italiano",
+            "testo": "L'attenzione al mondo dell'infanzia ritorna, con segno diverso, nel fanciullino di Pascoli: da destinatario dell'educazione il bambino diventa modello dello sguardo poetico."
+          }
+        ]
+      }
+    },
+    {
+      "id": "romanzo-europeo",
+      "titolo": "Il romanzo europeo dell'Ottocento",
+      "area": "Secondo Ottocento",
+      "priorita": 2,
+      "scheda": {
+        "sintesi": "Nel secondo Ottocento il romanzo è il genere dominante in Europa: Dickens denuncia le ingiustizie dell'Inghilterra industriale, il romanzo russo scava nella coscienza e nelle grandi questioni morali, Flaubert fonda il realismo impersonale, mentre a fine secolo Wilde incarna il romanzo dell'estetismo decadente.",
+        "sezioni": [
+          {
+            "titolo": "Dickens e il romanzo russo",
+            "punti": [
+              "Charles Dickens (1812-1870) rappresenta l'Inghilterra vittoriana industriale: in romanzi come Oliver Twist, David Copperfield e Tempi difficili denuncia lo sfruttamento minorile, le workhouse e la durezza dell'utilitarismo.",
+              "Dickens unisce realismo sociale, umorismo, sentimentalismo e pubblicazione a puntate: il suo successo dimostra la nascita del grande pubblico borghese del romanzo.",
+              "Il romanzo russo porta il genere alla massima profondità filosofica: Tolstoj (Guerra e pace, Anna Karenina) affresca la storia e la società indagando il senso della vita.",
+              "Dostoevskij (Delitto e castigo, I fratelli Karamazov) esplora il sottosuolo della psiche, la colpa, la libertà e il problema del male: la sua scoperta dell'uomo interiore prepara il romanzo novecentesco di Svevo e Pirandello."
+            ]
+          },
+          {
+            "titolo": "Flaubert e il Naturalismo francese",
+            "punti": [
+              "Gustave Flaubert con Madame Bovary (1857) fonda il romanzo realista moderno: Emma, nutrita di letture romantiche, cerca nell'adulterio e nel lusso una vita all'altezza dei suoi sogni e finisce suicida.",
+              "Il bovarismo indica da allora l'insoddisfazione di chi si immagina diverso da ciò che è: lo scarto incolmabile fra sogni romantici e mediocrità della provincia borghese.",
+              "Flaubert teorizza l'impersonalità: l'autore deve essere nella sua opera come Dio nell'universo, presente ovunque e visibile in nessun luogo; usa il discorso indiretto libero per entrare nei pensieri di Emma senza giudicarla apertamente.",
+              "Dal realismo flaubertiano nasce il Naturalismo di Zola: il romanzo come esperimento scientifico sulla società, modello diretto del Verismo italiano."
+            ]
+          },
+          {
+            "titolo": "Wilde e il romanzo dell'estetismo",
+            "punti": [
+              "Oscar Wilde (1854-1900) è la figura simbolo dell'estetismo inglese: la vita stessa deve diventare un'opera d'arte e l'arte non ha fini morali (l'arte per l'arte).",
+              "Il ritratto di Dorian Gray (1890-1891) narra di un giovane la cui bellezza resta intatta mentre il ritratto invecchia e si corrompe registrando i suoi peccati.",
+              "Il romanzo è il manifesto del decadentismo estetizzante: culto della bellezza, edonismo, influenza del libro velenoso (il modello è À rebours di Huysmans), ma anche apologo morale sulla rovina di chi separa bellezza e coscienza.",
+              "La figura del dandy, elaborata da Baudelaire e incarnata da Wilde, diventa il modello dell'Andrea Sperelli dannunziano: l'esteta che si oppone alla massificazione borghese attraverso l'eleganza e l'artificio."
+            ]
+          }
+        ],
+        "collegamenti": [
+          {
+            "materia": "inglese",
+            "testo": "Dickens e Wilde sono autori centrali del programma di letteratura inglese: la critica sociale vittoriana e l'estetismo di fine secolo si studiano in parallelo nelle due lingue."
+          },
+          {
+            "materia": "italiano",
+            "testo": "Madame Bovary è il modello del realismo impersonale che Verga radicalizza con l'eclissi dell'autore; Dorian Gray è il gemello europeo di Andrea Sperelli nel Piacere di D'Annunzio."
+          },
+          {
+            "materia": "scienze-umane",
+            "testo": "Il romanzo ottocentesco è una fonte privilegiata per la sociologia: Dickens documenta l'infanzia operaia e l'urbanesimo industriale, Flaubert la condizione femminile nella provincia borghese."
+          }
+        ]
+      }
+    },
+    {
+      "id": "scapigliatura",
+      "titolo": "La Scapigliatura",
+      "area": "Secondo Ottocento",
+      "priorita": 2,
+      "scheda": {
+        "sintesi": "La Scapigliatura è un movimento di artisti ribelli attivo a Milano e Torino negli anni 1860-1870: contro il perbenismo borghese e il tardo romanticismo manzoniano, gli scapigliati importano in Italia i temi del maledettismo europeo, il dualismo fra ideale e vero, il macabro e il patologico, facendo da ponte verso il Decadentismo.",
+        "sezioni": [
+          {
+            "titolo": "Concetti chiave",
+            "punti": [
+              "Il nome viene dal romanzo di Cletto Arrighi La Scapigliatura e il 6 febbraio (1862): scapigliato traduce il francese bohémien, l'artista dalla vita disordinata e anticonformista.",
+              "Gli scapigliati (Emilio Praga, Arrigo Boito, Iginio Ugo Tarchetti, Camillo Boito) vivono il conflitto fra arte e società borghese nell'Italia postunitaria, deludente rispetto agli ideali risorgimentali.",
+              "Tema centrale è il dualismo: l'artista è conteso fra ideale e vero, fra aspirazione alla purezza e attrazione per il brutto, il malato, il macabro (Preludio di Boito ne è il manifesto poetico).",
+              "La Scapigliatura si ribella a Manzoni e al romanticismo edificante, guardando ai modelli stranieri: Baudelaire, Hoffmann, Poe, Heine.",
+              "Pur senza produrre capolavori assoluti, il movimento svecchia la cultura italiana e prepara sia il Verismo (attenzione al vero anche sgradevole) sia il Decadentismo (estetica del morboso)."
+            ]
+          },
+          {
+            "titolo": "Tarchetti e Fosca",
+            "punti": [
+              "Iginio Ugo Tarchetti (1839-1869) è il narratore più significativo della Scapigliatura; muore giovanissimo di tifo, incarnando il destino dell'artista maledetto.",
+              "Fosca (1869, incompiuto) racconta il triangolo fra il giovane ufficiale Giorgio, la bella e sana Clara e la malata Fosca, donna bruttissima e isterica che lo avvince con una passione morbosa.",
+              "Nel brano noto come la donna scheletro, la bruttezza spettrale di Fosca è descritta con fascinazione orrorifica: la magrezza che rende visibile lo scheletro, gli occhi enormi, un orrore che attrae.",
+              "Il romanzo rovescia i canoni romantici dell'amore: l'attrazione per la malattia e per la morte anticipa l'erotismo decadente e l'analisi della psiche ossessiva.",
+              "Fosca rappresenta l'amore come patologia e contagio: Giorgio si ammala a sua volta, mostrando il potere distruttivo dell'irrazionale sul soggetto."
+            ]
+          }
+        ],
+        "collegamenti": [
+          {
+            "materia": "italiano",
+            "testo": "Il maledettismo scapigliato deriva da Baudelaire e prepara il Decadentismo italiano: la linea Tarchetti-Fogazzaro-D'Annunzio mostra l'evoluzione del gusto per il morboso."
+          },
+          {
+            "materia": "arte",
+            "testo": "La Scapigliatura è anche movimento pittorico: Tranquillo Cremona e Daniele Ranzoni dissolvono i contorni in atmosfere sfumate, ribellandosi all'accademismo come i letterati al manzonismo."
+          },
+          {
+            "materia": "scienze-umane",
+            "testo": "Il fascino scapigliato per la malattia nervosa e l'isteria riflette il dibattito scientifico ottocentesco sulla psicopatologia, che culminerà negli studi di Charcot e nella psicoanalisi."
+          }
+        ]
+      }
+    },
+    {
+      "id": "naturalismo-verismo",
+      "titolo": "Naturalismo francese e Verismo italiano",
+      "area": "Verismo",
+      "priorita": 2,
+      "scheda": {
+        "sintesi": "Il Naturalismo francese, teorizzato da Zola sulla base del Positivismo, applica al romanzo il metodo scientifico: l'uomo è determinato da ereditarietà e ambiente. Il Verismo italiano di Verga e Capuana ne riprende l'impersonalità ma la radicalizza, rinunciando alla fiducia nel progresso e raccontando il mondo immobile delle plebi meridionali.",
+        "sezioni": [
+          {
+            "titolo": "Il Naturalismo francese",
+            "punti": [
+              "Il Naturalismo nasce in Francia negli anni 1870 sul fondamento del Positivismo di Comte, del determinismo di Taine (race, milieu, moment) e della medicina sperimentale di Claude Bernard.",
+              "Émile Zola nel Romanzo sperimentale (1880) teorizza lo scrittore-scienziato: il romanzo è un esperimento che osserva come i personaggi, determinati da ereditarietà e ambiente, reagiscono alle circostanze.",
+              "Il ciclo dei Rougon-Macquart (venti romanzi) segue una famiglia sotto il Secondo Impero, studiando la trasmissione ereditaria di tare e la pressione dei diversi ambienti sociali (L'Assommoir, Germinal).",
+              "I precursori sono Flaubert, per l'impersonalità, e i fratelli Goncourt, che con Germinie Lacerteux rivendicano il diritto del romanzo a studiare le classi basse come documento umano.",
+              "Il Naturalismo ha un'intenzione progressista: denunciare scientificamente i mali sociali per favorirne la riforma."
+            ]
+          },
+          {
+            "titolo": "Il Verismo italiano",
+            "punti": [
+              "Il Verismo nasce a Milano attorno al 1878-1881 per opera dei siciliani Giovanni Verga e Luigi Capuana, teorico del movimento, sotto l'influenza del modello zoliano.",
+              "Condivide con il Naturalismo l'impersonalità e l'attenzione ai ceti umili, ma se ne distingue: niente fiducia positivista nel progresso, nessun intento di riforma, ma un pessimismo fatalistico.",
+              "La tecnica verghiana dell'eclissi dell'autore va oltre Zola: il narratore scompare e la voce narrante si mimetizza con il mondo rappresentato (regressione), adottandone mentalità e linguaggio.",
+              "Mentre Zola descrive il proletariato urbano e industriale, i veristi rappresentano l'Italia rurale e meridionale: la Sicilia di Verga, la Napoli di Matilde Serao, la Sardegna di Grazia Deledda.",
+              "Il documento umano e la forma inerente al soggetto sono i principi cardine: l'opera deve sembrare essersi fatta da sé, senza il filtro visibile dell'autore."
+            ]
+          }
+        ],
+        "collegamenti": [
+          {
+            "materia": "scienze-umane",
+            "testo": "Il determinismo naturalista (l'uomo prodotto di ereditarietà e ambiente) dialoga con il Positivismo di Comte e con la nascita della sociologia scientifica nello stesso periodo."
+          },
+          {
+            "materia": "inglese",
+            "testo": "Il realismo sociale di Dickens precede il Naturalismo nella denuncia delle condizioni operaie, ma con strumenti sentimentali e umoristici anziché scientifici."
+          },
+          {
+            "materia": "italiano",
+            "testo": "Il confronto fra il Germinal di Zola e I Malavoglia di Verga mostra la differenza fondamentale: speranza di riscatto collettivo nel primo, ideale dell'ostrica e fatalismo nel secondo."
+          }
+        ]
+      }
+    },
+    {
+      "id": "verga",
+      "titolo": "Giovanni Verga",
+      "area": "Verismo",
+      "priorita": 1,
+      "scheda": {
+        "sintesi": "Giovanni Verga (Catania 1840-1922) è il massimo scrittore del Verismo italiano. Dopo gli esordi mondani, con Nedda e poi con Vita dei campi e I Malavoglia inaugura una narrativa rivoluzionaria: l'eclissi dell'autore, la regressione del narratore e il pessimismo dei vinti, travolti dalla fiumana del progresso.",
+        "sezioni": [
+          {
+            "titolo": "Vita, idee, poetica",
+            "punti": [
+              "Nato a Catania da famiglia di proprietari terrieri, vive a Firenze e poi a Milano (1872-1893), dove frequenta la Scapigliatura e matura la conversione al Verismo; torna infine a Catania.",
+              "La svolta verista avviene con Nedda (1874) e si compie con Rosso Malpelo (1878): Verga abbandona i romanzi mondani per il mondo dei contadini e dei pescatori siciliani.",
+              "La poetica dell'impersonalità: l'opera deve sembrare essersi fatta da sé; la mano dell'artista deve restare invisibile (lettera-prefazione a L'amante di Gramigna, 1880).",
+              "La regressione e l'eclissi: il narratore si cala nel mondo rappresentato e ne assume il punto di vista, i valori e il linguaggio (proverbi, sintassi popolare, discorso indiretto libero, straniamento).",
+              "Il pessimismo verghiano: la lotta per la vita domina la società a ogni livello; chi tenta di migliorare la propria condizione è un vinto travolto dalla fiumana del progresso.",
+              "L'ideale dell'ostrica: come l'ostrica sopravvive solo attaccata allo scoglio, così gli umili sono al sicuro solo restando ancorati ai valori della famiglia e della tradizione; chi se ne stacca è perduto.",
+              "Il ciclo dei Vinti doveva comprendere cinque romanzi dalla plebe alle classi alte: ne realizza solo due, I Malavoglia (1881) e Mastro-don Gesualdo (1889)."
+            ]
+          },
+          {
+            "titolo": "Novelle",
+            "punti": [
+              "Nedda (1874) — bozzetto siciliano che apre la stagione verista: la raccoglitrice di olive perde madre, amante e figlia, in una catena di miserie narrata ancora con un narratore partecipe.",
+              "Rosso Malpelo (Vita dei campi, 1880) — il ragazzo della cava, creduto malvagio perché ha i capelli rossi, interiorizza la logica brutale del suo mondo; capolavoro della regressione: il narratore parla con la voce e i pregiudizi della comunità.",
+              "Fantasticheria (Vita dei campi) — rivolta a una dama elegante, espone l'ideale dell'ostrica e anticipa il mondo dei Malavoglia: per capire i poveri bisogna farsi piccini come loro.",
+              "La lupa (Vita dei campi) — la gnà Pina, dominata da una passione divorante per il genero Nanni, va incontro alla morte: il desiderio come forza tragica e arcaica.",
+              "La roba (Novelle rusticane, 1883) — Mazzarò ha sacrificato tutto all'accumulo della roba; davanti alla morte, impazzito, grida Roba mia, vientene con me: la religione della proprietà come alienazione.",
+              "Libertà (Novelle rusticane) — la rivolta contadina di Bronte (1860) e la repressione: la libertà promessa dal Risorgimento resta incomprensibile e tradita per i contadini; la storia vista dal basso."
+            ]
+          },
+          {
+            "titolo": "I Malavoglia e Mastro-don Gesualdo",
+            "punti": [
+              "I Malavoglia (1881) narra la rovina della famiglia Toscano di Aci Trezza: il debito dei lupini, il naufragio della Provvidenza, la perdita della casa del nespolo e la lenta riscossa del giovane Alessi.",
+              "Nella prefazione Verga espone il disegno del ciclo dei Vinti: lo studio della fiumana del progresso colta alle sorgenti, osservando i meccanismi che travolgono i deboli a ogni gradino della scala sociale.",
+              "L'incipit immerge il lettore senza mediazioni nel mondo del paese, con il proverbio degli uomini fatti come le dita della mano: la tecnica corale fa parlare la comunità stessa.",
+              "Il romanzo oppone i valori arcaici della religione della famiglia e della casa (padron 'Ntoni e i suoi proverbi) alla modernità che disgrega (il giovane 'Ntoni, che parte e non può più tornare).",
+              "Mastro-don Gesualdo (1889) sale il gradino sociale successivo: il muratore arricchito Gesualdo Motta conquista la roba e un matrimonio nobile, ma resta straniero ai nobili e traditore della sua classe; muore solo, fra l'indifferenza dei servi.",
+              "Il titolo stesso è un ossimoro sociale: mastro (l'operaio) e don (il signore) non si fondono mai; la logica economica divora ogni affetto, secondo il pessimismo senza riscatto di Verga."
+            ]
+          }
+        ],
+        "collegamenti": [
+          {
+            "materia": "scienze-umane",
+            "testo": "La famiglia patriarcale dei Malavoglia e la sua disgregazione di fronte alla modernizzazione sono un caso di studio per la sociologia della famiglia e dei processi di mutamento sociale."
+          },
+          {
+            "materia": "inglese",
+            "testo": "Il confronto con il realismo sociale inglese di Dickens evidenzia la specificità verghiana: niente intervento del narratore né lieto fine, ma impersonalità e pessimismo radicale."
+          },
+          {
+            "materia": "arte",
+            "testo": "Il Quarto Stato di Pellizza da Volpedo (1901) e la pittura verista di Fattori rappresentano lo stesso mondo contadino e proletario che Verga porta nella narrativa."
+          },
+          {
+            "materia": "italiano",
+            "testo": "Rosso Malpelo dialoga con Ciaula scopre la luna di Pirandello: stesso scenario delle zolfare siciliane, ma all'oggettività verista subentra la scoperta interiore e umoristica del personaggio."
+          }
+        ]
+      }
+    },
+    {
+      "id": "decadentismo",
+      "titolo": "Il Decadentismo, Baudelaire e il Simbolismo",
+      "area": "Decadentismo",
+      "priorita": 2,
+      "scheda": {
+        "sintesi": "Il Decadentismo è la grande corrente europea di fine Ottocento che rifiuta il Positivismo: la realtà è mistero che solo l'arte può intuire. Baudelaire ne è il precursore, i poeti maledetti e il Simbolismo francese ne elaborano gli strumenti, mentre l'estetismo ne incarna lo stile di vita; in Italia i protagonisti sono Pascoli e D'Annunzio.",
+        "sezioni": [
+          {
+            "titolo": "Poetica, temi, personaggi",
+            "punti": [
+              "Il termine nasce in Francia con valore spregiativo (décadent) e viene rivendicato con orgoglio dagli artisti: la decadenza della civiltà borghese diventa condizione privilegiata di sensibilità.",
+              "Contro la ragione positivista, il Decadentismo afferma che la realtà vera è oltre le apparenze: l'inconscio, il mistero, le corrispondenze segrete fra le cose, accessibili solo all'intuizione poetica.",
+              "Gli strumenti della conoscenza decadente sono stati irrazionali: il sogno, la malattia, la follia, l'estasi, le sinestesie; il poeta è veggente (Rimbaud) e l'arte è la forma suprema di conoscenza.",
+              "Il linguaggio diventa musica e suggestione: il simbolo non descrive ma evoca; la poesia pura rifiuta la funzione comunicativa ordinaria della lingua.",
+              "Figure tipiche del decadentismo: l'esteta (Des Esseintes, Dorian Gray, Andrea Sperelli), il maledetto, il fanciullino pascoliano, il superuomo dannunziano, l'inetto: tutte forme della crisi del soggetto borghese.",
+              "Vivere la vita come un'opera d'arte: l'estetismo sostituisce l'etica con l'estetica, il bello al bene; ma i romanzi decadenti mostrano quasi sempre il fallimento di questo progetto."
+            ]
+          },
+          {
+            "titolo": "Baudelaire e i poeti maledetti",
+            "punti": [
+              "Charles Baudelaire (1821-1867) con I fiori del male (1857) inaugura la poesia moderna: lo spleen (noia e disgusto esistenziale) si oppone all'ideale, e la bellezza nasce anche dal male e dal fango della metropoli.",
+              "Nel sonetto Corrispondenze la natura è una foresta di simboli: profumi, colori e suoni si rispondono; è il manifesto del Simbolismo e della sinestesia.",
+              "L'albatro — il grande uccello marino, maestoso in volo ma goffo e deriso sul ponte della nave dai marinai, è il simbolo del poeta: le sue ali di gigante gli impediscono di camminare; il poeta è esule nella società borghese che lo umilia.",
+              "Con la perdita dell'aureola, Baudelaire registra la fine del ruolo sacro del poeta nella società di massa: tema che attraversa tutta la lirica moderna fino a Montale.",
+              "I poeti maledetti, Verlaine, Rimbaud, Mallarmé, sviluppano il Simbolismo: musicalità del verso (Verlaine), sregolatezza di tutti i sensi e poeta veggente (Rimbaud), poesia come enigma assoluto (Mallarmé)."
+            ]
+          }
+        ],
+        "collegamenti": [
+          {
+            "materia": "inglese",
+            "testo": "L'estetismo inglese di Walter Pater e Oscar Wilde è il ramo britannico del Decadentismo: Il ritratto di Dorian Gray traduce in romanzo il culto della bellezza e la vita come opera d'arte."
+          },
+          {
+            "materia": "arte",
+            "testo": "Il Simbolismo pittorico (Moreau, Redon, Böcklin) e poi la Secessione di Klimt esprimono lo stesso rifiuto del naturalismo: l'immagine come simbolo del mistero e dell'inconscio."
+          },
+          {
+            "materia": "scienze-umane",
+            "testo": "La valorizzazione decadente dell'inconscio e del sogno precede e accompagna la nascita della psicoanalisi di Freud: L'interpretazione dei sogni esce nel 1899, nel cuore di questa stagione culturale."
+          }
+        ]
+      }
+    },
+    {
+      "id": "pascoli",
+      "titolo": "Giovanni Pascoli",
+      "area": "Decadentismo",
+      "priorita": 1,
+      "scheda": {
+        "sintesi": "Giovanni Pascoli (San Mauro di Romagna 1855 - Bologna 1912) è, con D'Annunzio, il protagonista del Decadentismo italiano. Segnato dall'assassinio del padre e dai lutti familiari, elabora la poetica del fanciullino e una poesia delle piccole cose attraversata da simboli, inquietudine e sperimentazione fonica che rivoluziona il linguaggio poetico italiano.",
+        "sezioni": [
+          {
+            "titolo": "Vita, idee, poetica",
+            "punti": [
+              "Il 10 agosto 1867 il padre Ruggero, amministratore della tenuta dei principi Torlonia, viene assassinato da ignoti: il delitto impunito e i successivi lutti (la madre, le sorelle Margherita, il fratello Luigi e Giacomo) segnano per sempre la vita e la poesia di Pascoli.",
+              "Ricostruisce il nido familiare vivendo con le sorelle Ida e Mariù; il nido è il simbolo centrale della sua poesia: rifugio protettivo dal mondo esterno minaccioso, ma anche legame che esclude l'amore adulto.",
+              "Professore di latino e greco, succede a Carducci sulla cattedra di Bologna nel 1905; è anche grande poeta in lingua latina.",
+              "La poetica del fanciullino (saggio del 1897): in ogni uomo sopravvive un fanciullo che vede le cose come per la prima volta, con meraviglia; il poeta è chi sa dargli voce, e la poesia è conoscenza pre-razionale e intuitiva.",
+              "La poesia delle piccole cose: oggetti umili, campagna, uccelli e fiori, nominati con precisione botanica e ornitologica, diventano simboli carichi di mistero, morte e inquietudine.",
+              "Rivoluzione del linguaggio: onomatopee, fonosimbolismo, sinestesie, frantumazione della sintassi, mescolanza di lingua colta, dialetto e lingue speciali; Gianfranco Contini parla di linguaggio pre-grammaticale e post-grammaticale.",
+              "Ideologia: un socialismo umanitario evoluto in nazionalismo (discorso La grande proletaria si è mossa, 1911, a sostegno della guerra di Libia)."
+            ]
+          },
+          {
+            "titolo": "Opere e testi",
+            "punti": [
+              "Il fanciullino (1897) — saggio-manifesto: la poesia non è retorica ma sguardo infantile e stupito sulle cose; il poeta fanciullo è dentro ogni uomo e la poesia ha un valore consolatorio e fraterno.",
+              "Lavandare (Myricae) — quadretto campestre: l'aratro abbandonato in mezzo alla maggese e il canto delle lavandaie compongono un simbolo di abbandono e solitudine (mi pare il quadro stesso della vita che resta incompiuta).",
+              "Novembre (Myricae) — l'estate di San Martino inganna con una parvenza di primavera, ma gli alberi sono spogli e il silenzio rivela l'estate, fredda, dei morti: la natura come illusione che nasconde la morte.",
+              "X Agosto (Myricae) — nell'anniversario dell'assassinio del padre, la rondine uccisa mentre tornava al nido è specchio dell'uomo ucciso; la lacrima delle stelle cadenti è il pianto del cielo su questo atomo opaco del Male che è la Terra.",
+              "L'assiuolo (Myricae) — il verso dell'uccello notturno (chiù) scandisce un crescendo di angoscia: dal vago presagio al pianto di morte; capolavoro di fonosimbolismo e di paesaggio-stato d'animo.",
+              "Digitale purpurea (Poemetti) — Maria e Rachele rievocano il fiore proibito del giardino del collegio, bello e mortale: il profumo della digitale simboleggia l'attrazione inquietante per l'eros e la morte.",
+              "Il gelsomino notturno (Canti di Castelvecchio, 1903) — scritto per le nozze di un amico: il fiore che si apre di notte mentre la casa si chiude allude con simbolismo floreale all'unione nuziale e alla generazione; il poeta resta fuori, escluso dall'eros.",
+              "Nebbia (Canti di Castelvecchio) — invocazione alla nebbia perché nasconda le cose lontane: il poeta chiede di vedere solo la siepe del suo orto, rifugio contro il dolore del mondo e richiamo dei morti."
+            ]
+          },
+          {
+            "titolo": "Myricae e i Canti di Castelvecchio",
+            "punti": [
+              "Myricae (1891-1900) prende il titolo da Virgilio (le umili tamerici): liriche brevi su campagna e stagioni, attraversate dal ricordo dei morti e da un simbolismo luttuoso.",
+              "I Canti di Castelvecchio (1903) continuano Myricae con più ampio respiro: il ciclo delle stagioni in Garfagnana, i simboli del nido e dei morti, il fonosimbolismo maturo.",
+              "La natura pascoliana non è idillica: dietro il dettaglio realistico si apre sempre il mistero, il presagio funebre, l'angoscia cosmica.",
+              "La metrica è tradizionale ma interiormente rivoluzionata: pause, puntini di sospensione, enjambement e rime interne frantumano il ritmo classico.",
+              "Pascoli è il padre della poesia italiana del Novecento: da lui derivano crepuscolari, Ungaretti e Montale per la riduzione dell'io aulico e l'attenzione alle cose."
+            ]
+          }
+        ],
+        "collegamenti": [
+          {
+            "materia": "scienze-umane",
+            "testo": "La poetica del fanciullino dialoga con la psicologia dell'età evolutiva e con la riscoperta novecentesca dell'infanzia come età dotata di forme proprie di pensiero e percezione."
+          },
+          {
+            "materia": "arte",
+            "testo": "Il simbolismo pascoliano delle piccole cose e dei fiori trova corrispondenza nel Simbolismo pittorico europeo e nelle atmosfere sospese del Divisionismo italiano (Segantini, Previati)."
+          },
+          {
+            "materia": "italiano",
+            "testo": "Confronto Pascoli-D'Annunzio: due decadentismi opposti, il nido contro il superuomo, le piccole cose contro il panismo vitalistico, ma comune è la parola come musica e simbolo."
+          },
+          {
+            "materia": "inglese",
+            "testo": "Lo sguardo infantile e visionario sulla natura accomuna il fanciullino pascoliano alla poetica romantica inglese di Wordsworth, per cui il bambino è padre dell'uomo."
+          }
+        ]
+      }
+    },
+    {
+      "id": "dannunzio",
+      "titolo": "Gabriele D'Annunzio",
+      "area": "Decadentismo",
+      "priorita": 1,
+      "scheda": {
+        "sintesi": "Gabriele D'Annunzio (Pescara 1863 - Gardone 1938) incarna il Decadentismo italiano nella versione estetizzante ed eroica: dall'estetismo del Piacere al superomismo nietzschiano, fino al panismo di Alcyone. Poeta, romanziere, drammaturgo e personaggio pubblico, fa della propria vita inimitabile un'opera d'arte e influenza profondamente lingua, costume e politica italiana.",
+        "sezioni": [
+          {
+            "titolo": "Vita, idee, poetica",
+            "punti": [
+              "Esordisce sedicenne con Primo vere; a Roma è cronista mondano e costruisce il personaggio dell'esteta; la vita tra lussi, amori celebri (Eleonora Duse) e debiti è parte integrante della sua opera.",
+              "L'estetismo: il culto della bellezza e dell'arte come valori supremi, sopra la morale; il motto del Piacere è bisogna fare la propria vita come si fa un'opera d'arte.",
+              "Il superomismo: dalla lettura di Nietzsche (anni Novanta) D'Annunzio trae il mito dell'individuo eccezionale che rifiuta la mediocrità democratica e si fa guida estetica e politica della nazione (Le vergini delle rocce).",
+              "Il panismo: nella stagione di Alcyone l'io si fonde con la natura in un'estasi metamorfica; il prefisso pan (tutto, e il dio Pan) indica la dissoluzione sensuale del soggetto nel paesaggio.",
+              "Interventista nella Grande Guerra, compie imprese clamorose (il volo su Vienna); nel 1919-1920 guida l'impresa di Fiume: la sua politica spettacolo anticipa riti e stile del fascismo.",
+              "Maestro della parola: virtuosismo lessicale, musicalità raffinata, recupero di termini rari e preziosi; il verso libero delle Laudi rivoluziona la metrica italiana."
+            ]
+          },
+          {
+            "titolo": "Opere e testi",
+            "punti": [
+              "Il piacere (1889) — primo romanzo: il conte Andrea Sperelli, esteta romano, ultimo discendente d'una razza intellettuale, vive d'arte e di amori fra Elena Muti e Maria Ferres; il ritratto del protagonista mostra anche la critica dell'autore alla falsificazione che l'estetismo produce nella vita morale.",
+              "Canto novo (1882) — raccolta giovanile di vitalismo solare; in O falce di luna calante la luna che declina sul mare addormentato crea un notturno musicale di pura suggestione sensuale.",
+              "La sera fiesolana (Alcyone, 1899) — le lodi della sera sulle colline di Firenze, con la struttura della lauda francescana: la sera è donna dalle perle in fronte e ogni strofa si chiude con un ritornello di lode.",
+              "La pioggia nel pineto (Alcyone, 1902) — capolavoro del panismo: la pioggia estiva nella pineta della Versilia trasforma Ermione e il poeta in creature vegetali; l'onomatopea e la sinfonia verbale realizzano la fusione totale fra uomo e natura.",
+              "Alcyone è il terzo libro delle Laudi (Maia, Elettra, Alcyone): diario lirico di un'estate in Versilia, la stagione della tregua dal superomismo e della grazia panica.",
+              "Il teatro (La figlia di Iorio) e il Notturno (1916-1921), scritto quasi cieco su striscioline di carta, mostrano l'ultimo D'Annunzio, frammentario e memoriale."
+            ]
+          }
+        ],
+        "collegamenti": [
+          {
+            "materia": "inglese",
+            "testo": "Andrea Sperelli e Dorian Gray sono i due grandi esteti del romanzo decadente europeo: entrambi mostrano il fallimento morale del progetto di fare della vita un'opera d'arte."
+          },
+          {
+            "materia": "arte",
+            "testo": "Il Vittoriale degli Italiani, la casa-museo di D'Annunzio sul Garda, è la traduzione architettonica dell'estetismo: la vita interamente trasformata in scenografia d'arte; affinità con il gusto liberty e simbolista."
+          },
+          {
+            "materia": "scienze-umane",
+            "testo": "D'Annunzio inventa la politica di massa come spettacolo (discorsi, riti, simboli a Fiume): un caso esemplare per lo studio del carisma e della comunicazione politica moderna."
+          },
+          {
+            "materia": "italiano",
+            "testo": "Il superuomo dannunziano e l'inetto di Svevo sono figure speculari e opposte della crisi del soggetto: potenziamento immaginario dell'io contro la sua dissoluzione analitica."
+          }
+        ]
+      }
+    },
+    {
+      "id": "avanguardie",
+      "titolo": "La coscienza della modernità: crepuscolari, vociani, futuristi",
+      "area": "Primo Novecento",
+      "priorita": 2,
+      "scheda": {
+        "sintesi": "Nel primo Novecento la poesia italiana vive una stagione di rottura: i crepuscolari smontano dall'interno la figura del poeta vate, i vociani sperimentano il frammento autobiografico, i futuristi di Marinetti proclamano la distruzione della sintassi e il mito della macchina. È la coscienza della modernità che frantuma la tradizione lirica.",
+        "sezioni": [
+          {
+            "titolo": "I crepuscolari",
+            "punti": [
+              "Il termine crepuscolare è coniato dal critico Borgese (1910) per indicare una poesia in tono minore, di smorzato crepuscolo dopo i tramonti gloriosi di Carducci, Pascoli e D'Annunzio.",
+              "Temi: le piccole cose di pessimo gusto (Gozzano), gli interni borghesi, le suore, gli organetti, i giardini malinconici; il poeta si vergogna di essere poeta.",
+              "Sergio Corazzini (Desolazione del povero poeta sentimentale) dichiara: io non sono un poeta, sono soltanto un piccolo fanciullo che piange.",
+              "Guido Gozzano, il maggiore, attraversa D'Annunzio con ironia (La signorina Felicita): rima austeri-gaultieri, distanza ironica dall'io lirico, linguaggio colloquiale dentro forme tradizionali.",
+              "Il crepuscolarismo è la prima liquidazione del ruolo sociale del poeta: prepara la poesia antieroica e quotidiana del Novecento."
+            ]
+          },
+          {
+            "titolo": "Futuristi e vociani",
+            "punti": [
+              "Filippo Tommaso Marinetti pubblica il Manifesto del Futurismo su Le Figaro il 20 febbraio 1909: esaltazione della velocità, della macchina, della guerra sola igiene del mondo, disprezzo per musei e biblioteche.",
+              "Un automobile da corsa è più bello della Vittoria di Samotracia: il mito della modernità tecnica contro il culto del passato.",
+              "Il Manifesto tecnico della letteratura futurista (1912) prescrive le parole in libertà: abolizione di sintassi, punteggiatura, aggettivo e avverbio; verbi all'infinito, analogie ardite, immaginazione senza fili.",
+              "Il Futurismo è la prima avanguardia storica organizzata: serate-spettacolo, manifesti, interventismo politico; influenza arte, teatro e pubblicità (Zang Tumb Tumb di Marinetti, paroliberismo).",
+              "I vociani, raccolti attorno alla rivista fiorentina La Voce (1908-1916, diretta da Prezzolini), praticano il frammento lirico e l'autobiografia in versi e prosa: Rebora, Campana (Canti Orfici), Sbarbaro.",
+              "Le riviste fiorentine (Leonardo, La Voce, Lacerba) sono il laboratorio della cultura militante del primo Novecento, fra idealismo, sperimentazione e interventismo."
+            ]
+          }
+        ],
+        "collegamenti": [
+          {
+            "materia": "arte",
+            "testo": "Il Futurismo è anche e soprattutto avanguardia artistica: Boccioni (La città che sale, Forme uniche della continuità nello spazio), Balla e Carrà traducono in pittura e scultura il dinamismo e la simultaneità."
+          },
+          {
+            "materia": "scienze-umane",
+            "testo": "L'esaltazione futurista della velocità e della folla urbana riflette la nuova esperienza metropolitana studiata dalla sociologia di Simmel: la metropoli trasforma la vita psichica dell'individuo."
+          },
+          {
+            "materia": "inglese",
+            "testo": "Le avanguardie e il modernismo anglosassone (Joyce, Eliot, Woolf) condividono la rottura delle forme tradizionali per dire la frammentazione dell'esperienza moderna."
+          }
+        ]
+      }
+    },
+    {
+      "id": "romanzo-novecento",
+      "titolo": "Il crollo delle certezze: la narrativa del primo Novecento",
+      "area": "Primo Novecento",
+      "priorita": 3,
+      "scheda": {
+        "sintesi": "Fra Ottocento e Novecento crollano le certezze del Positivismo: la relatività di Einstein, la psicoanalisi di Freud, le filosofie di Nietzsche e Bergson rivelano un mondo senza fondamenti stabili. Il romanzo risponde dissolvendo trama, tempo lineare e personaggio: nasce il romanzo della crisi, di cui Svevo e Pirandello sono i maestri italiani.",
+        "sezioni": [
+          {
+            "titolo": "Concetti chiave",
+            "punti": [
+              "La crisi del Positivismo: la scienza stessa (relatività, fisica dei quanti) mostra che la realtà non è oggettiva e misurabile in assoluto; la fiducia nel progresso vacilla e crolla con la Grande Guerra.",
+              "Freud e la psicoanalisi: l'io non è padrone in casa propria; l'inconscio, i sogni, i lapsus e le nevrosi diventano materia narrativa e strumenti di indagine del personaggio.",
+              "Nietzsche annuncia la morte di Dio e la crisi di tutti i valori; Bergson distingue il tempo della scienza dal tempo interiore della coscienza (durata), che il romanzo nuovo cerca di rendere.",
+              "Il romanzo del Novecento abbandona il narratore onnisciente e la trama ordinata: monologo interiore e flusso di coscienza (Joyce, Woolf), tempo soggettivo e memoria involontaria (Proust), allegoria dell'assurdo (Kafka).",
+              "Il personaggio si dissolve: non più eroe che agisce, ma inetto, uomo senza qualità, coscienza malata che si osserva; l'identità diventa problema e non dato.",
+              "In Italia la crisi del romanzo naturalista produce La coscienza di Zeno e Il fu Mattia Pascal: narratori inattendibili, ordine non cronologico, ironia sulla possibilità stessa di raccontare la verità."
+            ]
+          }
+        ],
+        "collegamenti": [
+          {
+            "materia": "scienze-umane",
+            "testo": "La psicoanalisi freudiana, oggetto di studio in scienze umane, fornisce al romanzo novecentesco la mappa dell'inconscio: Svevo la usa e insieme la parodia nella Coscienza di Zeno."
+          },
+          {
+            "materia": "inglese",
+            "testo": "Il modernismo inglese (Joyce, Woolf, Eliot) è il parallelo diretto: lo stream of consciousness e la frantumazione del tempo narrativo corrispondono alle innovazioni di Svevo e Pirandello."
+          },
+          {
+            "materia": "arte",
+            "testo": "Le avanguardie figurative (cubismo, espressionismo, surrealismo) scompongono la prospettiva unica come il romanzo scompone il narratore onnisciente: crisi della rappresentazione in tutte le arti."
+          }
+        ]
+      }
+    },
+    {
+      "id": "svevo",
+      "titolo": "Italo Svevo",
+      "area": "Primo Novecento",
+      "priorita": 1,
+      "scheda": {
+        "sintesi": "Italo Svevo, pseudonimo di Ettore Schmitz (Trieste 1861-1928), è il creatore del romanzo psicologico italiano moderno. Impiegato e poi industriale nella Trieste mitteleuropea, nutrito di Schopenhauer, Darwin e Freud, costruisce nei tre romanzi la figura dell'inetto, fino al capolavoro della Coscienza di Zeno, dove malattia e salute si rovesciano l'una nell'altra.",
+        "sezioni": [
+          {
+            "titolo": "Idee e poetica",
+            "punti": [
+              "Trieste, città di confine austro-ungarica, commerciale e plurilingue, espone Svevo alla cultura mitteleuropea: Schopenhauer, Nietzsche, Darwin e poi Freud sono i suoi riferimenti più della tradizione letteraria italiana.",
+              "La figura centrale è l'inetto: l'uomo incapace di adattarsi alla lotta per la vita, contemplativo e velleitario; ma l'inettitudine si rivela progressivamente una forma di apertura al possibile.",
+              "Svevo usa la psicoanalisi come strumento narrativo, non come terapia: conosce Freud, ma è scettico sulla guarigione; la scrittura stessa è la vera analisi.",
+              "La salute e la malattia si rovesciano: i sani (Augusta, i borghesi sicuri) vivono di certezze illusorie; il malato Zeno, con la sua coscienza inquieta, è il solo a vedere la verità della condizione moderna.",
+              "Il narratore sveviano è inattendibile: Zeno scrive per giustificarsi e la verità va cercata fra le righe delle sue menzogne e autoinganni; il lettore è chiamato a diffidare.",
+              "Dopo decenni di insuccesso (il caso Svevo), il riconoscimento arriva negli anni Venti grazie a James Joyce, suo insegnante d'inglese a Trieste, e a Eugenio Montale (saggio del 1925)."
+            ]
+          },
+          {
+            "titolo": "Una vita e Senilità",
+            "punti": [
+              "Una vita (1892) — Alfonso Nitti, impiegato di banca intellettuale e velleitario, seduce la figlia del padrone ma fugge davanti alle conseguenze e si suicida: primo ritratto dell'inetto.",
+              "Nel brano dell'autoritratto, la lettera di Alfonso alla madre rivela il contrasto fra le ambizioni letterarie e la grigia realtà impiegatizia: il sogno compensativo come fuga dalla vita.",
+              "Senilità (1898) — Emilio Brentani, trentacinquenne già spento (senile per rinuncia, non per età), vive una relazione con la popolana Angiolina che idealizza contro ogni evidenza.",
+              "Il quadrilatero dei personaggi: Emilio l'inetto, l'amico Balli artista vitale, la sorella Amalia sacrificata, Angiolina vitale e infedele; la colpa di Emilio è coinvolgere e distruggere Amalia, che muore consumata dall'etere e dal sogno d'amore negato.",
+              "In Senilità Svevo perfeziona l'analisi spietata degli autoinganni: Emilio si racconta nobile e onesto mentre agisce per egoismo; il narratore in terza persona smaschera costantemente il personaggio."
+            ]
+          },
+          {
+            "titolo": "La coscienza di Zeno",
+            "punti": [
+              "La coscienza di Zeno (1923) abbandona il narratore in terza persona: Zeno Cosini scrive la propria autobiografia su invito dello psicoanalista, e il romanzo è organizzato per temi (il fumo, la morte del padre, il matrimonio, la moglie e l'amante, l'associazione commerciale), non in ordine cronologico.",
+              "La Prefazione del dottor S. apre il romanzo: lo psicoanalista, per vendetta contro il paziente che ha interrotto la cura, pubblica le sue memorie avvertendo che sono piene di verità e bugie; il lettore è subito messo in guardia sull'inattendibilità del narratore.",
+              "L'ultima sigaretta: i propositi di smettere di fumare, con le date solenni scritte ovunque, si rovesciano nel piacere della ricaduta; l'U.S. diventa il simbolo della volontà malata e dell'autoinganno, ma anche della vita come continua riproposta.",
+              "Lo schiaffo in punto di morte: il padre morente colpisce Zeno con un gesto che resta per sempre ambiguo, castigo o spasmo involontario; il capitolo mette in scena il senso di colpa edipico e l'impossibilità di interpretare definitivamente i fatti.",
+              "Il finale apocalittico: Zeno si proclama guarito dal commercio, non dalla psicoanalisi, ma la guarigione è ironica; la vita stessa è malattia e una catastrofe inaudita, un ordigno che riporterà la Terra a forma di nebulosa, chiude profeticamente il romanzo.",
+              "Il tempo del romanzo è il tempo misto della coscienza: presente della scrittura e passato rivissuto si confondono; Svevo realizza in italiano il romanzo modernista europeo."
+            ]
+          }
+        ],
+        "collegamenti": [
+          {
+            "materia": "scienze-umane",
+            "testo": "La coscienza di Zeno è un dialogo critico con la psicoanalisi di Freud: lapsus, atti mancati e rimozione diventano struttura narrativa, ma la terapia è rovesciata in ironia."
+          },
+          {
+            "materia": "inglese",
+            "testo": "James Joyce, amico e sostenitore di Svevo a Trieste, ne promosse il successo europeo: la coppia Zeno-Ulysses rappresenta il vertice del modernismo nelle due letterature."
+          },
+          {
+            "materia": "italiano",
+            "testo": "L'inetto sveviano e il forestiere della vita pirandelliano sono due diagnosi parallele della crisi d'identità novecentesca: confronto canonico per il colloquio."
+          },
+          {
+            "materia": "arte",
+            "testo": "La Trieste mitteleuropea di Svevo appartiene alla stessa civiltà della Vienna di Freud e Klimt: la crisi del soggetto attraversa psicoanalisi, pittura della Secessione e romanzo."
+          }
+        ]
+      }
+    },
+    {
+      "id": "pirandello",
+      "titolo": "Luigi Pirandello",
+      "area": "Primo Novecento",
+      "priorita": 1,
+      "scheda": {
+        "sintesi": "Luigi Pirandello (Agrigento 1867 - Roma 1936), premio Nobel 1934, rivoluziona narrativa e teatro con la poetica dell'umorismo: la vita è un flusso continuo che le forme e le maschere sociali imprigionano. Dalla crisi d'identità di Mattia Pascal alla follia lucida di Enrico IV, la sua opera smonta l'illusione di un io unitario.",
+        "sezioni": [
+          {
+            "titolo": "Idee e poetica",
+            "punti": [
+              "Il contrasto vita-forma è il nucleo del pensiero pirandelliano: la vita è flusso continuo e incandescente, ma per vivere in società ci fissiamo in forme (nome, ruoli, istituzioni) che ci imprigionano come maschere.",
+              "Ognuno porta una maschera: per gli altri siamo uno, nessuno e centomila; chi si accorge della maschera può soffrirne, ribellarsi o salvarsi nella follia e nell'umorismo.",
+              "L'umorismo (saggio del 1908): l'arte umoristica nasce dal sentimento del contrario; mentre la comicità è il semplice avvertimento del contrario (la vecchia imbellettata fa ridere), la riflessione scopre il dolore dietro il ridicolo e il riso si fa compassione.",
+              "L'umorismo scompone: l'arte umoristica rinuncia alla costruzione armonica e mostra le contraddizioni dell'esistenza, mescolando tragico e comico.",
+              "Il relativismo conoscitivo: non esiste una verità oggettiva, ma tante verità quanti sono i punti di vista (Così è, se vi pare); la comunicazione autentica è impossibile.",
+              "La lanterninosofia (Il fu Mattia Pascal): gli uomini vedono il mondo alla luce del proprio lanternino di convinzioni; i grandi lanterni (le ideologie, le fedi) si spengono nelle epoche di crisi, lasciando il buio.",
+              "Vicenda biografica segnata dal dissesto della zolfara paterna e dalla follia della moglie Antonietta: l'esperienza diretta della maschera e della prigione familiare."
+            ]
+          },
+          {
+            "titolo": "Narrativa",
+            "punti": [
+              "Il fu Mattia Pascal (1904) — creduto morto, Mattia si inventa una nuova vita come Adriano Meis, ma scopre che senza forma sociale (documenti, stato civile) non si può vivere: né Mattia né Adriano, resta il fu Mattia Pascal, escluso da ogni identità.",
+              "Lo strappo nel cielo di carta: il dialogo con Anselmo Paleari sul teatrino delle marionette; se nel cielo di carta del teatrino si facesse uno strappo, Oreste diventerebbe Amleto; la tragedia antica aveva certezze, l'uomo moderno vede lo strappo e ne è paralizzato.",
+              "Uno, nessuno e centomila (1926) — Vitangelo Moscarda, partito dalla scoperta che il suo naso pende, capisce di essere centomila per gli altri e nessuno per sé: si spoglia di tutto e si dissolve panteisticamente nella vita che muore e rinasce attimo per attimo.",
+              "La carriola (Novelle per un anno) — un avvocato stimato, prigioniero della sua forma, si concede ogni giorno un atto di follia segreta: far fare la carriola alla cagnetta; piccola valvola che rivela l'assurdo della vita-forma.",
+              "Tu ridi (Novelle per un anno) — il signor Anselmo ride nel sonno, e la moglie lo sveglia con astio; il riso notturno, che pare felicità, nasconde sogni umilianti: il sentimento del contrario in atto.",
+              "Le Novelle per un anno (raccolta di circa 250 novelle) sono il laboratorio pirandelliano: casi umani paradossali in cui la maschera si incrina e la vita irrompe."
+            ]
+          },
+          {
+            "titolo": "Il teatro",
+            "punti": [
+              "Il teatro pirandelliano attraversa tre fasi: teatro siciliano-verista, teatro umoristico borghese, e il teatro nel teatro che smonta la finzione scenica (Sei personaggi in cerca d'autore, 1921).",
+              "Enrico IV (1922) — un uomo, caduto da cavallo durante una mascherata, ha creduto per dodici anni di essere l'imperatore Enrico IV; rinsavito, sceglie di continuare a fingersi pazzo.",
+              "Quando, provocato, uccide il rivale Belcredi, la finzione diventa condanna definitiva: dovrà restare folle per sempre; la maschera della pazzia è insieme rifugio dalla vita e prigione.",
+              "Enrico IV è la tragedia della forma: il protagonista, fissato in un'immagine fuori dal tempo, guarda con lucidità feroce gli altri che invecchiano nelle loro maschere senza saperlo.",
+              "Con i Sei personaggi e il metateatro Pirandello porta sulla scena l'impossibilità di rappresentare la verità: i personaggi rifiutano gli attori che li falsificano.",
+              "Premio Nobel per la letteratura nel 1934 per il rinnovamento audace e ingegnoso dell'arte drammatica e scenica."
+            ]
+          }
+        ],
+        "collegamenti": [
+          {
+            "materia": "scienze-umane",
+            "testo": "La maschera pirandelliana anticipa la sociologia dei ruoli di Goffman (La vita quotidiana come rappresentazione): l'identità come recita sociale è un ponte diretto fra letteratura e scienze umane."
+          },
+          {
+            "materia": "italiano",
+            "testo": "Zeno e Mattia Pascal: due narratori che raccontano la propria vita senza poterla padroneggiare; la coppia Svevo-Pirandello definisce il romanzo italiano della crisi."
+          },
+          {
+            "materia": "inglese",
+            "testo": "Il relativismo pirandelliano e il metateatro dialogano con il modernismo europeo e anticipano il teatro dell'assurdo; il tema della maschera richiama il doppio di Dorian Gray."
+          },
+          {
+            "materia": "arte",
+            "testo": "La scomposizione pirandelliana dell'identità ha il suo parallelo visivo nella scomposizione cubista del volto e nella pittura metafisica: la realtà come costruzione di punti di vista."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ermetismo",
+      "titolo": "L'Ermetismo e la poesia fra le due guerre",
+      "area": "Primo Novecento",
+      "priorita": 2,
+      "scheda": {
+        "sintesi": "Fra le due guerre la lirica italiana, sotto il fascismo, si raccoglie in una poesia pura, scarna e oscura che la critica chiama Ermetismo: la parola, scavata fino all'essenziale, allude senza dichiarare. Firenze ne è il centro, Quasimodo e il primo Luzi i protagonisti, mentre Ungaretti ne è il padre riconosciuto e Montale un interlocutore autonomo.",
+        "sezioni": [
+          {
+            "titolo": "Concetti chiave",
+            "punti": [
+              "Il termine ermetico viene dal saggio critico di Francesco Flora (1936) e allude a Ermete Trismegisto, simbolo dei saperi occulti: indica una poesia volutamente oscura e chiusa.",
+              "Caratteri formali: analogia senza termini di paragone espliciti, abolizione della punteggiatura e dei nessi logici, parola isolata nel bianco della pagina, brevità e densità.",
+              "La poetica della parola pura discende dal Simbolismo francese (Mallarmé, Valéry) attraverso Ungaretti: la poesia non descrive né narra, ma illumina folgorazioni dell'essere.",
+              "Il contesto è il fascismo: l'oscurità ermetica è anche una forma di riserbo e di resistenza passiva, il rifiuto della retorica di regime attraverso il silenzio e l'assoluto.",
+              "Centro dell'Ermetismo è Firenze (riviste come Frontespizio e Campo di Marte; il critico Carlo Bo con Letteratura come vita, 1938): la letteratura come esperienza totale ed esistenziale.",
+              "Salvatore Quasimodo (Nobel 1959) è l'ermetico più noto: Ed è subito sera condensa in tre versi la solitudine dell'uomo; dopo la guerra passerà a una poesia civile e di impegno (Alle fronde dei salici).",
+              "Ungaretti e Montale non sono ermetici in senso stretto: il primo ne è il precursore con L'allegria, il secondo sviluppa una propria linea di poesia delle cose e del negativo."
+            ]
+          }
+        ],
+        "collegamenti": [
+          {
+            "materia": "italiano",
+            "testo": "La linea della poesia pura va da Mallarmé attraverso Ungaretti fino agli ermetici fiorentini: utile costruire al colloquio la genealogia simbolismo-Ungaretti-Ermetismo."
+          },
+          {
+            "materia": "arte",
+            "testo": "L'essenzialità ermetica ha paralleli nell'arte fra le due guerre: l'astrazione e la riduzione ai valori puri della forma rispondono alla stessa esigenza di assoluto."
+          },
+          {
+            "materia": "scienze-umane",
+            "testo": "Il ripiegamento interiore della poesia sotto il fascismo è un caso di rapporto fra intellettuali e potere totalitario: consenso, silenzio e resistenza culturale."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ungaretti",
+      "titolo": "Giuseppe Ungaretti",
+      "area": "Primo Novecento",
+      "priorita": 1,
+      "scheda": {
+        "sintesi": "Giuseppe Ungaretti (Alessandria d'Egitto 1888 - Milano 1970) rivoluziona la lirica italiana con L'allegria: dalle trincee del Carso nascono versi brevissimi, parole scavate nell'abisso che dicono la precarietà e l'attaccamento alla vita. Con Sentimento del tempo recupera la tradizione e apre la strada all'Ermetismo, di cui è considerato il padre.",
+        "sezioni": [
+          {
+            "titolo": "Poetica",
+            "punti": [
+              "Nato ad Alessandria d'Egitto da genitori lucchesi, si forma a Parigi a contatto con le avanguardie (Apollinaire); nel 1915 si arruola volontario e combatte sul Carso: l'esperienza della trincea fonda la sua poesia.",
+              "La poetica della parola: la parola, isolata dal verso tradizionale e immersa nel silenzio dello spazio bianco, recupera la sua intensità originaria; quando trovo in questo mio silenzio una parola, scavata è nella mia vita come un abisso (Commiato).",
+              "La rivoluzione formale dell'Allegria: abolizione della punteggiatura, versi anche di una sola parola, frantumazione del metro; ogni testo porta data e luogo come un diario di guerra.",
+              "Il titolo L'allegria (prima Allegria di naufragi) è ossimorico: l'esultanza di un attimo di vita strappato alla morte onnipresente; la guerra rivela la fragilità e insieme il valore assoluto della vita.",
+              "Con Sentimento del tempo (1933) Ungaretti recupera la metrica e la sintassi della tradizione (Petrarca, Leopardi, il barocco romano): è la fase del ritorno all'ordine, di tono religioso e meditativo.",
+              "Il dolore (1947) piange la morte del figlio Antonietto e la tragedia della guerra: l'ultima stagione, di nuovo scarnificata dal lutto."
+            ]
+          },
+          {
+            "titolo": "Testi",
+            "punti": [
+              "Veglia (Cima Quattro, 23 dicembre 1915) — un'intera nottata buttato vicino a un compagno massacrato: la vicinanza fisica della morte genera un attaccamento feroce alla vita (non sono mai stato tanto attaccato alla vita).",
+              "Fratelli (Mariano, 1916) — la parola fratelli, scambiata fra soldati nella notte, è foglia appena nata: fragilissima e involontaria rivolta dell'uomo presente alla sua fragilità; la fraternità nasce dalla condivisione della precarietà.",
+              "San Martino del Carso (1916) — del paese bombardato non è rimasto neppure tanto dei muri; ma nel cuore del poeta non manca nessuna croce: il cuore come il paese più straziato, cimitero della memoria.",
+              "Soldati (Bosco di Courton, 1918) — quattro versi, una sola similitudine: si sta come d'autunno sugli alberi le foglie; la condizione del soldato, e dell'uomo, è precarietà assoluta.",
+              "La madre (Sentimento del tempo) — la madre morta attende il figlio davanti a Dio per intercedere, come tante altre volte in vita; solo quando il perdono sarà concesso oserà guardarlo: poesia della fede e del legame oltre la morte.",
+              "L'allegria nel suo insieme è un diario di guerra e insieme un itinerario di scoperta: il naufragio universale e l'attimo di salvezza, l'uomo di pena che cerca un paese innocente."
+            ]
+          }
+        ],
+        "collegamenti": [
+          {
+            "materia": "inglese",
+            "testo": "I war poets inglesi (Owen, Sassoon, Brooke) scrivono dalle stesse trincee: il confronto fra Veglia e Dulce et Decorum Est di Owen mostra due modi di dire l'orrore della Grande Guerra."
+          },
+          {
+            "materia": "arte",
+            "testo": "La scomposizione del verso ungarettiano nasce a contatto con le avanguardie parigine: i calligrammi di Apollinaire e la frantumazione cubista della forma sono il contesto visivo dell'Allegria."
+          },
+          {
+            "materia": "scienze-umane",
+            "testo": "L'esperienza della trincea come trauma collettivo e la fraternità fra soldati toccano i temi della psicologia del trauma e della costruzione del legame sociale nelle situazioni estreme."
+          },
+          {
+            "materia": "italiano",
+            "testo": "Da Ungaretti discende l'Ermetismo: la parola pura e l'analogia dell'Allegria diventano programma di scuola per Quasimodo e i poeti fiorentini degli anni Trenta."
+          }
+        ]
+      }
+    },
+    {
+      "id": "montale",
+      "titolo": "Eugenio Montale",
+      "area": "Primo Novecento",
+      "priorita": 1,
+      "scheda": {
+        "sintesi": "Eugenio Montale (Genova 1896 - Milano 1981), premio Nobel 1975, è il maggior poeta italiano del Novecento. Dagli Ossi di seppia, poesia del male di vivere e del paesaggio ligure, attraverso il correlativo oggettivo e la poetica del negativo, fino all'ironia prosastica di Satura, la sua opera attraversa e giudica un intero secolo.",
+        "sezioni": [
+          {
+            "titolo": "Poetica",
+            "punti": [
+              "Montale parte da una dichiarazione di impotenza conoscitiva: la poesia non può dare formule che mondi possano aprire, ma solo qualche storta sillaba e secca come un ramo, ciò che non siamo, ciò che non vogliamo (Non chiederci la parola).",
+              "Il male di vivere è la condizione costante dell'esistenza: la poesia lo registra attraverso oggetti e paesaggi, senza consolazioni religiose o ideologiche; resta la divina Indifferenza come unico bene.",
+              "Il correlativo oggettivo (termine ripreso da Eliot): emozioni e idee non si dichiarano ma si incarnano in oggetti concreti e precisi, il rivo strozzato, la foglia riarsa, il cavallo stramazzato.",
+              "Il varco è la possibilità, rara e forse illusoria, di uscire dalla prigione dell'esistenza: l'anello che non tiene, la maglia rotta nella rete; la poesia montaliana è attesa vigile del miracolo laico.",
+              "Le donne della poesia montaliana sono figure salvifiche: Clizia (Irma Brandeis) nelle Occasioni e nella Bufera è messaggera quasi angelica di valori contro la barbarie; Mosca (la moglie Drusilla Tanzi) in Satura è la compagna della memoria quotidiana.",
+              "Con Satura (1971) Montale cambia registro: tono basso, ironico, epigrammatico; la poesia si fa diario e polemica contro la società di massa, smontando anche il proprio passato lirico.",
+              "Antifascista, firmatario del manifesto Croce, perde il posto al Gabinetto Vieusseux per non aver preso la tessera; Nobel nel 1975 per la sua poetica distintiva che ha interpretato i valori umani sotto il segno di una visione della vita priva di illusioni."
+            ]
+          },
+          {
+            "titolo": "Testi",
+            "punti": [
+              "I limoni (Ossi di seppia, 1925) — manifesto antidannunziano: i poeti laureati si muovono fra piante dai nomi rari, Montale sceglie le strade che riescono agli erbosi fossi e gli alberi dei limoni; nella semplicità si attende lo sbaglio di Natura, il punto morto del mondo che riveli una verità.",
+              "Meriggiare pallido e assorto (1916) — il meriggio assolato presso un muro d'orto: schiocchi di merli, frusci di serpi, formiche; la conclusione scopre l'allegoria: tutta la vita e il suo travaglio è seguitare una muraglia che ha in cima cocci aguzzi di bottiglia.",
+              "Spesso il male di vivere ho incontrato (Ossi di seppia) — il male di vivere si manifesta in tre correlativi oggettivi (rivo strozzato che gorgoglia, foglia riarsa, cavallo stramazzato); unico bene il prodigio della divina Indifferenza, la statua, la nuvola, il falco alto levato.",
+              "Ho sceso, dandoti il braccio, almeno un milione di scale (Satura, Xenia II) — dedicata alla moglie Mosca dopo la sua morte: la miopia di lei vedeva più chiaro delle pupille del poeta; il lungo viaggio coniugale continua nel vuoto delle scale; capolavoro di poesia coniugale, colloquiale e struggente.",
+              "Ossi di seppia (1925): il titolo indica i resti calcinati che il mare deposita sulla riva, relitti essenziali dell'esistenza; il paesaggio ligure, scabro ed essenziale, è il correlativo della condizione umana.",
+              "Le raccolte successive: Le occasioni (1939), La bufera e altro (1956) con la guerra e Clizia, poi la svolta di Satura (1971) e i diari finali."
+            ]
+          }
+        ],
+        "collegamenti": [
+          {
+            "materia": "inglese",
+            "testo": "Il correlativo oggettivo viene da T.S. Eliot, che Montale legge e traduce: il confronto con The Waste Land mostra la comune poetica modernista dell'aridità e del frammento."
+          },
+          {
+            "materia": "italiano",
+            "testo": "Montale dialoga a distanza con Leopardi: il male di vivere riprende il pessimismo cosmico, ma senza la fiducia leopardiana nella solidarietà della Ginestra; e rovescia D'Annunzio nei Limoni."
+          },
+          {
+            "materia": "scienze-umane",
+            "testo": "La polemica di Satura contro la società di massa e i nuovi linguaggi mediatici incrocia la riflessione sociologica del Novecento sull'industria culturale."
+          },
+          {
+            "materia": "arte",
+            "testo": "Il paesaggio scabro e antiretorico degli Ossi di seppia ha affinità con la pittura metafisica e con il ritorno all'ordine degli anni Venti: oggetti nitidi carichi di enigma."
+          }
+        ]
+      }
+    },
+    {
+      "id": "paradiso-struttura",
+      "titolo": "Il Paradiso: caratteri del poema e struttura della cantica",
+      "area": "Paradiso",
+      "priorita": 1,
+      "scheda": {
+        "sintesi": "Il Paradiso è la terza cantica della Commedia: Dante, guidato da Beatrice e infine da san Bernardo, sale attraverso i nove cieli fino all'Empireo e alla visione di Dio. È la cantica della luce, della beatitudine e dell'ineffabile: la poesia deve dire ciò che oltrepassa la memoria e il linguaggio umano.",
+        "sezioni": [
+          {
+            "titolo": "Caratteri del poema",
+            "punti": [
+              "La Commedia (composta circa 1306-1321) è il poema del viaggio di Dante nei tre regni ultraterreni: smarrito nella selva del peccato, l'autore-personaggio compie un itinerario di purificazione che è figura del cammino di ogni uomo verso Dio.",
+              "Il titolo Commedia indica lo stile medio e il lieto fine, dal male iniziale alla salvezza; l'aggettivo divina fu aggiunto dalla tradizione (Boccaccio) e dall'edizione del 1555.",
+              "La struttura è dominata dal numero: tre cantiche, cento canti (34+33+33), terzine incatenate di endecasillabi; il tre rimanda alla Trinità, il numero perfetto ordina l'intero edificio.",
+              "Il poema va letto secondo i quattro sensi della scrittura (letterale, allegorico, morale, anagogico): Dante stesso lo dichiara nell'Epistola a Cangrande, dove definisce il fine dell'opera: rimuovere i viventi dallo stato di miseria e condurli alla felicità.",
+              "Dante è insieme personaggio che vive il viaggio e poeta che lo racconta: questa doppia prospettiva genera la tensione drammatica e morale del poema.",
+              "Il plurilinguismo dantesco spazia dal registro più aspro dell'Inferno alla lingua sublime e tecnica del Paradiso, dove Dante conia neologismi (trasumanar, indiarsi, inluiarsi) per dire l'indicibile."
+            ]
+          },
+          {
+            "titolo": "Struttura della terza cantica",
+            "punti": [
+              "Il Paradiso segue la cosmologia tolemaico-aristotelica: nove cieli concentrici ruotano attorno alla Terra (Luna, Mercurio, Venere, Sole, Marte, Giove, Saturno, Stelle fisse, Primo Mobile), oltre i quali sta l'Empireo, sede immobile di Dio e dei beati.",
+              "I beati appaiono a Dante nei vari cieli secondo il tipo della loro beatitudine (spiriti difettivi, attivi, amanti, sapienti, combattenti, giusti, contemplanti), ma tutti hanno in realtà sede nell'Empireo, nella candida rosa.",
+              "Tutti i beati godono di Dio in misura diversa ma senza invidia: la beatitudine è adesione perfetta alla volontà divina (e 'n la sua volontade è nostra pace, Par. III).",
+              "Le guide: Beatrice, allegoria della teologia e della grazia, accompagna Dante dal Paradiso terrestre al cielo delle Stelle fisse; san Bernardo di Chiaravalle, maestro di contemplazione mistica, lo guida nell'Empireo verso la visione finale.",
+              "Il tema dell'ineffabilità attraversa la cantica: la memoria e la lingua non possono contenere la visione (l'esperienza che trasumanar significar per verba non si poria); la poesia procede per luce, musica e similitudini.",
+              "Il Paradiso è anche cantica politica e profetica: dal cielo Dante giudica la corruzione della Chiesa e dell'Italia, e riceve da Cacciaguida la missione di riferire al mondo tutta la sua visione."
+            ]
+          }
+        ],
+        "collegamenti": [
+          {
+            "materia": "arte",
+            "testo": "Le illustrazioni della Commedia, dalle miniature medievali a Botticelli fino a Gustave Doré, mostrano la sfida di rappresentare visivamente la luce del Paradiso."
+          },
+          {
+            "materia": "scienze-umane",
+            "testo": "La cosmologia ordinata del Paradiso riflette la visione gerarchica della società medievale: utile il confronto con la concezione moderna, disincantata, dell'universo e dell'ordine sociale."
+          },
+          {
+            "materia": "italiano",
+            "testo": "L'ineffabile dantesco si può confrontare con la sfiducia novecentesca nella parola: dove Dante forza il linguaggio per dire Dio, Montale dichiara che la parola può dire solo ciò che non siamo."
+          }
+        ]
+      }
+    },
+    {
+      "id": "paradiso-canti",
+      "titolo": "Paradiso: canti I, III, VI, XI, XV, XXXIII",
+      "area": "Paradiso",
+      "priorita": 1,
+      "scheda": {
+        "sintesi": "I sei canti in programma scandiscono l'itinerario della cantica: il proemio e il trasumanar (I), la dolcezza di Piccarda (III), la storia provvidenziale dell'impero con Giustiniano (VI), la lode di san Francesco (XI), l'incontro con l'avo Cacciaguida (XV) e la visione finale di Dio con la preghiera alla Vergine (XXXIII).",
+        "sezioni": [
+          {
+            "titolo": "Canti I, III, VI",
+            "punti": [
+              "Canto I — proemio della cantica: la gloria di colui che tutto move penetra e risplende in tutto l'universo; Dante invoca Apollo, non più solo le Muse, perché l'impresa è sovrumana.",
+              "Canto I — il trasumanar: fissando Beatrice che guarda il sole, Dante si trasforma oltre l'umano come Glauco; significar per verba non si poria: prima dichiarazione di ineffabilità; Beatrice spiega l'ordine dell'universo, in cui ogni creatura tende al suo luogo proprio come il fuoco verso l'alto.",
+              "Canto III — nel cielo della Luna appaiono, evanescenti come riflessi, gli spiriti che mancarono ai voti; Piccarda Donati, sorella di Forese, strappata a forza dal convento, spiega la perfetta letizia dei beati.",
+              "Canto III — e 'n la sua volontade è nostra pace: la beatitudine consiste nel volere ciò che Dio vuole; ogni grado di gloria è pienezza, perché la carità esclude l'invidia; accanto a Piccarda, l'imperatrice Costanza d'Altavilla.",
+              "Canto VI — unico canto della Commedia interamente pronunciato da un solo personaggio: l'imperatore Giustiniano, nel cielo di Mercurio, ripercorre la storia dell'aquila imperiale da Enea a Carlo Magno.",
+              "Canto VI — la storia di Roma è provvidenziale: l'impero preparò la redenzione (sotto Tiberio l'aquila compì la vendetta del peccato originale con la crocifissione); Giustiniano condanna sia i ghibellini, che si appropriano dell'aquila, sia i guelfi che le oppongono i gigli di Francia; chiude l'esempio di Romeo di Villanova, pellegrino giusto e ingratamente cacciato, figura dello stesso Dante esule."
+            ]
+          },
+          {
+            "titolo": "Canti XI, XV, XXXIII",
+            "punti": [
+              "Canto XI — nel cielo del Sole, fra gli spiriti sapienti, il domenicano san Tommaso d'Aquino narra la vita di san Francesco: per cortesia di paradiso, ciascun ordine loda il fondatore dell'altro.",
+              "Canto XI — le nozze mistiche di Francesco con madonna Povertà, vedova del primo marito Cristo da più di mille anni: Assisi come Oriente da cui nacque al mondo un sole; il canto si chiude con il rimprovero di Tommaso ai domenicani degeneri.",
+              "Canto XV — nel cielo di Marte, dalla croce di luci si stacca come stella cadente l'anima di Cacciaguida, trisavolo di Dante, che lo accoglie come Anchise accolse Enea (O sanguis meus).",
+              "Canto XV — Cacciaguida rievoca la Firenze antica dentro la cerchia antica, sobria e pudica: le donne al fuso e al pennecchio, le famiglie oneste; l'elogio del passato è la condanna della Firenze presente, corrotta dal denaro e dalle nuove genti; Cacciaguida morì crociato, martire, seguendo l'imperatore Corrado III.",
+              "Canto XXXIII — la preghiera di san Bernardo alla Vergine: Vergine madre, figlia del tuo figlio, umile e alta più che creatura; Maria ottiene a Dante la grazia della visione suprema.",
+              "Canto XXXIII — la visione di Dio: nel profondo della luce divina Dante vede legato con amore in un volume ciò che per l'universo si squaderna, poi i tre cerchi della Trinità e il mistero dell'Incarnazione (la nostra effige nel secondo cerchio); la fantasia cede, ma il desiderio e la volontà sono ormai mossi da l'amor che move il sole e l'altre stelle, verso finale del poema."
+            ]
+          },
+          {
+            "titolo": "Temi trasversali dei sei canti",
+            "punti": [
+              "L'ineffabilità cresce di canto in canto: dal trasumanar del proemio al cedimento dell'alta fantasia nel finale; il Paradiso è il poema del limite del linguaggio.",
+              "La politica e la storia restano centrali anche in cielo: l'impero provvidenziale di Giustiniano, la Firenze corrotta vista da Cacciaguida, la decadenza degli ordini religiosi nel canto di Francesco.",
+              "L'autobiografia profetica: attraverso Cacciaguida (canti XV-XVII) Dante riceve la profezia dell'esilio (lo pane altrui, lo scendere e 'l salir per l'altrui scale) e la missione di scrivere tutta la sua visione.",
+              "Le figure femminili scandiscono la cantica: Piccarda apre con la dolcezza della volontà conforme, Maria la chiude come mediatrice della visione; Beatrice è il tramite costante di verità e grazia.",
+              "La luce è la materia stessa del Paradiso: i beati sono luci, i cieli splendori; la poesia procede per intensità luminose crescenti fino al punto divino."
+            ]
+          }
+        ],
+        "collegamenti": [
+          {
+            "materia": "arte",
+            "testo": "Giotto, contemporaneo di Dante, affresca le storie di san Francesco ad Assisi: il confronto con il canto XI mostra la costruzione trecentesca del mito francescano in pittura e in poesia."
+          },
+          {
+            "materia": "scienze-umane",
+            "testo": "La Firenze sobria rimpianta da Cacciaguida e quella corrotta dal denaro pongono il tema sociologico del mutamento sociale e della nostalgia della comunità contro la società mercantile."
+          },
+          {
+            "materia": "italiano",
+            "testo": "Il canto VI del Paradiso si collega ai canti VI delle altre cantiche (Ciacco e Firenze, Sordello e l'Italia serva): la trilogia politica della Commedia, dalla città all'Italia all'impero."
+          },
+          {
+            "materia": "inglese",
+            "testo": "T.S. Eliot, grande lettore di Dante, considera il Paradiso il vertice della poesia europea: la sua lirica modernista riprende immagini dantesche, ponte ideale fra le due letterature."
+          }
+        ]
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "argomento": "romanticismo",
+      "domanda": "Quale evento apre ufficialmente il dibattito fra classicisti e romantici in Italia?",
+      "opzioni": [
+        "La pubblicazione del Conciliatore nel 1818",
+        "L'articolo di Madame de Staël sulla Biblioteca Italiana nel 1816",
+        "La Lettera sul Romanticismo di Manzoni",
+        "La pubblicazione dei Promessi Sposi"
+      ],
+      "corretta": 1,
+      "spiegazione": "Nel 1816 Madame de Staël invita gli italiani a tradurre le letterature straniere: l'articolo scatena la polemica fra classicisti e romantici."
+    },
+    {
+      "argomento": "romanticismo",
+      "domanda": "Nella Lettera semiseria di Grisostomo, Berchet sostiene che la poesia romantica deve rivolgersi:",
+      "opzioni": [
+        "Ai dotti conoscitori dei classici",
+        "Agli ottentotti, ovvero ai più rozzi",
+        "Al popolo, pubblico medio fra i due estremi",
+        "Esclusivamente all'aristocrazia colta"
+      ],
+      "corretta": 2,
+      "spiegazione": "Berchet individua il destinatario della nuova poesia nel popolo, fascia intermedia fra gli ottentotti insensibili e i parigini raffinati."
+    },
+    {
+      "argomento": "manzoni",
+      "domanda": "Nella Lettera sul Romanticismo, Manzoni sintetizza la sua poetica affermando che la letteratura deve avere:",
+      "opzioni": [
+        "L'utile per iscopo, il vero per soggetto, l'interessante per mezzo",
+        "Il bello per iscopo, il sublime per soggetto, il popolo per mezzo",
+        "Il vero per iscopo, l'utile per soggetto, il bello per mezzo",
+        "L'interessante per iscopo, il verosimile per soggetto, l'utile per mezzo"
+      ],
+      "corretta": 0,
+      "spiegazione": "È la celebre formula della lettera a Cesare d'Azeglio (1823): utile, vero e interessante definiscono fine, oggetto e strumento della letteratura."
+    },
+    {
+      "argomento": "manzoni",
+      "domanda": "Nel coro della morte di Ermengarda (Adelchi), la provvida sventura indica:",
+      "opzioni": [
+        "La punizione divina per le colpe dei Longobardi",
+        "Il dolore che purifica gli oppressi e li riscatta dal male terreno",
+        "La fortuna che protegge i potenti",
+        "La vendetta della storia sui vincitori"
+      ],
+      "corretta": 1,
+      "spiegazione": "La sventura è provvida perché colloca Ermengarda fra gli oppressi, purificandola attraverso il dolore e aprendole la via della salvezza."
+    },
+    {
+      "argomento": "manzoni",
+      "domanda": "Quale ode scrisse Manzoni di getto nel 1821 alla notizia della morte di Napoleone?",
+      "opzioni": [
+        "La Pentecoste",
+        "Marzo 1821",
+        "In morte di Carlo Imbonati",
+        "Il cinque maggio"
+      ],
+      "corretta": 3,
+      "spiegazione": "Il cinque maggio (data della morte di Napoleone a Sant'Elena nel 1821) rilegge la parabola napoleonica alla luce della fede e della Provvidenza."
+    },
+    {
+      "argomento": "manzoni",
+      "domanda": "Nel capitolo XXXVIII dei Promessi Sposi, il sugo della storia consiste nel fatto che:",
+      "opzioni": [
+        "I guai colpiscono solo chi se li va a cercare",
+        "La storia premia sempre i giusti e punisce i malvagi",
+        "I guai vengono spesso senza colpa, ma la fiducia in Dio li raddolcisce e li rende utili",
+        "Gli umili devono rassegnarsi perché nulla può cambiare"
+      ],
+      "corretta": 2,
+      "spiegazione": "È la conclusione morale che Renzo e Lucia traggono dalle loro vicende: i mali arrivano anche agli innocenti, ma vissuti con fede diventano occasione di bene."
+    },
+    {
+      "argomento": "manzoni",
+      "domanda": "Cosa si intende con la risciacquatura dei panni in Arno?",
+      "opzioni": [
+        "La revisione linguistica dei Promessi Sposi sul fiorentino vivo per l'edizione del 1840",
+        "La censura austriaca sul romanzo",
+        "L'abbandono del romanzo storico dopo il 1827",
+        "La traduzione del romanzo in dialetto toscano"
+      ],
+      "corretta": 0,
+      "spiegazione": "Manzoni rivide la lingua della ventisettana sul modello del fiorentino colto parlato, producendo l'edizione definitiva del 1840-42."
+    },
+    {
+      "argomento": "leopardi",
+      "domanda": "Secondo la teoria del piacere esposta nello Zibaldone, l'uomo è infelice perché:",
+      "opzioni": [
+        "La società corrompe la sua bontà naturale",
+        "Desidera un piacere infinito che nessun piacere reale può soddisfare",
+        "Dio lo ha condannato al dolore per il peccato",
+        "Non sa godere dei piaceri semplici della vita"
+      ],
+      "corretta": 1,
+      "spiegazione": "Il desiderio di piacere è infinito per estensione e durata, ma i piaceri reali sono sempre finiti: lo scarto genera un'infelicità strutturale."
+    },
+    {
+      "argomento": "leopardi",
+      "domanda": "Il passaggio dal pessimismo storico al pessimismo cosmico comporta che la natura venga vista:",
+      "opzioni": [
+        "Prima come matrigna crudele, poi come madre benigna",
+        "Sempre come forza positiva contro la ragione",
+        "Come specchio della Provvidenza divina",
+        "Prima come madre benigna, poi come matrigna indifferente"
+      ],
+      "corretta": 3,
+      "spiegazione": "Nel pessimismo storico la colpa dell'infelicità è della ragione e della civiltà; in quello cosmico la natura stessa è un meccanismo indifferente che genera dolore."
+    },
+    {
+      "argomento": "leopardi",
+      "domanda": "Ne L'infinito, quale funzione svolge la siepe?",
+      "opzioni": [
+        "Simboleggia la protezione del nido familiare",
+        "Rappresenta la prigione di Recanati da cui fuggire",
+        "Escludendo lo sguardo, attiva l'immaginazione degli spazi infiniti",
+        "È un semplice elemento realistico del paesaggio"
+      ],
+      "corretta": 2,
+      "spiegazione": "Il limite visivo della siepe spinge l'immaginazione a figurarsi interminati spazi e sovrumani silenzi: il finito genera l'idea dell'infinito."
+    },
+    {
+      "argomento": "leopardi",
+      "domanda": "Nel Sabato del villaggio, perché il sabato vale più della domenica?",
+      "opzioni": [
+        "Perché il piacere sta nell'attesa, mentre il possesso porta noia e delusione",
+        "Perché è giorno di mercato e di festa popolare",
+        "Perché la domenica è dedicata al riposo religioso",
+        "Perché ricorda al poeta l'infanzia felice"
+      ],
+      "corretta": 0,
+      "spiegazione": "Applicazione della teoria del piacere: la vigilia, piena di speranza, è il momento più felice; la festa porterà tristezza e noia."
+    },
+    {
+      "argomento": "leopardi",
+      "domanda": "Nella Ginestra, la social catena indica:",
+      "opzioni": [
+        "La schiavitù imposta dai potenti ai popoli",
+        "L'alleanza solidale degli uomini contro la natura nemica",
+        "Il legame provvidenziale fra l'uomo e Dio",
+        "Le convenzioni sociali che opprimono l'individuo"
+      ],
+      "corretta": 1,
+      "spiegazione": "Leopardi propone che gli uomini, riconosciuta la comune fragilità, si uniscano in solidarietà contro la vera nemica, la natura, invece di combattersi."
+    },
+    {
+      "argomento": "italia-unita",
+      "domanda": "Quale corrente filosofica domina la cultura europea e italiana del secondo Ottocento?",
+      "opzioni": [
+        "L'idealismo",
+        "L'esistenzialismo",
+        "Il Positivismo",
+        "Lo spiritualismo"
+      ],
+      "corretta": 2,
+      "spiegazione": "Il Positivismo di Comte, con la fiducia nella scienza e nel progresso, è il quadro filosofico del secondo Ottocento e la base di Naturalismo e Verismo."
+    },
+    {
+      "argomento": "carducci",
+      "domanda": "In Pianto antico, il contrasto centrale è fra:",
+      "opzioni": [
+        "La gloria di Roma e la decadenza presente",
+        "L'amore giovanile e la vecchiaia",
+        "La fede religiosa e il dubbio",
+        "Il melograno che rinverdisce e il figlio morto nella terra negra"
+      ],
+      "corretta": 3,
+      "spiegazione": "La natura che rinasce a primavera si oppone alla morte irreversibile del piccolo Dante: ripresa moderna del lamento funebre classico."
+    },
+    {
+      "argomento": "carducci",
+      "domanda": "Le Odi barbare si chiamano così perché:",
+      "opzioni": [
+        "Riproducono i metri classici con accenti italiani, suonando barbare a orecchie antiche",
+        "Trattano temi delle invasioni barbariche",
+        "Usano un linguaggio volutamente rozzo e popolare",
+        "Imitano i canti dei popoli germanici"
+      ],
+      "corretta": 0,
+      "spiegazione": "Carducci riproduce i metri quantitativi di Orazio con il sistema accentuativo italiano: ai greci e ai romani tali versi sarebbero parsi barbari."
+    },
+    {
+      "argomento": "letteratura-infanzia",
+      "domanda": "Quale coppia di opere rappresenta la letteratura per l'infanzia dell'Italia postunitaria?",
+      "opzioni": [
+        "Piccolo mondo antico e Le confessioni di un italiano",
+        "Pinocchio di Collodi e Cuore di De Amicis",
+        "Cuore di Collodi e Pinocchio di De Amicis",
+        "Il giornalino di Gian Burrasca e Alice nel Paese delle Meraviglie"
+      ],
+      "corretta": 1,
+      "spiegazione": "Le avventure di Pinocchio (Collodi, 1881-83) e Cuore (De Amicis, 1886) sono i due grandi libri pedagogici dell'Italia unita."
+    },
+    {
+      "argomento": "romanzo-europeo",
+      "domanda": "Il bovarismo, derivato dal romanzo di Flaubert, indica:",
+      "opzioni": [
+        "Il culto ossessivo del denaro e della proprietà",
+        "Il rifiuto aristocratico della società di massa",
+        "L'insoddisfazione di chi sogna una vita diversa dalla propria mediocre realtà",
+        "La fedeltà assoluta ai valori della famiglia"
+      ],
+      "corretta": 2,
+      "spiegazione": "Emma Bovary, nutrita di letture romantiche, vive nello scarto fra sogni e realtà provinciale: da lei il termine bovarismo."
+    },
+    {
+      "argomento": "romanzo-europeo",
+      "domanda": "Ne Il ritratto di Dorian Gray, il quadro nascosto in soffitta ha la funzione di:",
+      "opzioni": [
+        "Proteggere magicamente Dorian dai nemici",
+        "Ricordare a Dorian la giovinezza perduta",
+        "Celebrare la potenza eterna dell'arte",
+        "Registrare l'invecchiamento e la corruzione morale al posto del protagonista"
+      ],
+      "corretta": 3,
+      "spiegazione": "Il ritratto invecchia e si deforma assorbendo i peccati di Dorian, la cui bellezza resta intatta: allegoria della scissione fra apparenza e coscienza."
+    },
+    {
+      "argomento": "scapigliatura",
+      "domanda": "Il termine Scapigliatura traduce in italiano:",
+      "opzioni": [
+        "Il francese bohème, la vita disordinata degli artisti anticonformisti",
+        "Il tedesco Sturm und Drang",
+        "L'inglese aestheticism",
+        "Il francese décadence"
+      ],
+      "corretta": 0,
+      "spiegazione": "Il nome, dal romanzo di Cletto Arrighi, equivale alla bohème parigina: artisti ribelli al perbenismo borghese dell'Italia postunitaria."
+    },
+    {
+      "argomento": "scapigliatura",
+      "domanda": "In Fosca di Tarchetti, la protagonista che dà il titolo al romanzo è:",
+      "opzioni": [
+        "Una bella e sana donna borghese amata da Giorgio",
+        "Una donna malata e bruttissima che avvince il protagonista con passione morbosa",
+        "Una cantante d'opera milanese",
+        "La sorella sacrificata del protagonista"
+      ],
+      "corretta": 1,
+      "spiegazione": "Fosca, la donna scheletro, rovescia i canoni dell'eroina romantica: la sua bruttezza malata esercita un'attrazione irresistibile e distruttiva."
+    },
+    {
+      "argomento": "naturalismo-verismo",
+      "domanda": "Nel Romanzo sperimentale, Zola sostiene che lo scrittore debba:",
+      "opzioni": [
+        "Esprimere liberamente la propria fantasia creatrice",
+        "Celebrare le glorie nazionali",
+        "Operare come uno scienziato, osservando e sperimentando sui personaggi determinati da ereditarietà e ambiente",
+        "Rifugiarsi nell'arte pura lontano dalla società"
+      ],
+      "corretta": 2,
+      "spiegazione": "Zola applica al romanzo il metodo della medicina sperimentale: il romanziere osserva come i personaggi reagiscono agli ambienti, come in un esperimento."
+    },
+    {
+      "argomento": "naturalismo-verismo",
+      "domanda": "Quale differenza fondamentale separa il Verismo italiano dal Naturalismo francese?",
+      "opzioni": [
+        "Il Verismo rifiuta l'impersonalità della narrazione",
+        "Il Verismo rappresenta solo le classi alte",
+        "Il Naturalismo non si interessa delle classi popolari",
+        "Il Verismo non condivide la fiducia positivista nel progresso e nella riforma sociale"
+      ],
+      "corretta": 3,
+      "spiegazione": "Zola crede nella funzione progressista della denuncia; Verga è pessimista e fatalista: nessuna riforma salverà i vinti."
+    },
+    {
+      "argomento": "verga",
+      "domanda": "La tecnica verghiana della regressione consiste:",
+      "opzioni": [
+        "Nel calare il narratore al livello del mondo rappresentato, adottandone valori e linguaggio",
+        "Nel raccontare le vicende a ritroso nel tempo",
+        "Nel far regredire i personaggi a stati infantili",
+        "Nel ritorno ai modelli del romanzo storico"
+      ],
+      "corretta": 0,
+      "spiegazione": "Il narratore si eclissa e parla con la voce della comunità popolare: punto di vista, proverbi e pregiudizi sono quelli del mondo narrato."
+    },
+    {
+      "argomento": "verga",
+      "domanda": "In Rosso Malpelo, il narratore afferma che Malpelo era malizioso perché aveva i capelli rossi. Questo giudizio rivela:",
+      "opzioni": [
+        "L'opinione personale di Verga sul personaggio",
+        "Il pregiudizio della comunità, di cui il narratore regredito assume la voce",
+        "Un dato scientifico accettato dal Positivismo",
+        "L'autodifesa del ragazzo davanti al lettore"
+      ],
+      "corretta": 1,
+      "spiegazione": "È l'effetto di straniamento: il narratore ripete il pregiudizio popolare, e proprio così Verga lo smaschera senza commentarlo."
+    },
+    {
+      "argomento": "verga",
+      "domanda": "Nella prefazione ai Malavoglia, la fiumana del progresso indica:",
+      "opzioni": [
+        "La rivoluzione industriale del Nord Italia",
+        "L'emigrazione di massa verso le Americhe",
+        "Il cammino della modernità che travolge chi tenta di migliorare la propria condizione",
+        "Il flusso benefico della civiltà che solleva gli umili"
+      ],
+      "corretta": 2,
+      "spiegazione": "Il progresso visto da lontano è grandioso, ma da vicino mostra i vinti che la corrente travolge: è il disegno del ciclo dei Vinti."
+    },
+    {
+      "argomento": "verga",
+      "domanda": "Quale evento dà origine alla rovina della famiglia Malavoglia?",
+      "opzioni": [
+        "La partenza di 'Ntoni per il servizio militare",
+        "La morte di padron 'Ntoni",
+        "L'incendio della casa del nespolo",
+        "Il debito per il carico di lupini perduto nel naufragio della Provvidenza"
+      ],
+      "corretta": 3,
+      "spiegazione": "L'affare dei lupini comprati a credito e perduti col naufragio in cui muore Bastianazzo innesca la catena di disgrazie e la perdita della casa."
+    },
+    {
+      "argomento": "verga",
+      "domanda": "Nella novella La roba, Mazzarò in punto di morte:",
+      "opzioni": [
+        "Uccide le sue anatre e i suoi tacchini gridando Roba mia, vientene con me",
+        "Dona tutti i suoi beni ai contadini",
+        "Maledice il barone che lo ha sfruttato",
+        "Si pente della vita sacrificata all'accumulo"
+      ],
+      "corretta": 0,
+      "spiegazione": "Impazzito all'idea di lasciare la roba, Mazzarò ammazza le sue bestie: la religione della proprietà rivela la sua assurda disumanità."
+    },
+    {
+      "argomento": "verga",
+      "domanda": "Mastro-don Gesualdo deve il suo titolo ossimorico al fatto che il protagonista:",
+      "opzioni": [
+        "È un nobile decaduto costretto a lavorare",
+        "È un muratore arricchito: mastro per origine, don per ricchezza, accettato da nessuna classe",
+        "Esercita due mestieri, muratore e sensale",
+        "Ha rinnegato il padre per sposare una nobile"
+      ],
+      "corretta": 1,
+      "spiegazione": "Gesualdo Motta resta sospeso fra le classi: traditore della propria per i compagni, parvenu per i nobili; muore solo nel palazzo della figlia."
+    },
+    {
+      "argomento": "decadentismo",
+      "domanda": "Ne L'albatro di Baudelaire, il grande uccello marino goffo sul ponte della nave simboleggia:",
+      "opzioni": [
+        "La natura corrotta dalla civiltà industriale",
+        "Il viaggio come fuga dallo spleen",
+        "Il poeta, maestoso nell'arte ma deriso e impacciato nella società borghese",
+        "La libertà del mare contro la prigione della città"
+      ],
+      "corretta": 2,
+      "spiegazione": "Come l'albatro è re del cielo ma ridicolo a terra, il poeta è principe delle nuvole cui le ali di gigante impediscono di camminare fra gli uomini."
+    },
+    {
+      "argomento": "decadentismo",
+      "domanda": "Per il Decadentismo, la conoscenza della realtà profonda si raggiunge attraverso:",
+      "opzioni": [
+        "Il metodo scientifico sperimentale",
+        "L'osservazione impersonale dei fatti sociali",
+        "La fede religiosa tradizionale",
+        "Stati irrazionali come sogno, malattia, estasi e l'intuizione poetica"
+      ],
+      "corretta": 3,
+      "spiegazione": "Contro il Positivismo, i decadenti ritengono che il mistero del reale si riveli solo a strumenti non razionali: il poeta è veggente."
+    },
+    {
+      "argomento": "pascoli",
+      "domanda": "Secondo il saggio Il fanciullino, il poeta è:",
+      "opzioni": [
+        "Chi dà voce al fanciullo che in ogni uomo vede le cose con meraviglia, come per la prima volta",
+        "Un vate che guida la nazione",
+        "Uno scienziato della parola che descrive il vero",
+        "Un esteta che trasforma la vita in opera d'arte"
+      ],
+      "corretta": 0,
+      "spiegazione": "Il fanciullino, presente in tutti ma soffocato dall'adulto, è lo sguardo primigenio e stupito: il poeta è chi sa ancora ascoltarlo."
+    },
+    {
+      "argomento": "pascoli",
+      "domanda": "Quale evento biografico segna in profondità tutta la poesia di Pascoli?",
+      "opzioni": [
+        "L'esilio politico in Francia",
+        "L'assassinio del padre Ruggero il 10 agosto 1867, rimasto impunito",
+        "La morte della moglie",
+        "La perdita della cattedra universitaria"
+      ],
+      "corretta": 1,
+      "spiegazione": "L'uccisione del padre e i lutti successivi distruggono il nido familiare: da quel trauma nascono i simboli e le ossessioni della poesia pascoliana."
+    },
+    {
+      "argomento": "pascoli",
+      "domanda": "In X Agosto, la rondine uccisa mentre tornava al nido è simbolo:",
+      "opzioni": [
+        "Della natura crudele verso le creature deboli",
+        "Della migrazione e dell'esilio",
+        "Del padre assassinato mentre tornava a casa dalla famiglia",
+        "Della poesia ferita dalla modernità"
+      ],
+      "corretta": 2,
+      "spiegazione": "Il parallelismo rondine-padre struttura la lirica: entrambi uccisi nel ritorno al nido, sotto un cielo che piange con le stelle cadenti."
+    },
+    {
+      "argomento": "pascoli",
+      "domanda": "Il gelsomino notturno fu scritto da Pascoli in occasione di:",
+      "opzioni": [
+        "La morte della sorella",
+        "L'anniversario della morte del padre",
+        "Il proprio insediamento alla cattedra di Bologna",
+        "Le nozze di un amico"
+      ],
+      "corretta": 3,
+      "spiegazione": "Scritta per le nozze dell'amico Gabriele Briganti, la lirica allude alla notte nuziale attraverso il simbolismo del fiore che si apre di notte."
+    },
+    {
+      "argomento": "pascoli",
+      "domanda": "Il linguaggio poetico pascoliano è caratterizzato da:",
+      "opzioni": [
+        "Onomatopee, fonosimbolismo e precisione botanico-ornitologica",
+        "Aulicità classicheggiante e mitologia",
+        "Parole in libertà e abolizione della sintassi",
+        "Linguaggio filosofico e astratto"
+      ],
+      "corretta": 0,
+      "spiegazione": "Pascoli mescola suoni puri (chiù, don don), nomi esatti di piante e uccelli e sintassi franta: Contini parla di lingua pre-grammaticale e post-grammaticale."
+    },
+    {
+      "argomento": "dannunzio",
+      "domanda": "Il motto vivere la propria vita come si fa un'opera d'arte esprime:",
+      "opzioni": [
+        "La poetica del fanciullino",
+        "L'estetismo dannunziano, incarnato da Andrea Sperelli nel Piacere",
+        "L'impersonalità verista",
+        "L'umorismo pirandelliano"
+      ],
+      "corretta": 1,
+      "spiegazione": "È il principio dell'esteta: sostituire l'etica con l'estetica e fare dell'esistenza stessa un capolavoro; il Piacere ne mostra anche il fallimento."
+    },
+    {
+      "argomento": "dannunzio",
+      "domanda": "Il panismo della Pioggia nel pineto consiste:",
+      "opzioni": [
+        "Nel culto del paesaggio come quadro da contemplare",
+        "Nella celebrazione della pioggia come simbolo di purificazione religiosa",
+        "Nella fusione metamorfica fra l'io, Ermione e la natura della pineta",
+        "Nel ricordo nostalgico dell'infanzia in Abruzzo"
+      ],
+      "corretta": 2,
+      "spiegazione": "Sotto la pioggia estiva i due amanti si vegetalizzano (visi silvani, mani ignude): l'io si dissolve sensualmente nella vita totale della natura."
+    },
+    {
+      "argomento": "dannunzio",
+      "domanda": "Alcyone è:",
+      "opzioni": [
+        "Il romanzo del superuomo ambientato a Roma",
+        "La raccolta giovanile di ispirazione carducciana",
+        "Il diario di guerra scritto durante la cecità",
+        "Il terzo libro delle Laudi, diario lirico di un'estate in Versilia"
+      ],
+      "corretta": 3,
+      "spiegazione": "Alcyone (1903) è il terzo libro delle Laudi, la stagione della tregua panica: contiene La sera fiesolana e La pioggia nel pineto."
+    },
+    {
+      "argomento": "dannunzio",
+      "domanda": "Da quale filosofo D'Annunzio trae, adattandolo, il mito del superuomo?",
+      "opzioni": [
+        "Friedrich Nietzsche",
+        "Arthur Schopenhauer",
+        "Henri Bergson",
+        "Auguste Comte"
+      ],
+      "corretta": 0,
+      "spiegazione": "Negli anni Novanta D'Annunzio legge Nietzsche e ne ricava un superomismo estetizzante: l'individuo eccezionale sopra la massa democratica."
+    },
+    {
+      "argomento": "dannunzio",
+      "domanda": "Quale impresa politico-militare guidò D'Annunzio nel 1919-1920?",
+      "opzioni": [
+        "La marcia su Roma",
+        "L'occupazione di Fiume",
+        "Il volo transatlantico",
+        "La spedizione in Libia"
+      ],
+      "corretta": 1,
+      "spiegazione": "D'Annunzio occupò Fiume con i suoi legionari, governandola fino al Natale di sangue del 1920: la sua politica-spettacolo anticipò riti del fascismo."
+    },
+    {
+      "argomento": "avanguardie",
+      "domanda": "Il Manifesto del Futurismo di Marinetti fu pubblicato:",
+      "opzioni": [
+        "Sulla rivista La Voce nel 1908",
+        "Sul Corriere della Sera nel 1915",
+        "Su Le Figaro di Parigi il 20 febbraio 1909",
+        "Su Lacerba nel 1913"
+      ],
+      "corretta": 2,
+      "spiegazione": "Marinetti scelse il quotidiano parigino per dare risonanza internazionale al manifesto che esaltava velocità, macchina e rottura col passato."
+    },
+    {
+      "argomento": "avanguardie",
+      "domanda": "I poeti crepuscolari si caratterizzano per:",
+      "opzioni": [
+        "L'esaltazione della guerra e della modernità tecnica",
+        "Il recupero della metrica barbara carducciana",
+        "Il culto del superuomo e della vita inimitabile",
+        "Il tono dimesso, le piccole cose quotidiane e la vergogna di essere poeti"
+      ],
+      "corretta": 3,
+      "spiegazione": "Corazzini e Gozzano abbassano la poesia al quotidiano e smontano la figura del vate: io non sono un poeta, dichiara Corazzini."
+    },
+    {
+      "argomento": "romanzo-novecento",
+      "domanda": "Quale insieme di novità culturali provoca il crollo delle certezze positiviste a inizio Novecento?",
+      "opzioni": [
+        "La psicoanalisi di Freud, la relatività di Einstein e le filosofie di Nietzsche e Bergson",
+        "Il darwinismo, il marxismo e il metodo sperimentale",
+        "Il neoclassicismo, l'idealismo e la fisica newtoniana",
+        "Il romanticismo, lo spiritualismo e il colonialismo"
+      ],
+      "corretta": 0,
+      "spiegazione": "Inconscio, relatività del tempo e dello spazio, morte di Dio e durata interiore dissolvono l'idea di una realtà oggettiva e razionale."
+    },
+    {
+      "argomento": "svevo",
+      "domanda": "Nella Prefazione della Coscienza di Zeno, il dottor S. dichiara di pubblicare le memorie di Zeno:",
+      "opzioni": [
+        "Per documentare un caso clinico di successo",
+        "Per vendetta contro il paziente che ha abbandonato la cura",
+        "Su richiesta dello stesso Zeno",
+        "Per dimostrare l'efficacia della psicoanalisi"
+      ],
+      "corretta": 1,
+      "spiegazione": "La pubblicazione per dispetto mina subito l'attendibilità del testo: il lettore sa che leggerà verità e bugie mescolate."
+    },
+    {
+      "argomento": "svevo",
+      "domanda": "Il tema dell'ultima sigaretta nella Coscienza di Zeno rappresenta:",
+      "opzioni": [
+        "La denuncia dei danni del tabacco secondo la medicina positivista",
+        "Il rimorso per la morte del padre",
+        "L'autoinganno della volontà malata e il piacere della ricaduta nel proposito sempre rinnovato",
+        "Il distacco definitivo di Zeno dalla giovinezza"
+      ],
+      "corretta": 2,
+      "spiegazione": "Le infinite ultime sigarette mostrano il meccanismo dell'alibi: il proposito di smettere rende dolce la ricaduta e giustifica la debolezza."
+    },
+    {
+      "argomento": "svevo",
+      "domanda": "Lo schiaffo del padre morente a Zeno resta nel romanzo:",
+      "opzioni": [
+        "Un chiaro castigo per la condotta del figlio",
+        "Un gesto d'affetto frainteso dal medico",
+        "Una semplice allucinazione di Zeno",
+        "Un gesto irrimediabilmente ambiguo, fra punizione e spasmo involontario"
+      ],
+      "corretta": 3,
+      "spiegazione": "L'ambiguità è strutturale: Zeno non saprà mai se fu condanna o caso, e il senso di colpa irrisolto lo accompagnerà per tutta la vita."
+    },
+    {
+      "argomento": "svevo",
+      "domanda": "In Senilità, la colpa di Emilio Brentani consiste soprattutto:",
+      "opzioni": [
+        "Nell'aver coinvolto e sacrificato la sorella Amalia, che muore consumata dal sogno d'amore negato",
+        "Nell'aver tradito l'amico Balli",
+        "Nell'aver abbandonato il lavoro per la letteratura",
+        "Nell'aver sposato Angiolina contro il parere della famiglia"
+      ],
+      "corretta": 0,
+      "spiegazione": "Mentre insegue l'idealizzata Angiolina, Emilio non vede la passione infelice di Amalia per Balli: l'egoismo dell'inetto distrugge la sorella."
+    },
+    {
+      "argomento": "svevo",
+      "domanda": "Quali scrittori contribuirono in modo decisivo a far conoscere Svevo dopo anni di insuccesso?",
+      "opzioni": [
+        "Pirandello e D'Annunzio",
+        "James Joyce e Eugenio Montale",
+        "Verga e Capuana",
+        "Marinetti e Palazzeschi"
+      ],
+      "corretta": 1,
+      "spiegazione": "Joyce, suo insegnante d'inglese a Trieste, lo segnalò in Francia; Montale gli dedicò nel 1925 il saggio che aprì il caso Svevo in Italia."
+    },
+    {
+      "argomento": "pirandello",
+      "domanda": "Nel saggio L'umorismo, il sentimento del contrario si distingue dall'avvertimento del contrario perché:",
+      "opzioni": [
+        "Provoca un riso più immediato e liberatorio",
+        "Riguarda solo il teatro e non la narrativa",
+        "Nasce dalla riflessione, che scopre il dolore dietro il ridicolo e trasforma il riso in compassione",
+        "È tipico della commedia classica greca"
+      ],
+      "corretta": 2,
+      "spiegazione": "La vecchia imbellettata fa ridere (comicità); ma se rifletto che si trucca per trattenere il marito, il riso si fa pietà: è l'umorismo."
+    },
+    {
+      "argomento": "pirandello",
+      "domanda": "Nel Fu Mattia Pascal, l'episodio dello strappo nel cielo di carta significa che:",
+      "opzioni": [
+        "Il teatro delle marionette è superiore al teatro degli attori",
+        "Mattia deve abbandonare la finzione di Adriano Meis",
+        "La scienza moderna ha distrutto la religione",
+        "L'uomo moderno, privato delle certezze metafisiche, vede l'assurdo della propria condizione e ne è paralizzato"
+      ],
+      "corretta": 3,
+      "spiegazione": "Se nel cielo del teatrino si aprisse uno strappo, Oreste diventerebbe Amleto: la tragedia antica aveva un cielo intatto, l'uomo moderno vede il vuoto."
+    },
+    {
+      "argomento": "pirandello",
+      "domanda": "Vitangelo Moscarda, protagonista di Uno, nessuno e centomila, avvia la sua crisi a partire da:",
+      "opzioni": [
+        "L'osservazione della moglie che il suo naso pende",
+        "La morte del padre usuraio",
+        "Il fallimento della banca di famiglia",
+        "Un sogno premonitore"
+      ],
+      "corretta": 0,
+      "spiegazione": "La banale osservazione di Dida rivela a Vitangelo che gli altri vedono un Moscarda diverso da quello che lui crede di essere: inizia la disgregazione dell'identità."
+    },
+    {
+      "argomento": "pirandello",
+      "domanda": "Nella novella La carriola, il gesto segreto del protagonista rappresenta:",
+      "opzioni": [
+        "Un rito scaramantico contro la sfortuna",
+        "Una piccola evasione di follia che rivela l'insostenibilità della forma in cui è imprigionato",
+        "L'affetto represso per la famiglia",
+        "Un esercizio di addestramento del cane"
+      ],
+      "corretta": 1,
+      "spiegazione": "L'avvocato stimato fa fare la carriola alla cagnetta per un attimo al giorno: valvola di sfogo che smaschera la prigione della vita-forma."
+    },
+    {
+      "argomento": "pirandello",
+      "domanda": "Alla fine di Enrico IV, il protagonista è costretto a fingersi pazzo per sempre perché:",
+      "opzioni": [
+        "La famiglia lo fa rinchiudere in manicomio",
+        "Ha perso definitivamente la memoria",
+        "Ha ucciso il rivale Belcredi e solo la maschera della follia lo salva dalle conseguenze",
+        "Beatrice rifiuta di riconoscerlo"
+      ],
+      "corretta": 2,
+      "spiegazione": "Rinsavito da tempo, Enrico IV uccide Belcredi nell'impeto della vendetta: la finzione scelta diventa condanna definitiva, maschera irreversibile."
+    },
+    {
+      "argomento": "ermetismo",
+      "domanda": "Quali caratteri formali definiscono la poesia ermetica?",
+      "opzioni": [
+        "Metrica barbara e tono oratorio",
+        "Versi narrativi e linguaggio colloquiale",
+        "Rime baciate e strofe regolari",
+        "Analogia, abolizione dei nessi logici, parola essenziale isolata nella pagina"
+      ],
+      "corretta": 3,
+      "spiegazione": "L'Ermetismo, erede del Simbolismo attraverso Ungaretti, scava la parola pura e affida il senso ad analogie folgoranti senza spiegazioni."
+    },
+    {
+      "argomento": "ungaretti",
+      "domanda": "In Veglia, l'esperienza della notte accanto al compagno massacrato produce nel poeta:",
+      "opzioni": [
+        "Un attaccamento alla vita mai provato prima",
+        "Il desiderio di vendetta contro il nemico",
+        "La perdita della fede in Dio",
+        "L'indifferenza del soldato ormai abituato alla morte"
+      ],
+      "corretta": 0,
+      "spiegazione": "Il paradosso di Veglia: la vicinanza totale della morte genera la reazione vitale (e ho scritto lettere piene d'amore; non sono mai stato tanto attaccato alla vita)."
+    },
+    {
+      "argomento": "ungaretti",
+      "domanda": "La lirica Soldati paragona la condizione dei combattenti a:",
+      "opzioni": [
+        "Naufraghi in un mare in tempesta",
+        "Le foglie sugli alberi d'autunno",
+        "Pietre levigate dal fiume",
+        "Stelle cadenti nella notte"
+      ],
+      "corretta": 1,
+      "spiegazione": "Si sta come d'autunno sugli alberi le foglie: quattro versi che dicono la precarietà assoluta della vita del soldato e dell'uomo."
+    },
+    {
+      "argomento": "ungaretti",
+      "domanda": "In San Martino del Carso, il cuore del poeta è definito il paese più straziato perché:",
+      "opzioni": [
+        "Il poeta è nato in quel villaggio distrutto",
+        "La guerra gli ha tolto la fede nella poesia",
+        "Dei muri resta qualche brandello, ma nel cuore non manca nessuna croce dei morti",
+        "Il poeta è stato ferito in battaglia"
+      ],
+      "corretta": 2,
+      "spiegazione": "Il paese bombardato conserva brandelli di muro; il cuore, cimitero interiore, porta tutte le croci: la memoria è più devastata delle case."
+    },
+    {
+      "argomento": "ungaretti",
+      "domanda": "Quale raccolta segna il ritorno di Ungaretti alla metrica e alla sintassi della tradizione?",
+      "opzioni": [
+        "L'allegria",
+        "Il porto sepolto",
+        "Il dolore",
+        "Sentimento del tempo"
+      ],
+      "corretta": 3,
+      "spiegazione": "Sentimento del tempo (1933) recupera l'endecasillabo e i modelli di Petrarca e Leopardi: è la fase del ritorno all'ordine, religiosa e meditativa."
+    },
+    {
+      "argomento": "montale",
+      "domanda": "Il correlativo oggettivo nella poesia di Montale è:",
+      "opzioni": [
+        "Un oggetto concreto che incarna un'emozione o una condizione esistenziale senza dichiararla",
+        "Il confronto oggettivo fra passato e presente",
+        "La descrizione scientifica del paesaggio ligure",
+        "Una figura retorica di origine classica basata sulla ripetizione"
+      ],
+      "corretta": 0,
+      "spiegazione": "Come in Eliot, l'emozione si esprime attraverso cose precise: il rivo strozzato, la foglia riarsa e il cavallo stramazzato dicono il male di vivere."
+    },
+    {
+      "argomento": "montale",
+      "domanda": "In Spesso il male di vivere ho incontrato, l'unico bene che la vita offre è:",
+      "opzioni": [
+        "L'amore che salva dal dolore",
+        "Il prodigio della divina Indifferenza: la statua, la nuvola, il falco alto levato",
+        "La memoria dell'infanzia felice",
+        "La fede in un Dio nascosto"
+      ],
+      "corretta": 1,
+      "spiegazione": "Di fronte al male di vivere universale, il solo bene è l'indifferenza, distacco quasi divino incarnato in tre immagini di impassibilità."
+    },
+    {
+      "argomento": "montale",
+      "domanda": "Ne I limoni, Montale contrappone ai poeti laureati:",
+      "opzioni": [
+        "I poeti futuristi e le loro parole in libertà",
+        "I filosofi positivisti",
+        "Le strade che riescono agli erbosi fossi e gli alberi dei limoni",
+        "I giardini esotici delle ville liguri"
+      ],
+      "corretta": 2,
+      "spiegazione": "Contro la poesia aulica e dannunziana delle piante dai nomi rari, Montale sceglie un paesaggio umile e quotidiano: è il suo manifesto antiretorico."
+    },
+    {
+      "argomento": "montale",
+      "domanda": "Ho sceso, dandoti il braccio, almeno un milione di scale è dedicata:",
+      "opzioni": [
+        "A Clizia, la donna-angelo delle Occasioni",
+        "Alla madre del poeta",
+        "A una giovane amata in gioventù a Genova",
+        "Alla moglie Drusilla Tanzi, detta Mosca, dopo la sua morte"
+      ],
+      "corretta": 3,
+      "spiegazione": "Negli Xenia di Satura Montale ricorda la moglie scomparsa: la miopia di Mosca vedeva più chiaro di ogni altra vista; poesia coniugale e quotidiana."
+    },
+    {
+      "argomento": "paradiso-struttura",
+      "domanda": "Quante sono le cantiche e i canti della Commedia?",
+      "opzioni": [
+        "Tre cantiche di cento canti ciascuna",
+        "Tre cantiche per cento canti complessivi: 34 più 33 più 33",
+        "Due cantiche di cinquanta canti ciascuna",
+        "Tre cantiche per novantanove canti complessivi"
+      ],
+      "corretta": 1,
+      "spiegazione": "L'Inferno ha 34 canti (uno è il proemio generale), Purgatorio e Paradiso 33 ciascuno: il totale di cento esprime la perfezione."
+    },
+    {
+      "argomento": "paradiso-struttura",
+      "domanda": "Chi guida Dante nell'ultima parte del Paradiso, dall'Empireo alla visione di Dio?",
+      "opzioni": [
+        "Beatrice",
+        "Virgilio",
+        "San Bernardo di Chiaravalle",
+        "San Tommaso d'Aquino"
+      ],
+      "corretta": 2,
+      "spiegazione": "Beatrice, conclusa la sua missione, torna al suo seggio nella candida rosa; san Bernardo, mistico contemplativo, guida Dante alla visione finale."
+    },
+    {
+      "argomento": "paradiso-struttura",
+      "domanda": "I beati che Dante incontra nei vari cieli hanno in realtà tutti sede:",
+      "opzioni": [
+        "Nel cielo che corrisponde alla loro virtù",
+        "Nel Primo Mobile, accanto agli angeli",
+        "Nel Paradiso terrestre in cima al Purgatorio",
+        "Nell'Empireo, nella candida rosa; appaiono nei cieli solo per farsi comprendere da Dante"
+      ],
+      "corretta": 3,
+      "spiegazione": "Lo spiega Beatrice nel canto IV: la distribuzione nei cieli è una condiscendenza didattica; tutti i beati dimorano nell'Empireo."
+    },
+    {
+      "argomento": "paradiso-canti",
+      "domanda": "Nel canto III del Paradiso, Piccarda Donati spiega che la beatitudine consiste:",
+      "opzioni": [
+        "Nel conformare la propria volontà a quella di Dio: e 'n la sua volontade è nostra pace",
+        "Nell'occupare il cielo più alto possibile",
+        "Nel ricordare le buone azioni compiute in vita",
+        "Nella contemplazione perpetua degli angeli"
+      ],
+      "corretta": 0,
+      "spiegazione": "I beati non desiderano un grado maggiore di gloria: la carità rende perfetta l'adesione alla volontà divina, in cui è la loro pace."
+    },
+    {
+      "argomento": "paradiso-canti",
+      "domanda": "Cosa rende unico il canto VI del Paradiso nella struttura della Commedia?",
+      "opzioni": [
+        "È l'unico canto senza personaggi",
+        "È l'unico canto interamente pronunciato da un solo personaggio, Giustiniano",
+        "È l'unico canto in cui parla direttamente Dio",
+        "È il canto più breve del poema"
+      ],
+      "corretta": 1,
+      "spiegazione": "L'imperatore Giustiniano occupa l'intero canto con la storia provvidenziale dell'aquila imperiale, da Enea fino a Carlo Magno."
+    },
+    {
+      "argomento": "paradiso-canti",
+      "domanda": "Nel canto XI del Paradiso, chi pronuncia l'elogio di san Francesco?",
+      "opzioni": [
+        "San Bonaventura, francescano",
+        "San Bernardo",
+        "San Tommaso d'Aquino, domenicano",
+        "Beatrice"
+      ],
+      "corretta": 2,
+      "spiegazione": "Per cortesia di paradiso il domenicano Tommaso loda il fondatore dei francescani; nel canto XII il francescano Bonaventura loderà san Domenico."
+    },
+    {
+      "argomento": "paradiso-canti",
+      "domanda": "Nel canto XV, Cacciaguida accoglie Dante paragonandosi a un celebre modello classico:",
+      "opzioni": [
+        "Come Ulisse accolse Telemaco a Itaca",
+        "Come Catone accolse i pellegrini ai piedi del Purgatorio",
+        "Come Enea accolse i compagni profughi a Cartagine",
+        "Come Anchise accolse il figlio Enea nei Campi Elisi"
+      ],
+      "corretta": 3,
+      "spiegazione": "Con sì pia l'ombra d'Anchise si porse: il richiamo all'Eneide nobilita l'incontro fra Dante e il trisavolo crociato."
+    },
+    {
+      "argomento": "paradiso-canti",
+      "domanda": "Il verso che chiude il Paradiso e l'intera Commedia è:",
+      "opzioni": [
+        "L'amor che move il sole e l'altre stelle",
+        "E quindi uscimmo a riveder le stelle",
+        "Puro e disposto a salire a le stelle",
+        "Vergine madre, figlia del tuo figlio"
+      ],
+      "corretta": 0,
+      "spiegazione": "Tutte e tre le cantiche terminano con la parola stelle; il Paradiso si chiude con l'amore divino che muove l'universo."
+    }
+  ],
+  "flashcards": [
+    {
+      "argomento": "romanticismo",
+      "fronte": "Chi apre il dibattito romantico in Italia e in quale anno?",
+      "retro": "Madame de Staël con l'articolo sulla Biblioteca Italiana (1816), che invita a tradurre le letterature straniere."
+    },
+    {
+      "argomento": "manzoni",
+      "fronte": "Formula della poetica manzoniana nella Lettera sul Romanticismo",
+      "retro": "L'utile per iscopo, il vero per soggetto e l'interessante per mezzo."
+    },
+    {
+      "argomento": "manzoni",
+      "fronte": "Le tre edizioni dei Promessi Sposi",
+      "retro": "Fermo e Lucia (1821-23), ventisettana (1827), quarantana (1840-42) con la revisione linguistica fiorentina."
+    },
+    {
+      "argomento": "manzoni",
+      "fronte": "Chi muore nel coro dell'atto IV dell'Adelchi e quale concetto vi domina?",
+      "retro": "Ermengarda, ripudiata da Carlo Magno: la provvida sventura che purifica gli oppressi attraverso il dolore."
+    },
+    {
+      "argomento": "manzoni",
+      "fronte": "Sentir e meditar; non tradire mai il vero: da quale testo?",
+      "retro": "In morte di Carlo Imbonati (1805): il programma etico-letterario del giovane Manzoni."
+    },
+    {
+      "argomento": "leopardi",
+      "fronte": "Teoria del piacere (Zibaldone, 1820)",
+      "retro": "L'uomo desidera un piacere infinito per estensione e durata; ogni piacere reale è finito, perciò l'infelicità è strutturale."
+    },
+    {
+      "argomento": "leopardi",
+      "fronte": "Pessimismo storico vs pessimismo cosmico",
+      "retro": "Storico: natura madre benigna, colpa della ragione e della civiltà. Cosmico: natura matrigna indifferente, infelicità di tutti gli esseri."
+    },
+    {
+      "argomento": "leopardi",
+      "fronte": "E il naufragar m'è dolce in questo mare: testo e significato",
+      "retro": "L'infinito (1819): l'abbandono dell'immaginazione all'infinito è naufragio dolce, piacere supremo del pensiero."
+    },
+    {
+      "argomento": "leopardi",
+      "fronte": "All'apparir del vero / tu, misera, cadesti: a chi si rivolge il poeta?",
+      "retro": "Alla speranza personificata in A Silvia (1828): le illusioni giovanili muoiono davanti al vero, come Silvia."
+    },
+    {
+      "argomento": "italia-unita",
+      "fronte": "Frase simbolo del problema dell'identità nazionale dopo il 1861",
+      "retro": "Fatta l'Italia, bisogna fare gli italiani (attribuita a Massimo d'Azeglio)."
+    },
+    {
+      "argomento": "carducci",
+      "fronte": "Pianto antico: occasione e raccolta",
+      "retro": "Morte del figlio Dante di tre anni; raccolta Rime nuove. Contrasto fra il melograno che rinverdisce e la terra negra."
+    },
+    {
+      "argomento": "carducci",
+      "fronte": "Primo premio Nobel italiano per la letteratura",
+      "retro": "Giosuè Carducci, nel 1906."
+    },
+    {
+      "argomento": "letteratura-infanzia",
+      "fronte": "Anno e sede di pubblicazione di Pinocchio",
+      "retro": "A puntate sul Giornale per i bambini, 1881-1883; autore Carlo Lorenzini, detto Collodi."
+    },
+    {
+      "argomento": "romanzo-europeo",
+      "fronte": "Definizione di bovarismo",
+      "retro": "L'insoddisfazione di chi si immagina diverso da ciò che è: lo scarto fra sogni romantici e realtà mediocre (da Madame Bovary di Flaubert, 1857)."
+    },
+    {
+      "argomento": "romanzo-europeo",
+      "fronte": "Principio dell'impersonalità secondo Flaubert",
+      "retro": "L'autore deve essere nella sua opera come Dio nell'universo: presente ovunque, visibile in nessun luogo."
+    },
+    {
+      "argomento": "scapigliatura",
+      "fronte": "Da dove deriva il nome Scapigliatura?",
+      "retro": "Dal romanzo di Cletto Arrighi La Scapigliatura e il 6 febbraio (1862); traduce il francese bohème."
+    },
+    {
+      "argomento": "naturalismo-verismo",
+      "fronte": "Testo teorico fondamentale del Naturalismo",
+      "retro": "Il romanzo sperimentale di Émile Zola (1880): lo scrittore come scienziato, i personaggi determinati da ereditarietà e ambiente."
+    },
+    {
+      "argomento": "naturalismo-verismo",
+      "fronte": "Teorico del Verismo italiano",
+      "retro": "Luigi Capuana, che adatta il modello di Zola: impersonalità sì, ma senza fiducia positivista nel progresso."
+    },
+    {
+      "argomento": "verga",
+      "fronte": "Eclissi dell'autore",
+      "retro": "Il narratore scompare dall'opera, che deve sembrare essersi fatta da sé; teorizzata nella prefazione a L'amante di Gramigna (1880)."
+    },
+    {
+      "argomento": "verga",
+      "fronte": "Ideale dell'ostrica",
+      "retro": "Come l'ostrica vive solo attaccata allo scoglio, gli umili sopravvivono solo restando legati a famiglia e tradizione (Fantasticheria)."
+    },
+    {
+      "argomento": "verga",
+      "fronte": "Il ciclo dei Vinti: progetto e romanzi realizzati",
+      "retro": "Cinque romanzi previsti sulla lotta per la vita a ogni livello sociale; realizzati solo I Malavoglia (1881) e Mastro-don Gesualdo (1889)."
+    },
+    {
+      "argomento": "verga",
+      "fronte": "Novella che racconta la rivolta di Bronte del 1860",
+      "retro": "Libertà (Novelle rusticane): la rivolta contadina, la repressione e la libertà incomprensibile per gli umili."
+    },
+    {
+      "argomento": "verga",
+      "fronte": "Roba mia, vientene con me!: chi lo grida e dove?",
+      "retro": "Mazzarò morente nella novella La roba (Novelle rusticane), impazzito all'idea di separarsi dai suoi beni."
+    },
+    {
+      "argomento": "decadentismo",
+      "fronte": "Raccolta che inaugura la poesia moderna europea",
+      "retro": "I fiori del male di Charles Baudelaire (1857): spleen, ideale, bellezza estratta dal male della metropoli."
+    },
+    {
+      "argomento": "decadentismo",
+      "fronte": "Le ali di gigante che impediscono di camminare: simbolo di cosa?",
+      "retro": "Nell'Albatro di Baudelaire: la grandezza del poeta, sublime nell'arte, lo rende goffo e deriso nella società borghese."
+    },
+    {
+      "argomento": "pascoli",
+      "fronte": "Data e significato del 10 agosto per Pascoli",
+      "retro": "Il 10 agosto 1867 fu assassinato il padre Ruggero; la notte di San Lorenzo con le stelle cadenti diventa la lirica X Agosto."
+    },
+    {
+      "argomento": "pascoli",
+      "fronte": "Simbolo del nido nella poesia pascoliana",
+      "retro": "Rifugio familiare protettivo contro il mondo minaccioso, ma anche legame esclusivo con i morti che impedisce la vita adulta."
+    },
+    {
+      "argomento": "pascoli",
+      "fronte": "Da dove viene il titolo Myricae?",
+      "retro": "Da Virgilio (arbusta iuvant humilesque myricae): le umili tamerici, simbolo di una poesia delle piccole cose."
+    },
+    {
+      "argomento": "pascoli",
+      "fronte": "L'assiuolo: quale suono scandisce la lirica e cosa diventa?",
+      "retro": "Il verso chiù dell'uccello notturno: da voce di campagna a pianto di morte, in un crescendo di angoscia fonosimbolica."
+    },
+    {
+      "argomento": "dannunzio",
+      "fronte": "Protagonista e motto del Piacere",
+      "retro": "Il conte Andrea Sperelli, esteta romano; bisogna fare la propria vita come si fa un'opera d'arte."
+    },
+    {
+      "argomento": "dannunzio",
+      "fronte": "I tre libri delle Laudi pubblicati nel 1903-1904",
+      "retro": "Maia, Elettra, Alcyone; Alcyone è il diario lirico dell'estate in Versilia, vertice del panismo."
+    },
+    {
+      "argomento": "dannunzio",
+      "fronte": "Cos'è il panismo?",
+      "retro": "La fusione estatica e sensuale dell'io con la natura (da Pan): culmina nella Pioggia nel pineto, dove i corpi si vegetalizzano."
+    },
+    {
+      "argomento": "dannunzio",
+      "fronte": "O falce di luna calante: raccolta di appartenenza",
+      "retro": "Canto novo (1882), raccolta giovanile di vitalismo musicale e solare."
+    },
+    {
+      "argomento": "avanguardie",
+      "fronte": "Data e luogo di pubblicazione del Manifesto del Futurismo",
+      "retro": "20 febbraio 1909, sul quotidiano parigino Le Figaro, firmato da Filippo Tommaso Marinetti."
+    },
+    {
+      "argomento": "avanguardie",
+      "fronte": "Io non sono un poeta... sono soltanto un piccolo fanciullo che piange: chi e dove?",
+      "retro": "Sergio Corazzini, Desolazione del povero poeta sentimentale: il manifesto dell'antieroismo crepuscolare."
+    },
+    {
+      "argomento": "romanzo-novecento",
+      "fronte": "Tre fondamenta culturali del romanzo della crisi",
+      "retro": "La psicoanalisi di Freud (inconscio), Bergson (tempo interiore come durata), Nietzsche (crisi di tutti i valori)."
+    },
+    {
+      "argomento": "svevo",
+      "fronte": "Vero nome di Italo Svevo e significato dello pseudonimo",
+      "retro": "Ettore Schmitz; lo pseudonimo unisce Italia e cultura sveva-tedesca, le due anime della Trieste mitteleuropea."
+    },
+    {
+      "argomento": "svevo",
+      "fronte": "I tre romanzi di Svevo in ordine",
+      "retro": "Una vita (1892), Senilità (1898), La coscienza di Zeno (1923)."
+    },
+    {
+      "argomento": "svevo",
+      "fronte": "Perché Zeno è un narratore inattendibile?",
+      "retro": "Scrive per giustificarsi: memorie piene di verità e bugie (dottor S.); il lettore deve cercare la verità fra gli autoinganni."
+    },
+    {
+      "argomento": "svevo",
+      "fronte": "Come si chiude La coscienza di Zeno?",
+      "retro": "Con la profezia apocalittica: un ordigno esploderà e riporterà la Terra a forma di nebulosa, liberandola da parassiti e malattie."
+    },
+    {
+      "argomento": "pirandello",
+      "fronte": "Contrasto vita-forma",
+      "retro": "La vita è flusso continuo; le forme (nome, ruoli, maschere sociali) la fissano e la imprigionano: chi se ne accorge soffre o impazzisce."
+    },
+    {
+      "argomento": "pirandello",
+      "fronte": "Definizione di umorismo secondo Pirandello",
+      "retro": "Sentimento del contrario: la riflessione scopre il dolore dietro il ridicolo e trasforma il riso in compassione (saggio L'umorismo, 1908)."
+    },
+    {
+      "argomento": "pirandello",
+      "fronte": "Identità assunta da Mattia Pascal dopo la presunta morte",
+      "retro": "Adriano Meis: ma senza stato civile non può vivere; tornato a casa, resta il fu Mattia Pascal, escluso da ogni forma."
+    },
+    {
+      "argomento": "pirandello",
+      "fronte": "Anno del Nobel a Pirandello e motivazione sintetica",
+      "retro": "1934, per il rinnovamento audace e ingegnoso dell'arte drammatica e scenica."
+    },
+    {
+      "argomento": "ermetismo",
+      "fronte": "Origine del termine Ermetismo",
+      "retro": "Dal saggio di Francesco Flora (1936); rimanda a Ermete Trismegisto, simbolo di sapere occulto: poesia oscura e chiusa."
+    },
+    {
+      "argomento": "ungaretti",
+      "fronte": "Si sta come / d'autunno / sugli alberi / le foglie: titolo, luogo e data",
+      "retro": "Soldati, Bosco di Courton, luglio 1918 (raccolta L'allegria): la precarietà assoluta della vita in guerra."
+    },
+    {
+      "argomento": "ungaretti",
+      "fronte": "Significato del titolo L'allegria",
+      "retro": "Ossimoro (prima Allegria di naufragi): l'esultanza dell'attimo di vita strappato alla morte onnipresente della guerra."
+    },
+    {
+      "argomento": "ungaretti",
+      "fronte": "Di che cosa parla La madre (Sentimento del tempo)?",
+      "retro": "La madre morta attenderà il figlio davanti a Dio per intercedere per lui, come tante volte in vita: fede e legame oltre la morte."
+    },
+    {
+      "argomento": "ungaretti",
+      "fronte": "Innovazioni formali dell'Allegria",
+      "retro": "Abolizione di punteggiatura e metrica tradizionale, versi brevissimi anche di una parola, spazio bianco come silenzio, data e luogo per ogni testo."
+    },
+    {
+      "argomento": "montale",
+      "fronte": "Significato del titolo Ossi di seppia",
+      "retro": "I resti calcinati che il mare deposita a riva: relitti essenziali, correlativo della condizione umana arida e scabra."
+    },
+    {
+      "argomento": "montale",
+      "fronte": "I tre correlativi oggettivi del male di vivere",
+      "retro": "Il rivo strozzato che gorgoglia, l'incartocciarsi della foglia riarsa, il cavallo stramazzato (Spesso il male di vivere ho incontrato)."
+    },
+    {
+      "argomento": "montale",
+      "fronte": "Conclusione allegorica di Meriggiare pallido e assorto",
+      "retro": "Tutta la vita e il suo travaglio è seguitare una muraglia che ha in cima cocci aguzzi di bottiglia: l'esistenza come prigione invalicabile."
+    },
+    {
+      "argomento": "montale",
+      "fronte": "Chi sono Clizia e Mosca nella poesia di Montale?",
+      "retro": "Clizia è Irma Brandeis, donna-angelo salvifica delle Occasioni e della Bufera; Mosca è la moglie Drusilla Tanzi, ricordata negli Xenia di Satura."
+    },
+    {
+      "argomento": "paradiso-struttura",
+      "fronte": "I nove cieli del Paradiso in ordine",
+      "retro": "Luna, Mercurio, Venere, Sole, Marte, Giove, Saturno, Stelle fisse, Primo Mobile; oltre, l'Empireo immobile, sede di Dio e dei beati."
+    },
+    {
+      "argomento": "paradiso-struttura",
+      "fronte": "Neologismi danteschi per dire l'esperienza paradisiaca",
+      "retro": "Trasumanar (andare oltre l'umano), indiarsi, inluiarsi: il linguaggio viene forzato per esprimere l'ineffabile."
+    },
+    {
+      "argomento": "paradiso-canti",
+      "fronte": "E 'n la sua volontade è nostra pace: chi lo dice e dove?",
+      "retro": "Piccarda Donati, Paradiso III, cielo della Luna: la beatitudine è perfetta adesione alla volontà di Dio."
+    },
+    {
+      "argomento": "paradiso-canti",
+      "fronte": "Vergine madre, figlia del tuo figlio: chi pronuncia la preghiera e a quale scopo?",
+      "retro": "San Bernardo, Paradiso XXXIII: chiede a Maria di ottenere a Dante la grazia della visione di Dio."
+    },
+    {
+      "argomento": "paradiso-canti",
+      "fronte": "Sposa mistica di san Francesco nel canto XI",
+      "retro": "Madonna Povertà, vedova del primo marito (Cristo) da più di mille anni: le nozze mistiche narrate da san Tommaso."
+    }
+  ]
+}
