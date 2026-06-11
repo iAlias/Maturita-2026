@@ -4,152 +4,152 @@
   "argomenti": [
     {
       "id": "rivoluzione-industriale",
-      "titolo": "The Industrial Revolution",
+      "titolo": "La rivoluzione industriale",
       "area": "Romantic Age",
       "priorita": 2,
       "scheda": {
-        "sintesi": "Tra la seconda metà del Settecento e l'inizio dell'Ottocento la Gran Bretagna è il primo paese a vivere la Industrial Revolution: l'introduzione di macchine (spinning jenny, steam engine di James Watt), il sistema di fabbrica e l'urbanizzazione trasformano radicalmente economia e società. Nascono le industrial towns del Nord (Manchester, Birmingham), una nuova classe operaia (working class) e nuove forme di sfruttamento, tra cui il child labour. È il contesto del Conceptual Link 6 'Revolution and Renewal'.",
+        "sintesi": "Tra la fine del Settecento e l'inizio dell'Ottocento la Gran Bretagna è il primo paese a industrializzarsi. Macchine, fabbriche e crescita delle città cambiano economia e società. Nascono grandi città industriali, la classe operaia e forme dure di sfruttamento, come il lavoro minorile. Questo tema rientra nel nodo Revolution and Renewal.",
         "sezioni": [
           {
-            "titolo": "Cause e fattori",
+            "titolo": "Cause principali",
             "punti": [
-              "Disponibilità di capitali, colonie e materie prime (cotone, carbone, ferro) rendono la Gran Bretagna il 'workshop of the world'.",
-              "Innovazioni tecniche: spinning jenny di Hargreaves, water frame di Arkwright, steam engine perfezionata da James Watt (1769).",
-              "Le Enclosures (recinzioni dei campi comuni) spingono i contadini verso le città in cerca di lavoro.",
-              "Sviluppo dei trasporti: canali, strade e poi le prime ferrovie (Stockton-Darlington, 1825)."
+              "La Gran Bretagna ha soldi da investire, colonie e materie prime come cotone, carbone e ferro. Per questo diventa la officina del mondo.",
+              "Arrivano nuove macchine: la spinning jenny di Hargreaves, il water frame di Arkwright e la macchina a vapore migliorata da James Watt nel 1769.",
+              "Le Enclosures, cioè la chiusura dei campi comuni, spingono molti contadini a lasciare la campagna e a cercare lavoro in città.",
+              "Migliorano anche i trasporti: prima canali e strade, poi le prime ferrovie come la Stockton-Darlington del 1825."
             ]
           },
           {
-            "titolo": "Conseguenze sociali",
+            "titolo": "Effetti sulla società",
             "punti": [
-              "Urbanizzazione rapida e caotica: slums sovraffollati, mancanza di igiene, epidemie.",
-              "Factory system: orari di lavoro estenuanti (12-16 ore), salari bassissimi, nessuna tutela.",
-              "Child labour: bambini impiegati in fabbriche e miniere, e come chimney sweepers (tema di Blake e poi di Dickens).",
-              "Nascita della working class e prime forme di protesta: il movimento luddista (Luddites) distrugge le macchine.",
-              "Risposta letteraria: i poeti romantici vedono nella natura un rifugio dalla disumanizzazione industriale."
+              "Le città crescono in fretta e male: quartieri poveri molto affollati, poca igiene e molte malattie.",
+              "Il sistema di fabbrica impone orari pesanti, anche di 12-16 ore, salari molto bassi e nessuna protezione per i lavoratori.",
+              "Il lavoro minorile diventa comune: molti bambini lavorano in fabbrica, in miniera o come spazzacamini.",
+              "Nasce la working class, cioè la classe operaia, e compaiono le prime proteste, come i luddisti che rompono le macchine.",
+              "Nella letteratura, i romantici vedono la natura come un rifugio contro una vita industriale sentita come disumana."
             ]
           },
           {
             "titolo": "Riforme e dibattito",
             "punti": [
-              "I Factory Acts (dal 1833) limitano gradualmente il lavoro minorile.",
-              "Il laissez-faire e l'utilitarismo di Bentham giustificano il non intervento dello Stato.",
-              "La 'social question' diventerà centrale nella narrativa vittoriana (Dickens, Hard Times)."
+              "I Factory Acts, dal 1833, iniziano a limitare poco alla volta il lavoro dei bambini.",
+              "Il laissez-faire e l'utilitarismo di Bentham difendono l'idea che lo Stato debba intervenire il meno possibile.",
+              "La questione sociale diventa centrale nel romanzo vittoriano, per esempio in Dickens e in Hard Times."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "scienze-umane",
-            "testo": "Karl Marx analizza proprio la fabbrica inglese: alienazione del lavoratore, plusvalore e lotta di classe in 'Il Capitale' nascono dall'osservazione dell'industrializzazione britannica."
+            "testo": "Karl Marx studia proprio la fabbrica inglese. Da qui nascono idee come alienazione, plusvalore e lotta di classe spiegate nel Capitale."
           },
           {
             "materia": "italiano",
-            "testo": "La questione sociale e il mondo del lavoro tornano nel Verismo di Verga ('Rosso Malpelo', la cava) e nella letteratura italiana post-unitaria."
+            "testo": "Il tema del lavoro e della povertà ritorna nel Verismo di Verga, per esempio in Rosso Malpelo, e in molta letteratura italiana dopo l'Unità."
           },
           {
             "materia": "inglese",
-            "testo": "Blake denuncia il child labour in 'The Chimney Sweeper'; Dickens rappresenta la città industriale di Coketown in Hard Times."
+            "testo": "Blake denuncia il lavoro minorile in The Chimney Sweeper. Dickens mostra la città industriale di Coketown in Hard Times."
           }
         ]
       }
     },
     {
       "id": "rivoluzioni-america-francia",
-      "titolo": "Britain, America and the French Revolution",
+      "titolo": "Gran Bretagna, America e Rivoluzione francese",
       "area": "Romantic Age",
       "priorita": 3,
       "scheda": {
-        "sintesi": "Il tardo Settecento è l'età delle rivoluzioni atlantiche: le colonie americane si ribellano alla madrepatria e dichiarano l'indipendenza (1776), affermando il principio di uguaglianza e una nuova identità americana; la French Revolution (1789) scuote l'Europa con gli ideali di liberté, égalité, fraternité. In Gran Bretagna si alternano entusiasmo, paura, riots e una lunga stagione di richieste di riforme.",
+        "sintesi": "Alla fine del Settecento ci sono grandi rivoluzioni nell'area atlantica. Le colonie americane ottengono l'indipendenza nel 1776 e affermano uguaglianza e diritti. La Rivoluzione francese del 1789 diffonde gli ideali di libertà, uguaglianza e fraternità. In Gran Bretagna tutto questo provoca entusiasmo, paura, proteste e richieste di riforma.",
         "sezioni": [
           {
-            "titolo": "Britain and America",
+            "titolo": "Gran Bretagna e America",
             "punti": [
-              "Le tredici colonie protestano contro la tassazione senza rappresentanza ('no taxation without representation'): Stamp Act, Boston Tea Party (1773).",
-              "Declaration of Independence (4 luglio 1776), redatta principalmente da Thomas Jefferson: 'all men are created equal'.",
-              "L'idea di Equality e i diritti inalienabili (life, liberty and the pursuit of happiness) fondano l'American Identity.",
-              "La guerra d'indipendenza si chiude nel 1783; George Washington diventa il primo presidente."
+              "Le tredici colonie protestano contro le tasse imposte da Londra senza avere rappresentanti politici. Da qui nascono eventi come lo Stamp Act e il Boston Tea Party del 1773.",
+              "La Dichiarazione di indipendenza del 4 luglio 1776, scritta soprattutto da Thomas Jefferson, afferma che tutti gli uomini nascono uguali.",
+              "L'idea di uguaglianza e di diritti che nessuno può togliere, come vita, libertà e ricerca della felicità, diventa la base della identità americana.",
+              "La guerra d'indipendenza finisce nel 1783 e George Washington diventa il primo presidente degli Stati Uniti."
             ]
           },
           {
             "titolo": "La Rivoluzione francese vista dall'Inghilterra",
             "punti": [
-              "1789: presa della Bastiglia; in Gran Bretagna i radicali (Thomas Paine, 'Rights of Man') esultano, i conservatori (Edmund Burke, 'Reflections on the Revolution in France') condannano.",
-              "Il Terrore e le guerre napoleoniche spingono il governo inglese a misure repressive contro i riformatori.",
-              "I primi romantici (Wordsworth, Coleridge) inizialmente entusiasti della Rivoluzione, poi delusi dalla sua deriva violenta."
+              "Nel 1789, dopo la presa della Bastiglia, in Gran Bretagna i radicali come Thomas Paine esultano, mentre i conservatori come Edmund Burke criticano la rivoluzione.",
+              "Il periodo del Terrore e poi le guerre napoleoniche spingono il governo inglese a reprimere chi chiede riforme.",
+              "Anche Wordsworth e Coleridge, all'inizio favorevoli alla rivoluzione, restano poi delusi dalla sua violenza."
             ]
           },
           {
-            "titolo": "Riots and reforms",
+            "titolo": "Proteste e riforme",
             "punti": [
-              "Crisi economica post-napoleonica, disoccupazione e Corn Laws provocano proteste popolari.",
-              "Peterloo Massacre (1819): la cavalleria carica una folla pacifica a Manchester.",
-              "First Reform Act (1832): amplia il diritto di voto alla middle class, primo passo verso la democrazia parlamentare.",
-              "Abolizione della tratta degli schiavi (1807) e poi della schiavitù nell'Impero (1833)."
+              "Dopo le guerre napoleoniche arrivano crisi economica, disoccupazione e malcontento, aggravati anche dalle Corn Laws.",
+              "Nel 1819 avviene il Peterloo Massacre: la cavalleria attacca una folla pacifica a Manchester.",
+              "Il First Reform Act del 1832 allarga il voto alla classe media ed è un primo passo verso una democrazia più ampia.",
+              "Nel 1807 viene abolita la tratta degli schiavi e nel 1833 anche la schiavitù nell'Impero britannico."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "scienze-umane",
-            "testo": "Gli ideali illuministi di uguaglianza e diritti naturali alimentano il pensiero politico moderno e la riflessione sociologica sulla cittadinanza e i diritti."
+            "testo": "Gli ideali illuministi di uguaglianza e diritti naturali influenzano la politica moderna e la riflessione sulla cittadinanza."
           },
           {
             "materia": "italiano",
-            "testo": "Gli echi della Rivoluzione francese attraversano il Neoclassicismo e il primo Romanticismo italiano (Foscolo e la delusione post-napoleonica)."
+            "testo": "Gli effetti della Rivoluzione francese si sentono anche nel Neoclassicismo e nel primo Romanticismo italiano, per esempio in Foscolo e nella delusione dopo Napoleone."
           }
         ]
       }
     },
     {
       "id": "romanticismo",
-      "titolo": "The Romanticism, Romantic interests and the Sublime",
+      "titolo": "Il Romanticismo, i suoi temi e il sublime",
       "area": "Romantic Age",
       "priorita": 2,
       "scheda": {
-        "sintesi": "Il Romanticism inglese nasce convenzionalmente nel 1798 con le Lyrical Ballads di Wordsworth e Coleridge e privilegia imagination, emozione, natura e individuo contro la ragione illuminista. È preparato da una 'new sensibility' di fine Settecento, al cui centro sta la categoria estetica del sublime teorizzata da Edmund Burke: il piacere misto a terrore davanti a ciò che è immenso, oscuro e incontrollabile.",
+        "sintesi": "Il Romanticismo inglese nasce di solito nel 1798 con le Lyrical Ballads di Wordsworth e Coleridge. Mette al centro immaginazione, emozioni, natura e individuo, più della sola ragione. Importante è anche il sublime, cioè il sentimento misto di meraviglia e paura davanti a qualcosa di enorme o fuori controllo.",
         "sezioni": [
           {
-            "titolo": "The sublime: a new sensibility",
+            "titolo": "Il sublime e la nuova sensibilità",
             "punti": [
-              "Edmund Burke, 'A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful' (1757): distinzione tra beautiful (armonia, piacere) e sublime (vastità, oscurità, terrore che affascina).",
-              "Il sublime si prova davanti a montagne, tempeste, oceani, rovine: la natura che supera la misura umana.",
-              "Questa sensibilità prepara il gusto gotico e la poesia romantica della natura.",
-              "Anche la graveyard poetry e l'interesse per il primitivo e il medievale segnano la transizione dal razionalismo augusteo."
+              "Nel 1757 Edmund Burke distingue tra bello, che dà armonia e piacere, e sublime, che unisce grandezza, oscurità e paura che affascina.",
+              "Il sublime si prova davanti a montagne, tempeste, oceani o rovine, cioè davanti a una natura più grande dell'uomo.",
+              "Questa sensibilità prepara sia il gusto gotico sia la poesia romantica della natura.",
+              "Anche la graveyard poetry, cioè la poesia dei cimiteri, e l'interesse per il mondo medievale segnano il passaggio dal razionalismo del Settecento al Romanticismo."
             ]
           },
           {
-            "titolo": "Romantic interests",
+            "titolo": "Temi romantici",
             "punti": [
-              "Imagination come facoltà creatrice suprema, superiore alla ragione: il poeta 'vede oltre' la realtà sensibile.",
-              "Natura come forza viva, maestra e consolatrice, non più semplice scenario decorativo.",
-              "Childhood: l'infanzia come età dell'innocenza e della visione pura (Blake, Wordsworth).",
-              "Individualism e culto dell'eroe ribelle e malinconico (il Byronic hero).",
-              "Interesse per l'esotico, il medievale, il soprannaturale e il popolare (ballads).",
-              "Il poeta come profeta e mediatore tra uomo e natura."
+              "L'immaginazione è vista come la facoltà più alta, capace di andare oltre ciò che si vede.",
+              "La natura non è più solo uno sfondo, ma una forza viva che insegna e consola.",
+              "L'infanzia è considerata l'età della innocenza e di uno sguardo più puro sul mondo, come in Blake e Wordsworth.",
+              "Conta molto anche l'individualismo, con figure di eroi ribelli e malinconici come il Byronic hero.",
+              "I romantici amano l'esotico, il medioevo, il soprannaturale e le ballate popolari.",
+              "Il poeta viene visto come una guida capace di capire la natura e di parlarne agli altri."
             ]
           },
           {
             "titolo": "Due generazioni di poeti",
             "punti": [
-              "First generation: Wordsworth e Coleridge (Lyrical Ballads, 1798, con la celebre Preface del 1800, manifesto del Romanticismo inglese).",
-              "Second generation: Byron, Percy Bysshe Shelley e Keats — vite brevi, ribellione, esilio in Italia.",
-              "Wordsworth: poesia del quotidiano e 'emotion recollected in tranquillity'; Coleridge: soprannaturale e 'willing suspension of disbelief'."
+              "La prima generazione è formata da Wordsworth e Coleridge, autori delle Lyrical Ballads del 1798 e della famosa Preface del 1800.",
+              "La seconda generazione comprende Byron, Percy Bysshe Shelley e Keats, tutti segnati da vite brevi, ribellione ed esilio in Italia.",
+              "Wordsworth parla del quotidiano e della emozione ricordata con calma. Coleridge invece lavora soprattutto sul soprannaturale e sulla sospensione dell'incredulità."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "italiano",
-            "testo": "Confronto con il Romanticismo italiano: la polemica classico-romantica, Manzoni e Leopardi; in Leopardi natura e immaginazione hanno però un esito materialista e pessimista."
+            "testo": "Si può confrontare con il Romanticismo italiano, tra polemica classico-romantica, Manzoni e Leopardi. In Leopardi però natura e immaginazione portano a una visione più pessimista."
           },
           {
             "materia": "arte",
-            "testo": "Il sublime in pittura: Friedrich ('Viandante sul mare di nebbia'), Turner e Constable per il paesaggio romantico inglese."
+            "testo": "In pittura il sublime si vede bene in Friedrich con Viandante sul mare di nebbia e nei paesaggi romantici di Turner e Constable."
           },
           {
             "materia": "scienze-umane",
-            "testo": "La riscoperta romantica dell'infanzia anticipa l'attenzione pedagogica al bambino come soggetto attivo (da Rousseau alle scuole nuove)."
+            "testo": "L'attenzione romantica per l'infanzia anticipa idee pedagogiche moderne, da Rousseau in poi, che vedono il bambino come soggetto attivo."
           }
         ]
       }
@@ -160,144 +160,144 @@
       "area": "Romantic Age",
       "priorita": 1,
       "scheda": {
-        "sintesi": "William Blake (1757-1827), poeta, pittore e incisore visionario, è considerato un precursore del Romanticismo. Nelle raccolte complementari Songs of Innocence (1789) e Songs of Experience (1794) mostra 'the two contrary states of the human soul': innocenza ed esperienza non si escludono ma coesistono. Critica radicale delle istituzioni (Chiesa, monarchia, società industriale) e difesa dei deboli, in particolare dei bambini sfruttati.",
+        "sintesi": "William Blake è un poeta, pittore e incisore che anticipa molti temi romantici. Nelle raccolte Songs of Innocence e Songs of Experience mostra i due stati opposti dell'animo umano: innocenza ed esperienza. Critica istituzioni come Chiesa, monarchia e società industriale e difende soprattutto i più deboli, come i bambini sfruttati.",
         "sezioni": [
           {
             "titolo": "Visione e poetica",
             "punti": [
-              "Artista totale: incideva e illustrava personalmente i suoi testi (illuminated printing).",
-              "Imagination come visione divina: il poeta è un profeta che vede l'essenza spirituale delle cose.",
-              "Concezione per opposti complementari: 'without contraries is no progression' — innocenza/esperienza, agnello/tigre.",
-              "Simpatia per le rivoluzioni americana e francese e denuncia delle ingiustizie sociali."
+              "Blake è un artista completo: scrive, incide e illustra da solo i suoi libri con la tecnica della stampa illustrata.",
+              "Per lui l'immaginazione è una visione quasi sacra: il poeta vede il significato profondo delle cose.",
+              "Pensa per opposti che stanno insieme: innocenza ed esperienza, agnello e tigre. Senza contrari non c'è vero progresso.",
+              "Guarda con simpatia alle rivoluzioni americana e francese e denuncia le ingiustizie sociali del suo tempo."
             ]
           },
           {
             "titolo": "The Lamb e The Tyger",
             "punti": [
-              "'The Lamb' (Songs of Innocence): tono di filastrocca infantile, domanda 'who made thee?'; l'agnello rimanda a Cristo, alla mitezza e alla creazione benevola.",
-              "'The Tyger' (Songs of Experience): ritmo martellante come un'incudine; la tigre, 'burning bright', incarna l'energia terribile e sublime della creazione.",
-              "Domanda centrale: 'Did he who made the Lamb make thee?' — lo stesso Dio ha creato mitezza e ferocia?",
-              "Le due poesie sono speculari: stessa struttura a domande, due stati opposti dell'anima umana.",
-              "Immaginario del fabbro (hammer, furnace, anvil) per il creatore della tigre: creazione come atto di forza."
+              "The Lamb ha il tono semplice di una filastrocca. L'agnello richiama Cristo, la dolcezza e una creazione buona.",
+              "The Tyger ha invece un ritmo forte, quasi da martello. La tigre rappresenta una energia potente, terribile e sublime.",
+              "La domanda centrale è questa: lo stesso Dio che ha creato l'agnello ha creato anche la tigre?",
+              "Le due poesie si rispecchiano: hanno una struttura simile, ma mostrano due lati opposti dell'animo umano.",
+              "Le immagini del fabbro, come martello, fornace e incudine, fanno vedere la creazione come un atto di forza."
             ]
           },
           {
             "titolo": "The Chimney Sweeper",
             "punti": [
-              "Esiste in due versioni, una in Innocence (1789) e una in Experience (1794).",
-              "Denuncia del child labour: bambini venduti come spazzacamini, condannati a malattia e morte precoce.",
-              "Nella versione dell'Innocence il sogno dell'angelo consola il piccolo Tom Dacre, ma l'ironia colpisce chi promette il paradiso in cambio di obbedienza ('if all do their duty, they need not fear harm').",
-              "Nella versione dell'Experience l'accusa è esplicita: i genitori sono andati a pregare 'God and his Priest and King' mentre il figlio soffre.",
-              "Blake accusa le istituzioni (Chiesa, Stato, famiglia) di legittimare lo sfruttamento."
+              "Il testo esiste in due versioni, una in Songs of Innocence del 1789 e una in Songs of Experience del 1794.",
+              "Blake denuncia il lavoro minorile: bambini molto piccoli venduti come spazzacamini e destinati a malattia e morte precoce.",
+              "Nella versione della Innocence il sogno dell'angelo consola Tom Dacre, ma Blake colpisce con ironia chi promette il paradiso in cambio di obbedienza.",
+              "Nella versione della Experience l'accusa è più diretta: mentre il figlio soffre, i genitori sono andati a pregare Dio, il prete e il re.",
+              "Blake accusa quindi le istituzioni, come Chiesa, Stato e famiglia, di rendere normale lo sfruttamento."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "scienze-umane",
-            "testo": "Il child labour denunciato da Blake è il punto di partenza della legislazione sociale e della pedagogia moderna: il bambino da forza-lavoro a soggetto di diritti e di educazione."
+            "testo": "Il lavoro minorile denunciato da Blake spinge verso leggi sociali moderne e verso una nuova idea del bambino come persona con diritti."
           },
           {
             "materia": "italiano",
-            "testo": "La denuncia dello sfruttamento infantile richiama 'Rosso Malpelo' di Verga: anche lì un bambino lavoratore vittima di un sistema disumano."
+            "testo": "La denuncia dello sfruttamento infantile ricorda Rosso Malpelo di Verga, dove un ragazzo è vittima di un sistema crudele."
           },
           {
             "materia": "arte",
-            "testo": "Blake incisore e pittore visionario: confronto con l'arte visionaria e simbolica, lontana dal realismo accademico."
+            "testo": "Blake, anche come pittore e incisore, propone una arte visionaria e simbolica, molto lontana dal realismo accademico."
           }
         ]
       }
     },
     {
       "id": "gothic-fiction",
-      "titolo": "Gothic Fiction",
+      "titolo": "Il romanzo gotico",
       "area": "Romantic Age",
       "priorita": 2,
       "scheda": {
-        "sintesi": "Il Gothic novel nasce nel 1764 con The Castle of Otranto di Horace Walpole e domina il gusto di fine Settecento: castelli in rovina, atmosfere notturne, soprannaturale, terrore. È la traduzione narrativa del sublime di Burke e l'esplorazione del lato oscuro e irrazionale della mente, represso dall'Illuminismo. Prepara Frankenstein di Mary Shelley e riemergerà nel tardo Ottocento con Stevenson e Wilde.",
+        "sintesi": "Il romanzo gotico nasce nel 1764 con The Castle of Otranto di Horace Walpole. Porta in scena castelli in rovina, notti, mistero, soprannaturale e paura. Esprime in forma narrativa il sublime di Burke e il lato oscuro della mente che l'Illuminismo aveva cercato di tenere sotto controllo. Prepara opere come Frankenstein e tornerà forte nel tardo Ottocento.",
         "sezioni": [
           {
             "titolo": "Caratteri del genere",
             "punti": [
-              "Setting: castelli medievali, abbazie in rovina, sotterranei, paesaggi selvaggi, notte e tempesta.",
-              "Personaggi tipo: il villain tirannico e affascinante, l'eroina perseguitata, il monaco corrotto, fantasmi e mostri.",
-              "Atmosfera di suspense, mistero e terrore; presenza del soprannaturale (reale o spiegato).",
-              "Temi: il rimosso, il proibito, la colpa, il doppio, l'eccesso delle passioni.",
-              "Legame diretto con il sublime: il terrore come fonte di piacere estetico."
+              "Gli ambienti tipici sono castelli medievali, abbazie in rovina, sotterranei, paesaggi selvaggi, notte e tempesta.",
+              "I personaggi tipici sono il cattivo affascinante e crudele, la eroina perseguitata, il monaco corrotto, fantasmi e mostri.",
+              "L'atmosfera punta su suspense, mistero e terrore, con elementi soprannaturali reali oppure spiegati alla fine.",
+              "I temi principali sono il rimosso, il proibito, la colpa, il doppio e le passioni portate all'eccesso.",
+              "Il legame con il sublime è diretto: la paura diventa anche una fonte di piacere estetico."
             ]
           },
           {
             "titolo": "Autori e sviluppi",
             "punti": [
-              "Horace Walpole, The Castle of Otranto (1764): primo Gothic novel.",
-              "Ann Radcliffe (The Mysteries of Udolpho): terrore 'spiegato' e paesaggi sublimi; Matthew Lewis (The Monk): orrore esplicito.",
-              "Mary Shelley con Frankenstein (1818) fonde gotico e riflessione scientifica.",
-              "Eredità tardo-vittoriana: Dr Jekyll and Mr Hyde, The Picture of Dorian Gray, Dracula di Bram Stoker."
+              "Horace Walpole con The Castle of Otranto del 1764 scrive il primo vero romanzo gotico.",
+              "Ann Radcliffe usa un terrore più spiegato e paesaggi sublimi, mentre Matthew Lewis in The Monk mostra un orrore più esplicito.",
+              "Con Frankenstein del 1818 Mary Shelley unisce il gotico alla riflessione sulla scienza.",
+              "Nel tardo periodo vittoriano il gotico ritorna in opere come Dr Jekyll and Mr Hyde, The Picture of Dorian Gray e Dracula."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "scienze-umane",
-            "testo": "L'esplorazione gotica dell'irrazionale e del rimosso anticipa la scoperta freudiana dell'inconscio e il concetto di 'perturbante' (Unheimlich)."
+            "testo": "Il gotico esplora ciò che è irrazionale e nascosto. Per questo anticipa Freud, l'inconscio e il perturbante, cioè ciò che è familiare ma fa paura."
           },
           {
             "materia": "italiano",
-            "testo": "Il gusto per il notturno e il sepolcrale ha paralleli nella poesia sepolcrale europea e in certe atmosfere della Scapigliatura italiana (Tarchetti, 'Fosca')."
+            "testo": "Il gusto per il buio, la morte e il sepolcrale ha punti in comune con la poesia sepolcrale europea e con alcune atmosfere della Scapigliatura italiana, per esempio in Fosca di Tarchetti."
           }
         ]
       }
     },
     {
       "id": "mary-shelley-frankenstein",
-      "titolo": "Mary Shelley: Frankenstein, or the Modern Prometheus",
+      "titolo": "Mary Shelley: Frankenstein o il moderno Prometeo",
       "area": "Romantic Age",
       "priorita": 1,
       "scheda": {
-        "sintesi": "Mary Shelley (1797-1851), figlia del filosofo William Godwin e della femminista Mary Wollstonecraft e moglie del poeta Percy Bysshe Shelley, scrive Frankenstein (1818) a soli diciannove anni, nato da una sfida letteraria a Villa Diodati nell'estate del 1816. Il romanzo unisce Gothic novel e fantascienza ante litteram: lo scienziato Victor Frankenstein crea un essere vivente e poi lo abbandona, scatenando una catena di vendette. È una riflessione sui limiti della scienza e sulla responsabilità del creatore.",
+        "sintesi": "Mary Shelley scrive Frankenstein nel 1818 quando è ancora giovanissima. Il romanzo unisce elementi gotici e una prima forma di fantascienza. Victor Frankenstein crea un essere vivente e poi lo abbandona, dando inizio a una serie di tragedie. Il libro riflette sui limiti della scienza e sulla responsabilità di chi crea.",
         "sezioni": [
           {
-            "titolo": "Genesi e struttura",
+            "titolo": "Nascita e struttura del romanzo",
             "punti": [
-              "Estate 1816 a Villa Diodati (lago di Ginevra) con Byron e Percy Shelley: la gara di racconti di fantasmi.",
-              "Struttura a cornice (frame narrative): le lettere dell'esploratore Walton contengono il racconto di Victor, che a sua volta contiene quello della creatura — tre narratori concentrici.",
-              "Sottotitolo 'The Modern Prometheus': come Prometeo, Victor ruba un potere divino (dare la vita) e ne viene punito.",
-              "Influenze: galvanismo ed esperimenti sull'elettricità, Paradise Lost di Milton, il dibattito scientifico dell'epoca."
+              "Nell'estate del 1816, a Villa Diodati sul lago di Ginevra, Mary Shelley partecipa con Byron e Percy Shelley a una gara di racconti di fantasmi.",
+              "Il romanzo ha una struttura a cornice: le lettere di Walton contengono il racconto di Victor, che contiene a sua volta quello della creatura. Ci sono quindi tre voci narrative.",
+              "Il sottotitolo Il moderno Prometeo richiama il mito di Prometeo: Victor prende un potere che sembra divino, cioè dare la vita, e per questo viene punito.",
+              "Tra le influenze ci sono il galvanismo, cioè gli esperimenti sulla elettricità, Paradise Lost di Milton e il dibattito scientifico del tempo."
             ]
           },
           {
-            "titolo": "The creation of the monster (brano)",
+            "titolo": "La creazione del mostro",
             "punti": [
-              "'It was on a dreary night of November': ambientazione gotica, notte, pioggia, candela quasi consumata.",
-              "Victor anima la creatura e ne descrive il corpo: dettagli scelti per essere belli (capelli neri lucidi, denti bianchi) che in combinazione risultano orribili (occhio acquoso, pelle gialla che a stento copre muscoli e arterie).",
-              "Reazione immediata: orrore e disgusto; Victor fugge e abbandona la creatura — il vero atto colpevole non è la creazione ma l'abbandono.",
-              "Il sogno di Elizabeth che si trasforma nel cadavere della madre: senso di colpa e presagio di morte.",
-              "Lessico del sublime e dell'orrore: 'catastrophe', 'wretch', 'horror and disgust'."
+              "La scena si apre in una cupa notte di novembre, con pioggia e luce debole: un tipico ambiente gotico.",
+              "Victor costruisce un corpo scegliendo dettagli che da soli sembrano belli, ma insieme risultano orribili, come l'occhio acquoso e la pelle gialla.",
+              "Appena la creatura prende vita, Victor prova orrore e fugge. La sua colpa più grave non è creare, ma abbandonare ciò che ha creato.",
+              "Nel sogno, Elizabeth si trasforma nel cadavere della madre: è un segno di colpa e un annuncio di morte.",
+              "Il linguaggio usa parole di orrore e catastrofe per far sentire il momento come qualcosa di terribile."
             ]
           },
           {
-            "titolo": "Temi",
+            "titolo": "Temi principali",
             "punti": [
-              "L'ambizione scientifica senza etica (overreacher): Victor come scienziato faustiano.",
-              "La creatura non nasce malvagia: diventa violenta perché rifiutata da tutti — natura vs società (eco di Rousseau).",
-              "Il doppio: Victor e la creatura come due facce della stessa identità.",
-              "Solitudine, mostruosità e responsabilità: chi è il vero 'mostro'?",
-              "Attualità: bioetica, intelligenza artificiale, limiti della tecnica."
+              "Victor rappresenta la ambizione scientifica senza limiti morali, cioè lo scienziato che vuole andare oltre ogni confine.",
+              "La creatura non nasce cattiva. Diventa violenta perché tutti la rifiutano, quindi il problema non è solo la natura ma anche la società.",
+              "Victor e la creatura sono anche un doppio: due facce della stessa identità.",
+              "Il romanzo parla di solitudine, mostruosità e responsabilità, e fa chiedere chi sia davvero il mostro.",
+              "Ancora oggi il libro fa pensare a bioetica, intelligenza artificiale e limiti della tecnica."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "scienze-umane",
-            "testo": "La creatura rifiutata illustra teorie su socializzazione e stigma: l'identità deviante come prodotto dell'etichettamento sociale, non della natura (Rousseau, labelling theory)."
+            "testo": "La creatura, rifiutata da tutti, aiuta a capire come l'identità possa essere segnata dallo stigma sociale e non solo dalla natura."
           },
           {
             "materia": "italiano",
-            "testo": "Il tema del 'diverso' escluso ed emarginato dialoga con i vinti di Verga e con la riflessione novecentesca sull'identità."
+            "testo": "Il tema del diverso escluso dialoga con i personaggi emarginati di Verga e con molte riflessioni novecentesche sulla identità."
           },
           {
             "materia": "inglese",
-            "testo": "Frankenstein anticipa il tema del doppio di Dr Jekyll and Mr Hyde e l'inquietudine verso la scienza che torna nella distopia di Orwell."
+            "testo": "Frankenstein anticipa il tema del doppio presente in Dr Jekyll and Mr Hyde e la paura verso la scienza che tornerà anche in Orwell."
           }
         ]
       }
@@ -308,42 +308,42 @@
       "area": "Romantic Age",
       "priorita": 1,
       "scheda": {
-        "sintesi": "William Wordsworth (1770-1850), poeta del Lake District, fonda con Coleridge il Romanticismo inglese pubblicando le Lyrical Ballads (1798). Nella Preface del 1800 definisce la poesia 'the spontaneous overflow of powerful feelings' che nasce da 'emotion recollected in tranquillity'. La natura è per lui maestra e fonte di gioia morale; il linguaggio poetico deve avvicinarsi alla lingua realmente parlata dagli uomini comuni.",
+        "sintesi": "Wordsworth, poeta del Lake District, fonda con Coleridge il Romanticismo inglese con le Lyrical Ballads del 1798. Nella Preface del 1800 dice che la poesia nasce da emozioni forti ricordate con calma. Per lui la natura insegna, consola e dà gioia morale. Anche la lingua poetica deve essere vicina a quella delle persone comuni.",
         "sezioni": [
           {
-            "titolo": "Poetica (Preface to Lyrical Ballads)",
+            "titolo": "Poetica",
             "punti": [
-              "Oggetto della poesia: 'incidents and situations from common life', la vita umile e rurale.",
-              "Linguaggio: 'a selection of language really used by men', contro la poetic diction artificiosa del Settecento.",
-              "Definizione della poesia: 'spontaneous overflow of powerful feelings... emotion recollected in tranquillity' — l'emozione vissuta viene ricreata nella memoria.",
-              "Il poeta è 'a man speaking to men', dotato però di maggiore sensibilità e immaginazione.",
-              "La natura educa moralmente l'uomo; l'infanzia è la stagione del legame più puro con essa ('The Child is father of the Man')."
+              "La poesia deve parlare di episodi e situazioni della vita comune, soprattutto della vita semplice e rurale.",
+              "Il linguaggio deve essere vicino a quello davvero usato dagli uomini, contro lo stile artificiale della poesia del Settecento.",
+              "La poesia nasce da emozioni forti che vengono poi ricordate e rielaborate in un momento di calma.",
+              "Il poeta è un uomo che parla agli altri uomini, ma ha più sensibilità e immaginazione.",
+              "La natura educa moralmente la persona e l'infanzia è il momento del legame più puro con essa."
             ]
           },
           {
-            "titolo": "Daffodils (I Wandered Lonely as a Cloud)",
+            "titolo": "Daffodils",
             "punti": [
-              "Composta nel 1804, ispirata a una passeggiata con la sorella Dorothy presso il lago Ullswater (1802); pubblicata nel 1807.",
-              "Quattro strofe di sei versi (tetrametri giambici, rima ABABCC).",
-              "Il poeta, vagando 'lonely as a cloud' (similitudine iniziale), scopre una distesa di giunchiglie dorate che danzano nella brezza: 'a host of golden daffodils'.",
-              "Personificazione dei fiori che 'danzano' e superano in gioia le onde del lago.",
-              "Ultima strofa: il vero dono arriva dopo, quando in 'vacant or pensive mood' i fiori 'flash upon that inward eye / which is the bliss of solitude' — la memoria e l'immaginazione ricreano l'emozione.",
-              "Perfetta illustrazione della 'emotion recollected in tranquillity': struttura esperienza-ricordo."
+              "La poesia è scritta nel 1804, dopo una passeggiata con la sorella Dorothy vicino al lago Ullswater, e viene pubblicata nel 1807.",
+              "È composta da quattro strofe di sei versi, con ritmo regolare e schema di rime ABABCC.",
+              "Il poeta, solo come una nuvola, vede una lunga fila di giunchiglie dorate che si muovono nel vento.",
+              "I fiori sono personificati: sembrano danzare e appaiono ancora più gioiosi delle onde del lago.",
+              "Il vero dono arriva dopo, quando nei momenti di solitudine il ricordo dei fiori torna nella mente e ridà felicità.",
+              "La poesia mostra perfettamente la idea wordsworthiana della emozione ricordata con tranquillità."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "italiano",
-            "testo": "Il ruolo della memoria e dell'immaginazione richiama la 'rimembranza' leopardiana ('A Silvia', 'Le ricordanze'), pur senza il pessimismo di Leopardi."
+            "testo": "Il ruolo della memoria e della immaginazione ricorda la rimembranza di Leopardi, anche se Wordsworth non arriva al suo pessimismo."
           },
           {
             "materia": "scienze-umane",
-            "testo": "La fiducia di Wordsworth nella natura come educatrice dialoga con il naturalismo pedagogico di Rousseau (l'Emilio)."
+            "testo": "La fiducia nella natura come educatrice si collega al pensiero pedagogico di Rousseau e al suo naturalismo."
           },
           {
             "materia": "arte",
-            "testo": "Il paesaggio come stato d'animo: i cieli e i paesaggi di Constable e Turner, contemporanei di Wordsworth."
+            "testo": "Il paesaggio come specchio delle emozioni si ritrova anche nei quadri di Constable e Turner."
           }
         ]
       }
@@ -354,90 +354,90 @@
       "area": "Romantic Age",
       "priorita": 1,
       "scheda": {
-        "sintesi": "Samuel Taylor Coleridge (1772-1834), poeta e critico, è l'altro fondatore del Romanticismo inglese. Nelle Lyrical Ballads il suo compito era rendere credibile il soprannaturale, ottenendo dal lettore la 'willing suspension of disbelief'. The Rime of the Ancient Mariner (1798), ballata in sette parti, racconta la colpa, la punizione e la parziale redenzione di un marinaio che uccide un albatro: viaggio fisico e spirituale insieme.",
+        "sintesi": "Coleridge è, insieme a Wordsworth, uno dei fondatori del Romanticismo inglese. Nelle Lyrical Ballads il suo compito è rendere credibile il soprannaturale. The Rime of the Ancient Mariner racconta la colpa, la punizione e la parziale redenzione di un marinaio che uccide un albatro. È insieme un viaggio reale e un percorso interiore.",
         "sezioni": [
           {
             "titolo": "Poetica",
             "punti": [
-              "Divisione dei compiti nelle Lyrical Ballads: Wordsworth rende straordinario l'ordinario, Coleridge rende credibile lo straordinario.",
-              "'Willing suspension of disbelief... which constitutes poetic faith' (Biographia Literaria, 1817).",
-              "Distinzione tra primary imagination (percezione comune), secondary imagination (facoltà poetica che dissolve e ricrea) e fancy (meccanica associazione di immagini).",
-              "Influenze: filosofia idealista tedesca, mistica, letteratura di viaggio; l'oppio e il sogno ('Kubla Khan')."
+              "Nelle Lyrical Ballads Wordsworth rende speciale ciò che è normale, mentre Coleridge rende credibile ciò che è straordinario.",
+              "La famosa formula willing suspension of disbelief indica la scelta del lettore di accettare per un momento il soprannaturale.",
+              "Coleridge distingue tra immaginazione primaria, che è la percezione comune, immaginazione secondaria, che ricrea poeticamente, e fancy, che unisce immagini in modo più meccanico.",
+              "Tra le sue influenze ci sono la filosofia idealista tedesca, la mistica, i racconti di viaggio, il sogno e anche l'uso dell'oppio."
             ]
           },
           {
-            "titolo": "The Rime: trama e struttura",
+            "titolo": "Trama e struttura del poema",
             "punti": [
-              "Forma: ballata tradizionale (quartine, rima ABCB, ripetizioni, arcaismi) con glosse in prosa a margine aggiunte nel 1817.",
-              "Il vecchio marinaio ferma uno degli invitati a un matrimonio (wedding guest) e lo costringe ad ascoltare con il suo 'glittering eye'.",
-              "Parte I ('The killing of the albatross'): la nave spinta da una tempesta verso il polo sud, tra ghiacci e nebbia; l'albatro appare come 'a Christian soul' e porta fortuna; il marinaio lo uccide con la balestra senza motivo: 'With my cross-bow / I shot the Albatross'.",
-              "Punizione: bonaccia, sete ('Water, water, every where, / Nor any drop to drink'), la nave fantasma con Death e Life-in-Death, la morte dell'equipaggio.",
-              "Redenzione parziale: il marinaio benedice inconsapevolmente le creature marine ('water snakes') e l'albatro cade dal suo collo; ma è condannato a vagare raccontando la sua storia."
+              "Il testo riprende la forma della ballata tradizionale, con rime, ripetizioni, parole antiche e glosse in prosa aggiunte nel 1817.",
+              "Il vecchio marinaio ferma un invitato a un matrimonio e lo obbliga ad ascoltare il suo racconto con il suo sguardo magnetico.",
+              "Nella prima parte la nave arriva verso il polo sud tra ghiacci e nebbia. Appare un albatro che sembra portare fortuna, ma il marinaio lo uccide senza motivo.",
+              "Arriva la punizione: bonaccia, sete, la nave fantasma con Death e Life-in-Death e infine la morte dell'equipaggio.",
+              "La redenzione è solo parziale: quando benedice senza volerlo le creature marine, l'albatro cade dal suo collo, ma lui deve continuare a raccontare la sua storia."
             ]
           },
           {
-            "titolo": "Temi e interpretazioni",
+            "titolo": "Temi e significati",
             "punti": [
-              "Colpa, punizione, espiazione: struttura da peccato originale (lettura cristiana) ma anche crimine contro la natura.",
-              "L'albatro come simbolo: innocenza, natura sacra, patto tra uomo e creato.",
-              "Morale esplicita: 'He prayeth best, who loveth best / All things both great and small'.",
-              "Il marinaio come figura del poeta: condannato a raccontare; il racconto come compulsione e missione.",
-              "Lettura ecologica moderna: la distruzione gratuita della natura e le sue conseguenze."
+              "La struttura del poema è quella di colpa, punizione ed espiazione. Può essere letta in modo cristiano, ma anche come un delitto contro la natura.",
+              "L'albatro diventa simbolo di innocenza, di natura sacra e del legame tra uomo e creato.",
+              "La morale è chiara: prega meglio chi ama tutte le creature, grandi e piccole.",
+              "Il marinaio ricorda il poeta: è costretto a raccontare e il racconto diventa insieme una condanna e una missione.",
+              "Oggi il testo può essere letto anche in chiave ecologica, come critica alla distruzione gratuita della natura."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "italiano",
-            "testo": "Il viaggio per mare come percorso di conoscenza e trasgressione richiama l'Ulisse dantesco (Inferno XXVI): anche lì il superamento del limite è punito."
+            "testo": "Il viaggio per mare come sfida al limite ricorda l'Ulisse di Dante, che viene punito per avere voluto andare oltre."
           },
           {
             "materia": "scienze-umane",
-            "testo": "Il senso di colpa e la compulsione a raccontare anticipano i meccanismi psichici descritti da Freud (coazione a ripetere, funzione terapeutica della parola)."
+            "testo": "Il senso di colpa e il bisogno di raccontare fanno pensare a meccanismi psicologici che Freud descriverà più tardi."
           },
           {
             "materia": "arte",
-            "testo": "Mare e naufragio come scenari del sublime: Turner ('La tempesta di neve', 'La nave negriera') e Géricault ('La zattera della Medusa')."
+            "testo": "Il mare e il naufragio sono esempi di sublime anche in pittura, per esempio in Turner e in Géricault."
           }
         ]
       }
     },
     {
       "id": "george-gordon-byron",
-      "titolo": "George Gordon Byron and the Byronic hero",
+      "titolo": "George Gordon Byron e l'eroe byroniano",
       "area": "Romantic Age",
       "priorita": 2,
       "scheda": {
-        "sintesi": "George Gordon, Lord Byron (1788-1824), è il poeta più celebre della seconda generazione romantica e una vera star europea: vita scandalosa, esilio volontario dall'Inghilterra (1816), morte a Missolungi mentre sosteneva l'indipendenza greca. Crea il Byronic hero: outsider malinconico, ribelle, orgoglioso, segnato da una colpa segreta. Childe Harold's Pilgrimage (1812-1818) lo rese famoso 'overnight'.",
+        "sintesi": "Lord Byron è il poeta più famoso della seconda generazione romantica ed è una vera celebrità europea. Ha una vita scandalosa, lascia l'Inghilterra nel 1816 e muore in Grecia mentre sostiene la sua indipendenza. Crea il Byronic hero, un eroe solitario, ribelle, malinconico e segnato da una colpa segreta. Childe Harold's Pilgrimage lo rende famoso in poco tempo.",
         "sezioni": [
           {
             "titolo": "Vita e mito",
             "punti": [
-              "'I awoke one morning and found myself famous': il successo immediato dei primi due canti di Childe Harold (1812).",
-              "Scandali e debiti lo spingono a lasciare per sempre l'Inghilterra nel 1816 (Svizzera con gli Shelley, poi Italia: Venezia, Ravenna, Pisa, Genova).",
-              "Impegno per le cause di libertà: Carboneria in Italia, indipendenza greca; muore a Missolungi nel 1824.",
-              "Byron diventa un mito europeo: il 'byronismo' influenza tutta la cultura ottocentesca."
+              "Byron dice di essersi svegliato una mattina e di essersi trovato famoso dopo il successo dei primi due canti di Childe Harold nel 1812.",
+              "Scandali e debiti lo spingono a lasciare per sempre l'Inghilterra nel 1816. Vive prima in Svizzera e poi in Italia.",
+              "Partecipa anche a cause politiche di libertà, come la Carboneria in Italia e la lotta per la indipendenza greca. Muore a Missolungi nel 1824.",
+              "Diventa un mito europeo e il byronismo influenza molta cultura dell'Ottocento."
             ]
           },
           {
             "titolo": "Il Byronic hero e Childe Harold",
             "punti": [
-              "Byronic hero: solitario, malinconico, cinico ma capace di passioni profonde, ribelle alle convenzioni, segnato da un oscuro passato — proiezione idealizzata dell'autore.",
-              "Childe Harold's Pilgrimage: poema narrativo in strofe spenseriane; un giovane aristocratico disilluso viaggia per Europa e Mediterraneo ('childe' è titolo medievale di un giovane nobile).",
-              "Nel brano 'Childe Harold soul searching' (Canto III) Harold, deluso dal mondo e dagli uomini, cerca se stesso e trova compagnia nella natura selvaggia: solitudine come condizione dell'autocoscienza.",
-              "Il viaggio come Grand Tour interiore: i luoghi (campi di Waterloo, Alpi, Italia) diventano specchio dell'anima.",
-              "Differenza dalla prima generazione: la natura non consola moralmente come in Wordsworth, ma rispecchia il titanismo e l'inquietudine dell'io."
+              "L'eroe byroniano è solo, malinconico, orgoglioso, ribelle alle regole e segnato da un passato oscuro. In parte riflette lo stesso Byron.",
+              "Childe Harold's Pilgrimage è un poema narrativo. Il protagonista è un giovane nobile deluso che viaggia in Europa e nel Mediterraneo.",
+              "Nel brano sul soul searching Harold, deluso dagli uomini, cerca se stesso e trova compagnia soprattutto nella natura selvaggia.",
+              "Il viaggio funziona come un Grand Tour interiore: i luoghi visitati diventano uno specchio dell'anima.",
+              "A differenza di Wordsworth, per Byron la natura non consola moralmente, ma riflette l'inquietudine e la grandezza ribelle dell'io."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "italiano",
-            "testo": "L'eroe byroniano ha paralleli con il Foscolo dell'Ortis: esilio, passioni assolute, suicidio dell'ideale; Byron visse a lungo in Italia e ne influenzò il Romanticismo."
+            "testo": "L'eroe byroniano ricorda il Foscolo dell'Ortis, tra esilio, passioni forti e crisi degli ideali. Byron, inoltre, vive a lungo in Italia e influenza il nostro Romanticismo."
           },
           {
             "materia": "scienze-umane",
-            "testo": "Il culto romantico dell'individuo eccezionale e ribelle alimenta la riflessione moderna su individualismo e conflitto tra singolo e società."
+            "testo": "Il culto romantico dell'individuo eccezionale e ribelle alimenta riflessioni moderne sul rapporto tra il singolo e la società."
           }
         ]
       }
@@ -448,260 +448,260 @@
       "area": "Romantic Age",
       "priorita": 1,
       "scheda": {
-        "sintesi": "Jane Austen (1775-1817) scrive durante l'età romantica ma resta legata all'equilibrio settecentesco: niente sublime né passioni estreme, bensì l'analisi ironica della gentry di provincia, del matrimonio e del denaro. Pride and Prejudice (1813) racconta lo scontro-incontro tra Elizabeth Bennet e Mr Darcy: entrambi devono superare orgoglio e pregiudizio. Maestra del dialogo, dell'ironia e della tecnica del free indirect speech.",
+        "sintesi": "Jane Austen scrive nell'età romantica, ma resta lontana dal sublime e dalle passioni estreme. Preferisce osservare con ironia la piccola nobiltà di provincia, il matrimonio e il denaro. In Pride and Prejudice Elizabeth Bennet e Mr Darcy devono superare orgoglio e pregiudizio. Austen è maestra del dialogo, della ironia e del discorso indiretto libero.",
         "sezioni": [
           {
             "titolo": "Il mondo di Austen",
             "punti": [
-              "Ambientazione ristretta e volutamente limitata: 'three or four families in a country village' — la gentry rurale del sud dell'Inghilterra.",
-              "Tema centrale: il matrimonio come questione economica e sociale oltre che sentimentale; le donne non potevano ereditare (entailment) né lavorare.",
-              "Celebre incipit ironico: 'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.'",
-              "Realismo psicologico e morale: l'eroina compie un percorso di autoconoscenza ed educazione sentimentale.",
-              "Tecniche: ironia, dialoghi brillanti, free indirect speech (discorso indiretto libero) che fonde voce del narratore e punto di vista del personaggio."
+              "L'ambiente è volutamente ristretto: poche famiglie della gentry rurale nel sud dell'Inghilterra.",
+              "Il matrimonio è un tema centrale non solo affettivo, ma anche economico e sociale. Le donne non potevano ereditare facilmente né lavorare in modo libero.",
+              "Il romanzo si apre con una frase ironica famosissima sul fatto che un uomo ricco debba per forza cercare moglie.",
+              "Le eroine di Austen compiono un percorso di conoscenza di sé e di crescita sentimentale.",
+              "Tra le tecniche più importanti ci sono ironia, dialoghi brillanti e discorso indiretto libero, che unisce voce del narratore e pensieri del personaggio."
             ]
           },
           {
-            "titolo": "Pride and Prejudice: trama essenziale",
+            "titolo": "Trama essenziale di Pride and Prejudice",
             "punti": [
-              "I Bennet hanno cinque figlie da maritare; l'arrivo del ricco Mr Bingley (e dell'amico Mr Darcy) a Netherfield mette in moto la vicenda.",
-              "Elizabeth, intelligente e indipendente, giudica Darcy arrogante (prejudice); Darcy, orgoglioso del proprio rango, la giudica socialmente inferiore (pride).",
-              "Prima proposta di matrimonio rifiutata; la lettera di Darcy e la visita a Pemberley avviano la revisione dei giudizi.",
-              "Finale: doppio matrimonio (Jane-Bingley, Elizabeth-Darcy) dopo la maturazione di entrambi i protagonisti."
+              "La famiglia Bennet ha cinque figlie da sistemare. L'arrivo del ricco Mr Bingley e dell'amico Darcy fa partire tutta la storia.",
+              "Elizabeth, intelligente e indipendente, trova Darcy arrogante. Darcy, invece, la giudica inferiore per posizione sociale.",
+              "La prima proposta di matrimonio viene rifiutata. Poi la lettera di Darcy e la visita a Pemberley cambiano il modo in cui i due si vedono.",
+              "Il romanzo finisce con due matrimoni, Jane con Bingley ed Elizabeth con Darcy, dopo la maturazione dei protagonisti."
             ]
           },
           {
-            "titolo": "Mr and Mrs Bennet (brano)",
+            "titolo": "Mr e Mrs Bennet",
             "punti": [
-              "Capitolo di apertura del romanzo: quasi interamente dialogato, come una scena teatrale.",
-              "Mrs Bennet, 'a woman of mean understanding, little information, and uncertain temper': ossessionata dal maritare le figlie ('the business of her life was to get her daughters married').",
-              "Mr Bennet: ironico, sarcastico, distaccato; si diverte a provocare la moglie fingendo di non voler visitare Mr Bingley.",
-              "Il narratore chiude il capitolo con il doppio ritratto dei coniugi: matrimonio mal assortito che funge da contro-modello rispetto a quello che Elizabeth costruirà.",
-              "L'ironia austeniana: ciò che i personaggi dicono rivela più di quanto vorrebbero."
+              "Il capitolo iniziale è quasi tutto un dialogo e sembra una scena teatrale.",
+              "Mrs Bennet è poco razionale, male informata e instabile. Vive con l'ossessione di far sposare le figlie.",
+              "Mr Bennet è ironico, sarcastico e distaccato. Si diverte spesso a prendere in giro la moglie.",
+              "Il narratore mostra che il loro è un matrimonio poco riuscito e lo usa come contrario del legame che Elizabeth costruirà in seguito.",
+              "L'ironia di Austen fa capire che spesso i personaggi rivelano più di quanto vorrebbero dire."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "scienze-umane",
-            "testo": "Matrimonio, dote ed eredità in Austen sono un caso di studio di stratificazione sociale e di condizione femminile: la donna ottocentesca esclusa da proprietà e lavoro."
+            "testo": "Matrimonio, dote ed eredità in Austen mostrano bene la stratificazione sociale e la condizione femminile nell'Ottocento."
           },
           {
             "materia": "italiano",
-            "testo": "Il discorso indiretto libero perfezionato da Austen sarà strumento chiave anche di Verga e poi della narrativa modernista."
+            "testo": "Il discorso indiretto libero usato da Austen sarà importante anche per Verga e poi per il romanzo modernista."
           }
         ]
       }
     },
     {
       "id": "eta-vittoriana-compromesso",
-      "titolo": "The Victorian Age and the Victorian Compromise",
+      "titolo": "L'età vittoriana e il compromesso vittoriano",
       "area": "Victorian Age",
       "priorita": 1,
       "scheda": {
-        "sintesi": "Il lungo regno della regina Vittoria (1837-1901) coincide con l'apice della potenza britannica: espansione industriale, ferrovie, Great Exhibition (1851), riforme graduali. Ma il benessere convive con povertà urbana, sfruttamento e ipocrisia: è il Victorian Compromise, l'accordo tacito tra progresso e perbenismo che nasconde le contraddizioni sociali dietro il culto della rispettabilità. È il quadro del Conceptual Link 7 'Stability and Morality'.",
+        "sintesi": "Il lungo regno della regina Vittoria, dal 1837 al 1901, coincide con il momento di massima potenza della Gran Bretagna. Crescono industria, ferrovie e riforme. Ma insieme al benessere restano povertà urbana, sfruttamento e ipocrisia morale. Questo contrasto è il Victorian Compromise, cioè un progresso che nasconde molti problemi sociali dietro l'idea di rispettabilità.",
         "sezioni": [
           {
-            "titolo": "Early years e città vittoriana",
+            "titolo": "Primi anni e città vittoriana",
             "punti": [
-              "Vittoria sale al trono nel 1837 a diciotto anni; con il principe Alberto incarna il modello della famiglia rispettabile.",
-              "Età delle riforme graduali: Reform Acts (1832, 1867, 1884) estendono il voto; Factory Acts limitano il lavoro minorile; abolizione delle Corn Laws (1846) verso il libero scambio.",
-              "Chartism: il movimento operaio chiede il suffragio universale maschile (People's Charter, 1838) — fallisce nel breve periodo ma anticipa la democrazia.",
-              "City life: crescita esplosiva di Londra; contrasto tra quartieri eleganti e slums; workhouses per i poveri (Poor Law Amendment Act, 1834), basate sul principio deterrente.",
-              "Great Exhibition al Crystal Palace (1851): vetrina del primato industriale britannico, voluta dal principe Alberto."
+              "Vittoria sale al trono nel 1837 a diciotto anni e, con il principe Alberto, diventa il simbolo della famiglia rispettabile.",
+              "È un periodo di riforme graduali: i Reform Acts allargano il voto, i Factory Acts limitano il lavoro minorile e l'abolizione delle Corn Laws favorisce il libero scambio.",
+              "Il Chartism, cioè il movimento operaio della People's Charter del 1838, chiede il suffragio universale maschile. Non vince subito, ma prepara la democrazia futura.",
+              "Londra cresce in modo enorme e mostra forti contrasti tra quartieri ricchi e slums. Le workhouses per i poveri hanno regole dure per scoraggiare chi chiede aiuto.",
+              "La Great Exhibition del 1851 al Crystal Palace celebra il primato industriale britannico."
             ]
           },
           {
-            "titolo": "The Victorian frame of mind / Victorian Compromise",
+            "titolo": "Mentalità vittoriana e compromesso",
             "punti": [
-              "Valori dominanti: respectability, hard work, famiglia, dovere, filantropia, puritanesimo morale.",
-              "Il Compromise: fiducia ottimistica nel progresso e carità filantropica coesistono con sfruttamento, povertà e doppia morale (specie sessuale).",
-              "Utilitarismo di Bentham e Mill: è giusto ciò che produce 'the greatest happiness of the greatest number' — criticato da Dickens in Hard Times.",
-              "Scossoni alle certezze: Darwin, On the Origin of Species (1859), mette in crisi la lettura letterale della Bibbia e l'antropocentrismo.",
-              "Condizione femminile: l'ideale dell''Angel in the House' confina la donna nella sfera domestica.",
-              "Victorian Legacy: istituzioni parlamentari, istruzione di massa, ferrovie e infrastrutture, ma anche moralismo e rimozioni che il Novecento smaschererà."
+              "I valori più esaltati sono rispetto delle regole, lavoro, famiglia, dovere, filantropia e moralismo.",
+              "Il compromesso vittoriano sta qui: fiducia nel progresso e beneficenza convivono con sfruttamento, povertà e doppia morale, soprattutto nei temi sessuali.",
+              "L'utilitarismo di Bentham e Mill dice che è giusto ciò che produce il massimo bene per il maggior numero di persone. Dickens lo criticherà in Hard Times.",
+              "Darwin, con On the Origin of Species del 1859, mette in crisi una lettura letterale della Bibbia e l'idea che l'uomo sia al centro di tutto.",
+              "La donna ideale viene vista come l'angelo della casa, quindi relegata soprattutto allo spazio domestico.",
+              "L'età vittoriana lascia in eredità Parlamento forte, scuola di massa e infrastrutture, ma anche moralismo e molte rimozioni che il Novecento criticherà."
             ]
           },
           {
-            "titolo": "The age of fiction",
+            "titolo": "L'età del romanzo",
             "punti": [
-              "Il romanzo (novel) è il genere dominante: pubblico borghese in crescita, alfabetizzazione, biblioteche circolanti.",
-              "Pubblicazione a puntate (instalments) su riviste: trame a suspense, capitoli con cliffhanger, rapporto diretto con i lettori.",
-              "Narratore onnisciente e intrusivo che guida e giudica; finalità di intrattenimento ma anche di denuncia e moralizzazione.",
-              "Filoni: realistico-sociale (Dickens, Gaskell), psicologico (le sorelle Brontë, George Eliot), satirico (Thackeray).",
-              "Molte scrittrici usano pseudonimi maschili (Currer Bell, George Eliot) per essere pubblicate."
+              "Il romanzo è il genere dominante grazie alla crescita della borghesia, della alfabetizzazione e delle biblioteche circolanti.",
+              "Molti romanzi escono a puntate sulle riviste, quindi usano suspense e finali di capitolo che tengono il lettore in attesa.",
+              "Spesso c'è un narratore onnisciente che guida il lettore, giudica i fatti e unisce intrattenimento, denuncia e morale.",
+              "Tra i filoni principali ci sono il romanzo realistico e sociale, quello psicologico e quello satirico.",
+              "Diverse scrittrici usano nomi maschili, come Currer Bell o George Eliot, per poter essere pubblicate più facilmente."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "scienze-umane",
-            "testo": "L'età vittoriana è il laboratorio della sociologia nascente: Marx ed Engels (La situazione della classe operaia in Inghilterra) studiano proprio le città industriali inglesi; il darwinismo sociale di Spencer nasce in questo clima."
+            "testo": "L'età vittoriana è importante anche per la nascita della sociologia: Marx ed Engels studiano proprio le città industriali inglesi, e in questo clima nasce anche il darwinismo sociale di Spencer."
           },
           {
             "materia": "italiano",
-            "testo": "Il romanzo sociale vittoriano è parallelo al Naturalismo francese (Zola) e al Verismo italiano (Verga): attenzione agli umili e denuncia, ma con narratore e finalità diverse."
+            "testo": "Il romanzo sociale vittoriano può essere confrontato con il Naturalismo francese di Zola e con il Verismo italiano di Verga, anche se cambia il ruolo del narratore e lo scopo finale."
           },
           {
             "materia": "inglese",
-            "testo": "Il Victorian Compromise è la chiave di lettura di Dickens (denuncia), Stevenson e Wilde (smascheramento della doppiezza)."
+            "testo": "Il compromesso vittoriano aiuta a leggere Dickens, ma anche Stevenson e Wilde, che mostrano la doppiezza nascosta dietro la rispettabilità."
           }
         ]
       }
     },
     {
       "id": "charles-dickens",
-      "titolo": "Charles Dickens: Oliver Twist and Hard Times",
+      "titolo": "Charles Dickens: Oliver Twist e Hard Times",
       "area": "Victorian Age",
       "priorita": 1,
       "scheda": {
-        "sintesi": "Charles Dickens (1812-1870) è il romanziere vittoriano per eccellenza. Segnato dall'infanzia (il padre in prigione per debiti, lui a dodici anni operaio in una fabbrica di lucido da scarpe), fa dell'infanzia sfruttata e della critica sociale i suoi grandi temi. Oliver Twist (1837-39) denuncia workhouses e criminalità urbana; Hard Times (1854) attacca l'utilitarismo e la città industriale. Unisce realismo, sentimentalismo, umorismo e caricatura, senza mai mettere in discussione l'ordine sociale: chiede riforma, non rivoluzione.",
+        "sintesi": "Dickens è il romanziere vittoriano più rappresentativo. La sua infanzia difficile lo porta a raccontare spesso bambini sfruttati e ingiustizie sociali. Oliver Twist denuncia le workhouses e la criminalità urbana, mentre Hard Times critica l'utilitarismo e la città industriale. Nei suoi libri si uniscono realismo, emozione, umorismo e caricatura. Dickens chiede riforme, non rivoluzioni.",
         "sezioni": [
           {
-            "titolo": "Tratti generali",
+            "titolo": "Caratteri generali",
             "punti": [
-              "Pubblicazione a puntate: trame ricche di colpi di scena, personaggi memorabili e caricaturali, nomi parlanti (Gradgrind, Bumble).",
-              "Il bambino come protagonista e vittima: Oliver, David Copperfield, Pip — prospettiva inedita che genera empatia nel lettore.",
-              "Critica delle istituzioni: workhouse, scuole, tribunali, burocrazia; ma soluzione affidata alla benevolenza individuale più che al cambiamento politico.",
-              "Stile: umorismo, pathos, ripetizioni retoriche, descrizioni urbane potentissime (Londra come personaggio)."
+              "I suoi romanzi escono spesso a puntate, quindi hanno molti colpi di scena, personaggi forti e nomi parlanti come Gradgrind o Bumble.",
+              "Il bambino è spesso protagonista e vittima. Questo fa nascere una forte empatia nel lettore.",
+              "Dickens critica istituzioni come workhouse, scuola, tribunali e burocrazia, ma affida la soluzione soprattutto alla bontà delle persone più che al cambiamento politico.",
+              "Il suo stile unisce umorismo, pathos, ripetizioni efficaci e descrizioni potentissime della città, soprattutto di Londra."
             ]
           },
           {
-            "titolo": "Oliver Twist e 'Oliver wants more'",
+            "titolo": "Oliver Twist e Oliver wants more",
             "punti": [
-              "Trama: orfano nato in una workhouse, Oliver passa da un apprendistato brutale alla banda di borseggiatori di Fagin a Londra, fino al riscatto finale grazie a Mr Brownlow.",
-              "Bersaglio polemico: la New Poor Law del 1834 e il sistema delle workhouses, dove i poveri erano trattati come colpevoli.",
-              "Nel brano 'Oliver wants more' i bambini, affamati dalla razione di 'thin gruel', tirano a sorte chi chiederà una porzione in più: tocca a Oliver.",
-              "'Please, sir, I want some more': la richiesta minima scatena una reazione spropositata del Board — Oliver viene rinchiuso e 'messo in vendita'.",
-              "Ironia feroce del narratore contro i 'filosofi' utilitaristi del Board, ben pasciuti mentre affamano i bambini.",
-              "La fame come simbolo: bisogno materiale ma anche domanda di dignità e riconoscimento."
+              "Oliver è un orfano nato in una workhouse. Dopo un apprendistato crudele finisce a Londra nella banda di Fagin, prima del riscatto finale grazie a Mr Brownlow.",
+              "Il romanzo attacca la New Poor Law del 1834 e il sistema delle workhouses, dove i poveri erano trattati quasi come colpevoli.",
+              "Nel brano Oliver wants more i bambini, affamati da una minestra troppo leggera, tirano a sorte chi dovrà chiedere una razione in più. Tocca a Oliver.",
+              "Quando Oliver dice Please, sir, I want some more, il Board reagisce in modo assurdo: lo chiude dentro e lo mette in vendita.",
+              "Il narratore usa una forte ironia contro i dirigenti utilitaristi del Board, ben nutriti mentre i bambini muoiono di fame.",
+              "La fame diventa simbolo non solo di bisogno materiale, ma anche di desiderio di dignità e di riconoscimento."
             ]
           },
           {
             "titolo": "Hard Times",
             "punti": [
-              "Ambientato a Coketown, città industriale immaginaria: 'a town of red brick, or of brick that would have been red if the smoke and ashes had allowed it' — monotonia, fumo, alienazione.",
-              "Satira dell'utilitarismo: Mr Gradgrind educa i figli e gli allievi solo ai 'Facts' ('Now, what I want is, Facts'), bandendo immaginazione e sentimento ('Fancy').",
-              "L'esperimento pedagogico fallisce: Louisa finisce in un matrimonio infelice con Bounderby, Tom diventa un ladro.",
-              "Il circo di Sleary rappresenta fantasia, gioco e umanità contro la riduzione dell'uomo a macchina.",
-              "Critica della meccanizzazione: gli operai chiamati 'Hands', ridotti alle mani che lavorano."
+              "Il romanzo è ambientato a Coketown, una città industriale immaginaria fatta di mattoni, fumo, monotonia e alienazione.",
+              "Dickens prende in giro l'utilitarismo con Mr Gradgrind, che educa i ragazzi solo ai fatti e rifiuta immaginazione e sentimento.",
+              "Questo esperimento educativo fallisce: Louisa finisce in un matrimonio infelice e Tom diventa un ladro.",
+              "Il circo di Sleary rappresenta invece fantasia, gioco e umanità contro una visione dell'uomo ridotto a macchina.",
+              "Gli operai vengono chiamati Hands, cioè mani, e questo mostra come il sistema li riduca a semplice forza lavoro."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "scienze-umane",
-            "testo": "Hard Times è una critica pedagogica ante litteram: l'educazione di soli 'fatti' di Gradgrind nega ciò che la pedagogia attiva (Dewey, Montessori) porrà al centro — gioco, immaginazione, esperienza; sullo sfondo, l'alienazione operaia analizzata da Marx."
+            "testo": "Hard Times critica una educazione fatta solo di fatti. È l'opposto di idee pedagogiche future come quelle di Dewey o Montessori, che valorizzano gioco, esperienza e immaginazione. Sullo sfondo resta anche il tema della alienazione operaia studiata da Marx."
           },
           {
             "materia": "italiano",
-            "testo": "La denuncia dell'infanzia sfruttata richiama 'Rosso Malpelo' di Verga; ma Dickens, a differenza dell'impersonalità verista, usa un narratore onnisciente, empatico e giudicante."
+            "testo": "La denuncia della infanzia sfruttata ricorda Rosso Malpelo di Verga, ma Dickens usa un narratore molto presente, partecipe e giudicante."
           },
           {
             "materia": "inglese",
-            "testo": "Dickens incarna la denuncia interna al Victorian Compromise: mostra le piaghe sociali confidando nella riforma morale, dove Blake aveva accusato e Orwell radicalizzerà la critica."
+            "testo": "Dickens mostra i problemi sociali interni al compromesso vittoriano. Blake aveva già accusato il sistema, e Orwell porterà la critica ancora più avanti."
           }
         ]
       }
     },
     {
       "id": "tardo-vittoriano-impero",
-      "titolo": "The later years of Queen Victoria's reign and the British Empire",
+      "titolo": "Gli ultimi anni di Vittoria e l'Impero britannico",
       "area": "Victorian Age",
       "priorita": 2,
       "scheda": {
-        "sintesi": "Gli ultimi decenni del regno di Vittoria (Conceptual Link 8, 'A two-faced reality') vedono l'apogeo del British Empire — 'the empire on which the sun never sets' — con Vittoria Imperatrice d'India (1876), ma anche l'incrinarsi delle certezze: darwinismo, dubbio religioso, estetismo, decadentismo. La 'two-faced reality' è la doppiezza di una società che predica virtù e pratica vizio: il tardo romanzo vittoriano (Stevenson, Wilde) la mette in scena attraverso il tema del doppio.",
+        "sintesi": "Negli ultimi decenni del regno di Vittoria l'Impero britannico raggiunge il suo massimo sviluppo. Vittoria diventa Imperatrice d'India nel 1876. Ma nello stesso tempo crescono dubbi religiosi, idee nuove come il darwinismo, estetismo e decadentismo. La società appare a due facce: predica virtù ma nasconde vizi. Stevenson e Wilde raccontano proprio questa doppiezza.",
         "sezioni": [
           {
-            "titolo": "Later years e impero",
+            "titolo": "Ultimi anni e impero",
             "punti": [
-              "Disraeli e Gladstone si alternano al governo: imperialismo conservatore vs riformismo liberale.",
-              "1876: Vittoria proclamata Empress of India; il 'Scramble for Africa' dagli anni Ottanta; guerre anglo-boere (1899-1902).",
-              "Ideologia imperiale: 'the white man's burden' (Kipling), la missione civilizzatrice come giustificazione del dominio — oggi letta criticamente.",
-              "Giubilei del 1887 e 1897: apoteosi della monarchia; Vittoria muore nel 1901, chiudendo un'epoca."
+              "Disraeli e Gladstone si alternano al governo, rappresentando due linee diverse tra imperialismo conservatore e riformismo liberale.",
+              "Nel 1876 Vittoria diventa Empress of India. Dagli anni Ottanta parte anche la corsa alla Africa e poi arrivano le guerre anglo-boere tra 1899 e 1902.",
+              "L'impero viene giustificato con l'idea della missione civilizzatrice e del white man's burden, espressione oggi letta in modo molto critico.",
+              "I giubilei del 1887 e del 1897 celebrano il potere della monarchia. Con la morte di Vittoria nel 1901 finisce un'epoca."
             ]
           },
           {
-            "titolo": "Late Victorian ideas",
+            "titolo": "Idee del tardo periodo vittoriano",
             "punti": [
-              "Darwinismo ed evoluzionismo erodono le certezze religiose; il darwinismo sociale di Spencer applica la 'survival of the fittest' alla società.",
-              "Crisi del Compromise: emergono pessimismo, dubbio e critica della respectability.",
-              "Aestheticism e Decadentism: 'Art for Art's Sake' (slogan derivato da Gautier, diffuso da Walter Pater), culto della bellezza contro il moralismo borghese.",
-              "Nuove inquietudini scientifiche: psicologia nascente, teorie sulla degenerazione, interesse per il criminale e il patologico."
+              "Darwinismo ed evoluzionismo indeboliscono molte certezze religiose. Spencer porta queste idee nella società con il darwinismo sociale.",
+              "Il compromesso vittoriano entra in crisi e crescono pessimismo, dubbio e critica della rispettabilità.",
+              "Aestheticism e Decadentism mettono al centro la bellezza e lo slogan art for art's sake, cioè l'arte per l'arte, contro il moralismo borghese.",
+              "Nascono anche nuove paure legate alla scienza, alla psicologia, alla degenerazione e al criminale."
             ]
           },
           {
-            "titolo": "The late Victorian novel",
+            "titolo": "Il romanzo tardo vittoriano",
             "punti": [
-              "Dal romanzo sociale al romanzo del dubbio: pessimismo di Thomas Hardy, naturalismo, fine del lieto fine garantito.",
-              "Il tema del double esplode: Dr Jekyll and Mr Hyde (1886), The Picture of Dorian Gray (1891), Dracula (1897).",
-              "Romance imperiale e d'avventura (Stevenson, Kipling, Conrad) e nascita di generi popolari: detective story (Conan Doyle), fantascienza (H.G. Wells).",
-              "La letteratura smaschera la 'two-faced reality': facciata rispettabile e vita segreta."
+              "Dal romanzo sociale si passa sempre più a un romanzo del dubbio, con il pessimismo di Thomas Hardy e la fine del lieto fine sicuro.",
+              "Esplode il tema del doppio in opere come Dr Jekyll and Mr Hyde, The Picture of Dorian Gray e Dracula.",
+              "Si sviluppano anche il romanzo di avventura e imperiale e nascono generi popolari come il giallo e la fantascienza.",
+              "La letteratura mostra così la società a due facce: da una parte la facciata rispettabile, dall'altra la vita segreta."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "scienze-umane",
-            "testo": "Darwinismo sociale e antropologia coloniale mostrano come la scienza fu usata per legittimare gerarchie razziali e l'imperialismo: tema chiave della critica sociologica e antropologica (etnocentrismo vs relativismo)."
+            "testo": "Il darwinismo sociale e certa antropologia coloniale mostrano come la scienza sia stata usata per giustificare gerarchie razziali e imperialismo. Questo è un tema importante nella critica sociologica e antropologica."
           },
           {
             "materia": "italiano",
-            "testo": "Il Decadentismo inglese è parallelo a quello italiano: l'esteta wildiano e l'Andrea Sperelli del 'Piacere' di D'Annunzio condividono il culto della bellezza e il rifiuto della morale borghese."
+            "testo": "Il decadentismo inglese ha molti punti in comune con quello italiano. L'esteta di Wilde ricorda Andrea Sperelli del Piacere di D'Annunzio, tra culto della bellezza e rifiuto della morale borghese."
           }
         ]
       }
     },
     {
       "id": "robert-louis-stevenson",
-      "titolo": "Robert Louis Stevenson: The Strange Case of Dr Jekyll and Mr Hyde",
+      "titolo": "Robert Louis Stevenson: Dr Jekyll e Mr Hyde",
       "area": "Victorian Age",
       "priorita": 1,
       "scheda": {
-        "sintesi": "Robert Louis Stevenson (1850-1894), scozzese, autore anche di Treasure Island, pubblica nel 1886 The Strange Case of Dr Jekyll and Mr Hyde: il rispettabile dottor Jekyll crea una pozione che lo trasforma in Mr Hyde, incarnazione del suo lato malvagio. Novella gotico-psicologica, è la più potente allegoria del Victorian Compromise: la rispettabilità pubblica e il vizio segreto coabitano nella stessa persona. 'Man is not truly one, but truly two.'",
+        "sintesi": "Stevenson pubblica nel 1886 The Strange Case of Dr Jekyll and Mr Hyde. Il rispettabile dottor Jekyll crea una pozione che lo trasforma in Mr Hyde, il suo lato malvagio. Il racconto è gotico e psicologico insieme. Mostra bene il compromesso vittoriano: rispettabilità in pubblico e vizio nascosto nella vita privata. Il libro insiste sull'idea che nell'uomo convivano almeno due nature.",
         "sezioni": [
           {
             "titolo": "Struttura e trama",
             "punti": [
-              "Struttura quasi poliziesca a punti di vista multipli: l'indagine dell'avvocato Utterson, poi il racconto del dottor Lanyon, infine la confessione scritta di Jekyll ('Henry Jekyll's Full Statement of the Case').",
-              "Jekyll, medico stimato, vuole separare le due nature dell'uomo: la pozione libera Hyde, più piccolo, giovane e deforme — il male a lungo represso.",
-              "Hyde calpesta una bambina, uccide Sir Danvers Carew; le trasformazioni diventano spontanee e incontrollabili.",
-              "Finita la droga che lo riporta a Jekyll, il protagonista si suicida: Utterson trova il corpo di Hyde con la confessione.",
-              "Setting: una Londra notturna e nebbiosa, con la casa dalle due facciate (porta elegante / porta sordida) come emblema del doppio."
+              "La storia ha quasi la forma di un giallo: prima segue l'indagine dell'avvocato Utterson, poi il racconto di Lanyon e infine la confessione scritta di Jekyll.",
+              "Jekyll, medico stimato, vuole separare il bene e il male presenti nell'uomo. La pozione libera Hyde, più giovane, piccolo e deforme.",
+              "Hyde compie azioni crudeli, come calpestare una bambina e uccidere Sir Danvers Carew. Col tempo le trasformazioni diventano incontrollabili.",
+              "Quando finisce la sostanza che lo riporta a Jekyll, il protagonista si suicida. Utterson trova il corpo di Hyde insieme alla confessione.",
+              "Londra è mostrata di notte e nella nebbia. Anche la casa, con una facciata elegante e una sordida, diventa simbolo del doppio."
             ]
           },
           {
-            "titolo": "The scientist and the diabolic monster (brano)",
+            "titolo": "Lo scienziato e il mostro",
             "punti": [
-              "Dalla confessione finale: Jekyll descrive la prima trasformazione e la teoria del doppio: 'man is not truly one, but truly two'.",
-              "La metamorfosi è dolorosa ma seguita da euforia: Hyde dà una sensazione di libertà, giovinezza e leggerezza ('younger, lighter, happier in body').",
-              "Hyde è 'pure evil': per questo è più piccolo e deforme — la parte malvagia era meno esercitata.",
-              "Paradosso morale: allo specchio Jekyll non prova orrore ma 'a leap of welcome' — il mostro è sentito come più autentico, 'this, too, was myself'.",
-              "Lo scienziato overreacher nella scia di Frankenstein: la scienza che vìola i confini della natura umana."
+              "Nella confessione finale Jekyll spiega la sua teoria del doppio e racconta la prima trasformazione.",
+              "Il cambiamento è doloroso, ma subito dopo Hyde dà a Jekyll una sensazione di libertà, giovinezza e leggerezza.",
+              "Hyde rappresenta il male puro e per questo appare più piccolo e deforme, come se quella parte fosse stata tenuta nascosta troppo a lungo.",
+              "Davanti allo specchio Jekyll non prova solo paura, ma anche attrazione: capisce che Hyde è comunque una parte di sé.",
+              "Come in Frankenstein, anche qui c'è uno scienziato che supera limiti pericolosi e viola i confini della natura umana."
             ]
           },
           {
-            "titolo": "Temi",
+            "titolo": "Temi principali",
             "punti": [
-              "Il double (doppelgänger): dualità dell'animo umano, bene e male inseparabili.",
-              "Critica della repressione vittoriana: più la società reprime, più il rimosso esplode in forme mostruose.",
-              "Anticipazione di Freud: Hyde come l'Es che irrompe contro il Super-io della respectability (lettura a posteriori).",
-              "Degenerazione e atavismo: Hyde descritto con i tratti 'primitivi' delle teorie criminologiche dell'epoca (Lombroso).",
-              "Ambientazione urbana gotica: il gotico si sposta dal castello alla metropoli moderna."
+              "Il doppio mostra che bene e male convivono nell'animo umano e non possono essere separati in modo semplice.",
+              "Il libro critica la repressione vittoriana: ciò che la società nasconde troppo a lungo può tornare in modo mostruoso.",
+              "Molti lettori vedono in Hyde un'anticipazione dell'Es freudiano, opposto al controllo sociale del Super-io.",
+              "Hyde richiama anche le teorie ottocentesche sulla degenerazione e sul criminale nato, come quelle di Lombroso.",
+              "Il gotico si sposta dal castello medievale alla grande città moderna, che diventa un luogo inquietante."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "scienze-umane",
-            "testo": "Jekyll/Hyde anticipa la seconda topica freudiana: Es, Io e Super-io in conflitto; la repressione che genera il ritorno del rimosso è un concetto chiave della psicoanalisi studiata in psicopedagogia."
+            "testo": "Jekyll e Hyde ricordano il conflitto tra Es, Io e Super-io che Freud descriverà più tardi. Anche il ritorno di ciò che è represso è un'idea centrale della psicoanalisi."
           },
           {
             "materia": "italiano",
-            "testo": "Il tema del doppio e della scissione dell'io culmina in Pirandello ('Il fu Mattia Pascal', 'Uno, nessuno e centomila'): identità come maschera e moltiplicazione."
+            "testo": "Il tema del doppio e della identità divisa ritorna in Pirandello, per esempio nel Fu Mattia Pascal e in Uno, nessuno e centomila."
           },
           {
             "materia": "inglese",
-            "testo": "Con Dorian Gray di Wilde forma il dittico del double tardo-vittoriano; entrambi smascherano la 'two-faced reality' del Compromise."
+            "testo": "Insieme a Dorian Gray, questo romanzo mostra bene la doppiezza del tardo mondo vittoriano e la sua faccia nascosta."
           }
         ]
       }
@@ -712,199 +712,199 @@
       "area": "Victorian Age",
       "priorita": 1,
       "scheda": {
-        "sintesi": "Oscar Wilde (1854-1900), dublinese, dandy e principe dell'Aestheticism, fa della propria vita un'opera d'arte. The Picture of Dorian Gray (1891), unico suo romanzo, narra il patto faustiano di un giovane bellissimo: il ritratto invecchia e si corrompe al posto suo. Trionfo e insieme condanna dell'estetismo. Celebre anche per le commedie brillanti (The Importance of Being Earnest) e per il processo del 1895 che lo portò in carcere, distruggendolo.",
+        "sintesi": "Oscar Wilde, scrittore irlandese e grande dandy, fa della propria vita una opera d'arte. The Picture of Dorian Gray, il suo unico romanzo, racconta la storia di un giovane bellissimo il cui ritratto invecchia e si corrompe al posto suo. Il libro è insieme celebrazione e critica dell'estetismo. La vita di Wilde sarà poi distrutta dal processo del 1895 e dal carcere.",
         "sezioni": [
           {
-            "titolo": "Aestheticism e dandy",
+            "titolo": "Estetismo e dandy",
             "punti": [
-              "'Art for Art's Sake': l'arte non ha scopi morali o utilitaristici, vale solo per la sua bellezza.",
-              "Influenza di Walter Pater e dei preraffaelliti: vivere intensamente ogni attimo come esperienza estetica.",
-              "Il dandy: eleganza, wit, paradosso, provocazione contro la morale borghese vittoriana.",
-              "Preface al romanzo, manifesto dell'estetismo: 'There is no such thing as a moral or an immoral book. Books are well written, or badly written.' e in chiusura 'All art is quite useless.'"
+              "L'idea art for art's sake significa che l'arte non deve avere uno scopo morale o utile, ma vale per la sua sola bellezza.",
+              "Walter Pater e i preraffaelliti influenzano Wilde con l'idea di vivere ogni attimo come esperienza estetica intensa.",
+              "Il dandy unisce eleganza, intelligenza brillante, paradosso e provocazione contro la morale borghese.",
+              "Nella Preface del romanzo Wilde dice che i libri non sono morali o immorali, ma solo scritti bene o male, e arriva ad affermare che tutta l'arte è inutile."
             ]
           },
           {
-            "titolo": "The Picture of Dorian Gray: trama",
+            "titolo": "Trama di The Picture of Dorian Gray",
             "punti": [
-              "Il pittore Basil Hallward ritrae il giovane Dorian; Lord Henry Wotton lo seduce con la filosofia del piacere e della giovinezza.",
-              "Il desiderio-patto: che il ritratto invecchi al posto suo — viene esaudito.",
-              "Dorian scivola nella corruzione: l'attrice Sibyl Vane si uccide per lui; anni di vizi segreti; uccide Basil che ha visto il ritratto.",
-              "Il quadro, nascosto in soffitta, registra ogni colpa diventando mostruoso, mentre Dorian resta giovane e puro in apparenza.",
-              "Finale: Dorian pugnala il ritratto per liberarsi del passato; muore lui, vecchio e orribile, mentre il quadro torna alla bellezza originaria — la morale rientra dalla finestra."
+              "Il pittore Basil Hallward ritrae Dorian Gray. Lord Henry lo affascina con una filosofia del piacere, della giovinezza e dei sensi.",
+              "Dorian desidera restare giovane mentre il ritratto invecchia al posto suo, e questo desiderio si avvera.",
+              "Da quel momento scende nella corruzione: Sibyl Vane si suicida per lui, vive anni di vizi segreti e arriva a uccidere Basil.",
+              "Il quadro, nascosto in soffitta, registra ogni colpa e diventa mostruoso, mentre Dorian fuori resta bello e giovane.",
+              "Alla fine Dorian colpisce il ritratto per liberarsi del passato, ma muore lui, vecchio e orribile, mentre il quadro torna bello."
             ]
           },
           {
-            "titolo": "I would give my soul (brano) e temi",
+            "titolo": "Il patto e i temi",
             "punti": [
-              "Nel brano, Dorian vede per la prima volta il ritratto finito e, ferito dalle parole di Lord Henry sulla fugacità della giovinezza, esclama che darebbe l'anima ('I would give my soul for that!') pur di restare giovane mentre il quadro invecchia.",
-              "Eco faustiana: il patto col diavolo in versione estetica; la giovinezza come unico bene.",
-              "Il ritratto come doppio e coscienza visibile: variante del tema del double accanto a Jekyll/Hyde.",
-              "Lord Henry come tentatore verbale: i suoi paradossi sono la voce del nuovo edonismo ('new Hedonism').",
-              "Ambiguità del romanzo: celebrazione dell'estetismo ma struttura da racconto morale — chi separa arte e vita, bellezza ed etica, si autodistrugge."
+              "Nel brano Dorian vede il ritratto finito e, colpito dalle parole di Lord Henry sulla breve durata della giovinezza, dice che darebbe l'anima pur di restare giovane.",
+              "Il romanzo richiama il mito di Faust: il patto con il male viene qui legato alla bellezza e alla giovinezza.",
+              "Il ritratto funziona come un doppio e come una coscienza visibile, vicino al tema del double.",
+              "Lord Henry è il grande tentatore del libro e diffonde il nuovo edonismo attraverso le sue frasi brillanti e provocatorie.",
+              "Il romanzo resta ambiguo: sembra esaltare l'estetismo, ma mostra anche che separare bellezza ed etica porta alla distruzione."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "italiano",
-            "testo": "Collegamento forte con D'Annunzio: Andrea Sperelli ('Il piacere', 1889) è il gemello italiano di Dorian — estetismo, vita come opera d'arte, edonismo che si rivela sterile e distruttivo."
+            "testo": "Il collegamento più forte è con D'Annunzio: Andrea Sperelli del Piacere ricorda Dorian per estetismo, edonismo e vita vissuta come opera d'arte."
           },
           {
             "materia": "scienze-umane",
-            "testo": "Il processo a Wilde (1895) per omosessualità illustra il controllo sociale e la criminalizzazione della devianza nella società vittoriana: caso esemplare per sociologia della devianza e dello stigma."
+            "testo": "Il processo a Wilde per omosessualità mostra bene il controllo sociale e lo stigma nella società vittoriana."
           },
           {
             "materia": "arte",
-            "testo": "Estetismo e preraffaelliti; il ritratto che 'vive' dialoga con la riflessione sul rapporto tra arte e realtà."
+            "testo": "L'estetismo e il mondo dei preraffaelliti aiutano anche a riflettere sul rapporto tra arte e realtà."
           }
         ]
       }
     },
     {
       "id": "eta-edoardiana-grande-guerra",
-      "titolo": "The Edwardian Age and World War I",
+      "titolo": "L'età edoardiana e la Prima guerra mondiale",
       "area": "Modern Age",
       "priorita": 2,
       "scheda": {
-        "sintesi": "Tra la morte di Vittoria (1901) e lo scoppio della Grande Guerra (1914) si colloca l'Edwardian Age, sotto Edoardo VII: apparente belle époque, ma percorsa da conflitti sociali, suffragette e crisi internazionali. La World War I (1914-1918) è 'the Great Watershed' (Conceptual Link 9): la trincea distrugge una generazione e ogni retorica eroica, aprendo la strada alla crisi delle certezze che alimenta il Modernismo.",
+        "sintesi": "Tra la morte di Vittoria nel 1901 e lo scoppio della guerra nel 1914 c'è l'età edoardiana, sotto Edoardo VII. Sembra una bella epoca, ma è attraversata da tensioni sociali, suffragette e crisi internazionali. La Prima guerra mondiale distrugge una generazione e mette fine a molte illusioni eroiche. Da questa crisi nasce anche il terreno del Modernismo.",
         "sezioni": [
           {
-            "titolo": "Edwardian Age",
+            "titolo": "Età edoardiana",
             "punti": [
-              "Edoardo VII (1901-1910), poi Giorgio V: società ancora gerarchica ma in fermento.",
-              "Riforme liberali (1906-1914): pensioni di vecchiaia, assicurazione contro malattia e disoccupazione — germi del Welfare State.",
-              "Suffragettes: Emmeline Pankhurst e la WSPU (1903) lottano, anche con azioni militanti, per il voto alle donne (ottenuto parzialmente nel 1918, pienamente nel 1928).",
-              "Tensioni: scioperi operai, questione irlandese (Home Rule), corsa agli armamenti con la Germania."
+              "Prima regna Edoardo VII, poi Giorgio V. La società resta gerarchica, ma è piena di cambiamenti.",
+              "Tra il 1906 e il 1914 i governi liberali introducono pensioni di vecchiaia e assicurazioni contro malattia e disoccupazione. Sono i primi passi del welfare state.",
+              "Le suffragette, guidate da Emmeline Pankhurst e dalla WSPU fondata nel 1903, lottano anche con azioni dure per il voto alle donne. Lo ottengono in parte nel 1918 e pienamente nel 1928.",
+              "Ci sono forti tensioni: scioperi operai, questione irlandese e corsa agli armamenti con la Germania."
             ]
           },
           {
-            "titolo": "World War I",
+            "titolo": "Prima guerra mondiale",
             "punti": [
-              "1914-1918: la Gran Bretagna entra in guerra dopo l'invasione tedesca del Belgio; guerra di trincea sul fronte occidentale (Somme, Ypres).",
-              "Esperienza inedita: gas, mitragliatrici, shell shock (trauma da combattimento); circa un milione di morti britannici e dell'Impero.",
-              "War Poets: Rupert Brooke (idealismo patriottico iniziale: 'The Soldier'), poi Wilfred Owen e Siegfried Sassoon (denuncia dell'orrore: per Owen la 'old Lie' è il motto 'Dulce et decorum est pro patria mori').",
-              "Conseguenze: crollo della fiducia nel progresso e nei valori vittoriani, emancipazione femminile accelerata, premesse della crisi modernista."
+              "Tra 1914 e 1918 la Gran Bretagna entra in guerra dopo l'invasione tedesca del Belgio. Il conflitto sul fronte occidentale diventa una guerra di trincea.",
+              "La guerra porta esperienze nuove e terribili: gas, mitragliatrici, trauma da combattimento chiamato shell shock e circa un milione di morti britannici e imperiali.",
+              "I War Poets mostrano questo cambiamento: Rupert Brooke parte da un idealismo patriottico, mentre Owen e Sassoon denunciano l'orrore e definiscono menzogna la frase Dulce et decorum est pro patria mori.",
+              "Le conseguenze sono enormi: crolla la fiducia nel progresso, cresce il ruolo femminile e si prepara la crisi modernista."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "italiano",
-            "testo": "I War Poets dialogano con Ungaretti ('Il porto sepolto', 'Veglia'): la trincea come esperienza-limite che rivoluziona anche il linguaggio poetico."
+            "testo": "I War Poets si possono confrontare con Ungaretti, che nella trincea cambia profondamente anche il linguaggio poetico italiano."
           },
           {
             "materia": "scienze-umane",
-            "testo": "Lo shell shock porta la psichiatria e la psicoanalisi dentro la guerra: il trauma diventa oggetto di studio clinico; la guerra totale trasforma società e ruoli di genere."
+            "testo": "Lo shell shock porta il trauma al centro della psichiatria e della psicoanalisi. Inoltre la guerra totale cambia la società e i ruoli di genere."
           }
         ]
       }
     },
     {
       "id": "modernismo",
-      "titolo": "The Modernist revolution and the modern novel",
+      "titolo": "La rivoluzione modernista e il romanzo moderno",
       "area": "Modern Age",
       "priorita": 1,
       "scheda": {
-        "sintesi": "Il Modernism è la rivoluzione delle arti e della letteratura del primo Novecento: caduti i punti fermi vittoriani sotto i colpi di Freud, Bergson, Einstein e della Grande Guerra, il romanzo abbandona trama lineare e narratore onnisciente per esplorare la coscienza. Strumenti chiave: il punto di vista soggettivo, il tempo interiore, lo stream of consciousness reso con l'interior monologue. Protagonisti: Joyce, Woolf, Eliot (The Waste Land, 1922, stesso anno dell'Ulysses).",
+        "sintesi": "Il Modernismo è la grande rivoluzione artistica e letteraria del primo Novecento. Dopo Freud, Bergson, Einstein e la Prima guerra mondiale, il romanzo non racconta più solo fatti in modo lineare, ma entra nella mente dei personaggi. Contano il punto di vista soggettivo, il tempo interiore e il flusso di coscienza, spesso reso con il monologo interiore. Tra i protagonisti ci sono Joyce, Woolf ed Eliot.",
         "sezioni": [
           {
             "titolo": "Le nuove idee",
             "punti": [
-              "Freud: la psiche è in gran parte inconscia; sogni, lapsus e pulsioni rivelano un io non più 'padrone in casa propria'; l'infanzia plasma l'adulto.",
-              "Bergson: distinzione tra tempo dell'orologio (spazializzato, misurabile) e durée, il tempo interiore della coscienza in cui passato e presente si fondono.",
-              "William James conia 'stream of consciousness' (Principles of Psychology, 1890): la coscienza non è una catena ma un flusso.",
-              "Einstein e la relatività, l'antropologia comparata (Frazer), Nietzsche: crollano verità assolute e prospettiva unica.",
-              "La Grande Guerra come spartiacque: 'the Great Watershed' tra mondo vittoriano e modernità."
+              "Freud mostra che gran parte della mente è inconscia. Sogni, lapsus e impulsi fanno capire che l'io non controlla tutto.",
+              "Bergson distingue tra il tempo misurato dall'orologio e la durée, cioè il tempo interiore della coscienza dove passato e presente si mescolano.",
+              "William James parla di stream of consciousness, il flusso di coscienza, per dire che la mente non procede a blocchi ma scorre continuamente.",
+              "Con Einstein, con l'antropologia comparata e con Nietzsche crolla l'idea di una verità assoluta e di un solo punto di vista.",
+              "La Grande Guerra è lo spartiacque che separa il mondo vittoriano dalla modernità."
             ]
           },
           {
-            "titolo": "The modern novel",
+            "titolo": "Il romanzo moderno",
             "punti": [
-              "Rifiuto della trama tradizionale: contrazione del tempo esterno (un solo giorno in Ulysses e Mrs Dalloway) ed espansione del tempo interiore.",
-              "Dal narratore onnisciente al punto di vista limitato e multiplo: la realtà esiste solo come percezione soggettiva.",
-              "Stream of consciousness (il fenomeno psichico) reso tramite l'interior monologue (la tecnica letteraria): pensieri riportati direttamente, con sintassi che può allentarsi fino a sparire.",
-              "Interior monologue indiretto (con guida del narratore: Woolf) vs diretto (senza mediazione, fino all'estremo senza punteggiatura del monologo di Molly Bloom in Ulysses: Joyce).",
-              "Mito e struttura: il 'mythical method' (Eliot a proposito di Ulysses) usa il mito come impalcatura per ordinare il caos contemporaneo.",
-              "Epiphany joyciana e 'moments of being' woolfiani: la rivelazione improvvisa nel quotidiano sostituisce il climax narrativo."
+              "Il romanzo rifiuta la trama tradizionale: spesso il tempo esterno si restringe a un solo giorno, mentre il tempo interiore si allarga molto.",
+              "Il narratore onnisciente lascia spazio a punti di vista limitati e multipli. La realtà conta soprattutto come percezione soggettiva.",
+              "Il flusso di coscienza è il fenomeno mentale, mentre il monologo interiore è la tecnica usata per mostrarlo sulla pagina.",
+              "Il monologo interiore può essere più guidato dal narratore, come in Woolf, oppure quasi senza mediazione, come in alcune parti di Joyce.",
+              "Il mito viene usato come struttura per dare ordine al caos del mondo contemporaneo. Eliot lo chiama mythical method parlando di Ulysses.",
+              "Epifanie in Joyce e moments of being in Woolf sostituiscono spesso il grande climax tradizionale con piccole rivelazioni improvvise."
             ]
           },
           {
-            "titolo": "Freud's influence sulla letteratura",
+            "titolo": "L'influenza di Freud sulla letteratura",
             "punti": [
-              "Legittima l'esplorazione della vita psichica profonda come materia narrativa.",
-              "L'infanzia e la memoria diventano chiavi dell'identità adulta.",
-              "La sessualità e il rimosso entrano nel romanzo (scandali e censure: Ulysses processato per oscenità).",
-              "Nuova concezione del personaggio: non più 'carattere' coerente ma io frammentato, contraddittorio, stratificato."
+              "Freud rende legittimo raccontare la vita psichica profonda come vero materiale del romanzo.",
+              "Infanzia e memoria diventano chiavi decisive per capire la identità adulta.",
+              "Sessualità e rimosso entrano in modo nuovo nella narrativa, provocando spesso scandalo e censura.",
+              "Il personaggio non è più una figura compatta e coerente, ma un io frammentato, pieno di contraddizioni e strati diversi."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "italiano",
-            "testo": "Collegamento centrale: Svevo ('La coscienza di Zeno' — psicoanalisi, tempo misto, inattendibilità del narratore) e Pirandello (crisi dell'io, frantumazione dell'identità) sono i modernisti italiani; Svevo fu amico e allievo d'inglese di Joyce a Trieste."
+            "testo": "In Italia i riferimenti centrali sono Svevo e Pirandello. La coscienza di Zeno dialoga bene con il Modernismo, e Joyce fu amico e insegnante di inglese di Svevo a Trieste."
           },
           {
             "materia": "scienze-umane",
-            "testo": "Freud è snodo comune: in psicologia (inconscio, sviluppo psicosessuale, meccanismi di difesa) e in pedagogia (importanza della prima infanzia) — la letteratura modernista ne è la traduzione estetica."
+            "testo": "Freud è un punto comune tra psicologia, pedagogia e letteratura: inconscio, infanzia e meccanismi di difesa entrano anche nella scrittura modernista."
           },
           {
             "materia": "arte",
-            "testo": "Parallelo con le avanguardie: il cubismo scompone la prospettiva unica come il romanzo modernista scompone il narratore onnisciente."
+            "testo": "Il cubismo nelle arti rompe la prospettiva unica proprio come il romanzo modernista rompe il narratore onnisciente."
           }
         ]
       }
     },
     {
       "id": "james-joyce",
-      "titolo": "James Joyce: Dubliners and Eveline",
+      "titolo": "James Joyce: Dubliners ed Eveline",
       "area": "Modern Age",
       "priorita": 1,
       "scheda": {
-        "sintesi": "James Joyce (1882-1941), dublinese, lascia l'Irlanda nel 1904 per un esilio volontario (Trieste, Zurigo, Parigi) ma scrive sempre e solo di Dublino. Dubliners (1914) è una raccolta di quindici racconti che ritraggono la 'paralysis' morale e spirituale della città, organizzati per età della vita: infanzia, adolescenza, maturità, vita pubblica, più 'The Dead'. Stile realista ma costruito su simboli ed epiphanies. Con Ulysses (1922) porterà lo stream of consciousness al suo vertice.",
+        "sintesi": "James Joyce lascia l'Irlanda nel 1904, ma continua a scrivere quasi solo di Dublino. Dubliners, pubblicato nel 1914, raccoglie quindici racconti che mostrano la paralisi morale e spirituale della città nelle diverse età della vita. Lo stile è realistico, ma ricco di simboli ed epifanie. Con Ulysses Joyce porterà il flusso di coscienza al suo punto più alto.",
         "sezioni": [
           {
-            "titolo": "Dubliners: impianto",
+            "titolo": "Struttura di Dubliners",
             "punti": [
-              "Quindici racconti in quattro fasi: childhood, adolescence, maturity, public life; chiusura con 'The Dead'.",
-              "Tema unificante: la paralysis — incapacità di agire, di amare, di partire; Dublino come 'centre of paralysis'.",
-              "Epiphany: 'a sudden spiritual manifestation' — il momento in cui un dettaglio banale rivela al personaggio (o al lettore) la verità della sua condizione.",
-              "Stile: 'scrupulous meanness' (scrupolosa economia), realismo impersonale, punto di vista interno ai personaggi, simbolismo fitto.",
-              "Pubblicazione travagliata: scritta in gran parte entro il 1907, uscì solo nel 1914 per timori di censura e querele."
+              "I quindici racconti sono divisi in quattro fasi della vita: infanzia, adolescenza, maturità e vita pubblica. Alla fine c'è The Dead.",
+              "Il tema che li unisce è la paralysis, cioè la incapacità di agire, amare o partire. Dublino è vista come un centro di paralisi.",
+              "L'epiphany è una rivelazione improvvisa: un dettaglio piccolo fa capire al personaggio o al lettore la verità della situazione.",
+              "Lo stile è sobrio, realistico e impersonale, ma pieno di simboli e attento al punto di vista interno dei personaggi.",
+              "La pubblicazione è difficile: il libro è quasi pronto già nel 1907, ma esce solo nel 1914 per paura di censura e cause legali."
             ]
           },
           {
             "titolo": "Eveline",
             "punti": [
-              "Racconto della fase dell'adolescence: Eveline, diciannovenne, seduta alla finestra, rievoca la sua vita mentre deve decidere se fuggire a Buenos Aires con il fidanzato Frank.",
-              "Vita presente: lavoro umiliante, padre violento, la promessa fatta alla madre morente di tenere unita la casa ('to keep the home together as long as she could').",
-              "Il richiamo della madre morta — la sua vita di 'commonplace sacrifices' chiusa nella follia — la spinge a fuggire: 'Escape! She must escape!'.",
-              "Scena finale al porto: la paralisi vince; Eveline si aggrappa alla ringhiera e lascia partire Frank, 'passive, like a helpless animal', senza segni d'amore, addio o riconoscimento negli occhi.",
-              "Tecniche: narrazione al passato con free indirect speech, tempo interiore (la memoria invade il presente), simboli (la polvere, la finestra, il mare come libertà e minaccia).",
-              "Eveline incarna la paralysis: l'occasione di vita nuova rifiutata per paura, dovere e abitudine."
+              "Il racconto appartiene alla sezione della adolescenza. Eveline, diciannovenne, è seduta alla finestra e pensa se partire per Buenos Aires con il fidanzato Frank.",
+              "La sua vita presente è pesante: lavoro umiliante, padre violento e promessa fatta alla madre morente di tenere unita la casa.",
+              "Il ricordo della madre, chiusa in una vita di sacrifici comuni e finita nella follia, sembra spingerla a scappare.",
+              "Nella scena finale al porto però vince la paralisi: Eveline si aggrappa alla ringhiera e lascia partire Frank senza salutarlo davvero.",
+              "Joyce usa discorso indiretto libero, tempo interiore e simboli come la polvere, la finestra e il mare, che rappresenta insieme libertà e paura.",
+              "Eveline rappresenta bene la paralysis: rifiuta una possibile vita nuova per paura, abitudine e senso del dovere."
             ]
           },
           {
             "titolo": "Da Dubliners a Ulysses",
             "punti": [
-              "A Portrait of the Artist as a Young Man (1916): formazione di Stephen Dedalus, alter ego dell'autore, fino alla scelta dell'arte e dell'esilio.",
-              "Ulysses (1922): un solo giorno (16 giugno 1904, 'Bloomsday') a Dublino; Leopold Bloom moderno Ulisse, Stephen-Telemaco, Molly-Penelope.",
-              "Parallelo omerico come 'mythical method'; ogni episodio con tecnica e stile diversi.",
-              "Monologo finale di Molly Bloom: interior monologue diretto estremo, otto lunghe 'frasi' senza punteggiatura, chiuso dal celebre 'yes I said yes I will Yes.'"
+              "A Portrait of the Artist as a Young Man racconta la formazione di Stephen Dedalus, alter ego di Joyce, fino alla scelta dell'arte e dell'esilio.",
+              "Ulysses si svolge in un solo giorno, il 16 giugno 1904, chiamato Bloomsday, e segue Leopold Bloom come un moderno Ulisse.",
+              "Il romanzo usa il parallelo con Omero come struttura di fondo e cambia tecnica e stile da un episodio all'altro.",
+              "Il monologo finale di Molly Bloom è un esempio estremo di monologo interiore diretto, quasi senza punteggiatura, chiuso dal famoso yes."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "italiano",
-            "testo": "Joyce visse a Trieste e fu amico di Italo Svevo, incoraggiandone la riscoperta: 'La coscienza di Zeno' e Ulysses condividono inettitudine, psicoanalisi e nuovo trattamento del tempo."
+            "testo": "Joyce vive a Trieste e aiuta la riscoperta di Italo Svevo. La coscienza di Zeno e Ulysses hanno in comune inettitudine, psicoanalisi e un nuovo uso del tempo."
           },
           {
             "materia": "scienze-umane",
-            "testo": "La paralysis di Eveline si può leggere con le scienze sociali: socializzazione di genere, peso delle aspettative familiari e religiose, conflitto tra sicurezza e autorealizzazione."
+            "testo": "La paralysis di Eveline si può leggere anche con le scienze sociali, pensando al peso della famiglia, della religione e dei ruoli di genere."
           },
           {
             "materia": "inglese",
-            "testo": "Confronto con Woolf: entrambi modernisti del tempo interiore, ma Joyce più sperimentale e 'enciclopedico', Woolf più lirica e attenta ai 'moments of being'."
+            "testo": "Joyce e Woolf sono entrambi modernisti del tempo interiore, ma Joyce è più sperimentale, mentre Woolf è più lirica e più attenta ai moments of being."
           }
         ]
       }
@@ -915,105 +915,105 @@
       "area": "Modern Age",
       "priorita": 1,
       "scheda": {
-        "sintesi": "Virginia Woolf (1882-1941), figura centrale del Bloomsbury Group, rinnova il romanzo inglese rifiutando il realismo materialista degli edoardiani: la vita è 'a luminous halo', non una serie di lampioncini disposti in fila, e il romanzo deve rendere il fluire della coscienza. Mrs Dalloway (1925) racconta un solo giorno di giugno a Londra: Clarissa Dalloway prepara la sua festa mentre il reduce Septimus Warren Smith precipita nel trauma. Pioniera anche del pensiero femminista (A Room of One's Own, 1929).",
+        "sintesi": "Virginia Woolf rinnova profondamente il romanzo inglese. Rifiuta il realismo che descrive solo l'esterno e cerca invece di mostrare il fluire della coscienza. Mrs Dalloway racconta una sola giornata di giugno a Londra: Clarissa prepara una festa, mentre Septimus, reduce di guerra, precipita nel trauma. Woolf è importante anche per il suo pensiero femminista, per esempio in A Room of One's Own.",
         "sezioni": [
           {
             "titolo": "Poetica",
             "punti": [
-              "Saggio 'Modern Fiction': la vita non è 'a series of gig lamps symmetrically arranged' ma 'a luminous halo, a semi-transparent envelope' — compito dello scrittore è rendere 'this varying, this unknown and uncircumscribed spirit'.",
-              "Critica ai 'materialists' (Bennett, Wells, Galsworthy) che descrivono l'esterno e mancano la vita interiore.",
-              "Moments of being: attimi di intensità in cui la realtà si rivela dietro il 'cotton wool' della vita quotidiana.",
-              "Interior monologue indiretto: il narratore in terza persona scivola dentro e fuori le coscienze, con una prosa lirica e controllata.",
-              "Tempo: contrasto tra il tempo dell'orologio (i rintocchi del Big Ben che scandiscono il romanzo) e il tempo della mente, in cui la memoria dilata l'istante."
+              "Nel saggio Modern Fiction Woolf dice che la vita non è una fila ordinata di luci, ma un alone luminoso e incerto che lo scrittore deve cercare di rendere.",
+              "Critica gli autori che chiama materialists perché descrivono bene l'esterno ma non la vita interiore.",
+              "I moments of being sono attimi intensi in cui la realtà si rivela oltre la normalità quotidiana.",
+              "Woolf usa spesso un monologo interiore indiretto: il narratore in terza persona entra e esce dalle coscienze con una prosa molto controllata e musicale.",
+              "Nel romanzo si scontrano il tempo dell'orologio, segnato dal Big Ben, e il tempo della mente, dove la memoria allunga ogni istante."
             ]
           },
           {
             "titolo": "Mrs Dalloway",
             "punti": [
-              "Incipit celebre: 'Mrs Dalloway said she would buy the flowers herself.' — si entra in medias res nella coscienza.",
-              "Un mercoledì di giugno 1923 a Londra: Clarissa, cinquantenne dell'alta società, prepara la festa serale; i ricordi di Bourton, di Peter Walsh e di Sally Seton riaprono le scelte di una vita.",
-              "Trama parallela: Septimus Warren Smith, reduce con shell shock che 'vede' il commilitone morto Evans, è vittima dei medici dell''ordine' (Holmes e Bradshaw) e si getta dalla finestra.",
-              "Clarissa e Septimus non si incontrano mai: sono doppi — la notizia del suicidio, portata alla festa, le fa sentire la morte come atto di sfida e le restituisce il valore della vita.",
-              "Struttura senza capitoli: i passaggi tra le coscienze avvengono tramite oggetti condivisi (l'automobile, l'aereo che scrive nel cielo, i rintocchi del Big Ben).",
-              "Temi: tempo e morte, repressione sociale, critica alla medicina psichiatrica dell'epoca, bisessualità e scelte negate, la festa come fragile rito di comunione."
+              "Il romanzo si apre con una frase famosa: Mrs Dalloway said she would buy the flowers herself. Il lettore entra subito nella coscienza del personaggio.",
+              "È un mercoledì di giugno del 1923 a Londra. Clarissa, donna dell'alta società, prepara una festa e ripensa a Bourton, a Peter Walsh e a Sally Seton.",
+              "In parallelo c'è Septimus Warren Smith, reduce con shell shock, perseguitato dal ricordo del compagno Evans e schiacciato da medici che non capiscono il suo dolore.",
+              "Clarissa e Septimus non si incontrano mai, ma funzionano come un doppio. Quando Clarissa sente del suo suicidio, riflette sul valore della vita e sulla sfida alla morte.",
+              "Il libro non ha capitoli veri e propri: passa da una coscienza all'altra attraverso oggetti comuni come l'automobile, l'aereo nel cielo e i rintocchi del Big Ben.",
+              "I temi principali sono tempo, morte, repressione sociale, critica alla psichiatria del tempo, identità sessuale e bisogno di relazione."
             ]
           },
           {
             "titolo": "Woolf e la condizione femminile",
             "punti": [
-              "A Room of One's Own (1929): per scrivere una donna ha bisogno di 'money and a room of her own' — indipendenza economica e spazio proprio.",
-              "L'esperimento mentale di 'Shakespeare's sister' (Judith): una donna con il genio di Shakespeare sarebbe stata ridotta al silenzio.",
-              "To the Lighthouse (1927) e Orlando (1928): tempo, identità e genere come costruzioni fluide.",
-              "Fragilità psichica e suicidio nel fiume Ouse (1941): la sua vicenda biografica dialoga tragicamente con quella di Septimus."
+              "In A Room of One's Own Woolf dice che per scrivere una donna ha bisogno di denaro e di una stanza tutta per sé.",
+              "L'esempio di Judith, la sorella immaginaria di Shakespeare, mostra come una donna geniale sarebbe stata zittita dalla società.",
+              "Romanzi come To the Lighthouse e Orlando riflettono su tempo, identità e genere come realtà non fisse.",
+              "La sua fragilità psichica e il suicidio nel fiume Ouse nel 1941 creano un legame doloroso con il destino di Septimus."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "italiano",
-            "testo": "Il tempo interiore e la giornata-cornice dialogano con Svevo; la dissoluzione dell'identità unitaria con Pirandello: la 'vita' che non si lascia fissare nelle 'forme' è tema comune a Woolf e al vitalismo pirandelliano."
+            "testo": "Il tempo interiore e la giornata come cornice ricordano Svevo, mentre la crisi della identità si può collegare a Pirandello."
           },
           {
             "materia": "scienze-umane",
-            "testo": "Septimus è un caso letterario di trauma bellico (shell shock/PTSD) e di critica alle istituzioni psichiatriche; A Room of One's Own è testo fondativo per gli studi di genere."
+            "testo": "Septimus è un forte esempio letterario di trauma di guerra e di critica alle istituzioni psichiatriche. A Room of One's Own è anche un testo fondamentale per gli studi di genere."
           },
           {
             "materia": "inglese",
-            "testo": "Stesso anno-giorno-città di Ulysses come modello (un giorno, una città): confronto tra interior monologue indiretto di Woolf e tecniche dirette di Joyce."
+            "testo": "Come in Ulysses, anche qui ci sono un solo giorno e una sola città, ma Woolf usa tecniche più indirette e liriche rispetto a Joyce."
           }
         ]
       }
     },
     {
       "id": "george-orwell-distopia",
-      "titolo": "The dystopian novel and George Orwell",
+      "titolo": "Il romanzo distopico e George Orwell",
       "area": "Modern Age",
       "priorita": 1,
       "scheda": {
-        "sintesi": "La dystopia è il rovescio dell'utopia: rappresenta una società futura totalitaria per mettere in guardia il presente. George Orwell (pseudonimo di Eric Arthur Blair, 1903-1950), socialista democratico, testimone della guerra civile spagnola, scrive le due distopie più influenti del Novecento: Animal Farm (1945), favola allegorica sulla rivoluzione tradita, e Nineteen Eighty-Four (1949), incubo del totalitarismo perfetto fondato su sorveglianza, manipolazione del linguaggio e riscrittura della storia.",
+        "sintesi": "La distopia è il contrario della utopia: mostra una società futura terribile per mettere in guardia il presente. George Orwell, pseudonimo di Eric Arthur Blair, è uno scrittore impegnato e antitotalitario. Le sue opere più famose sono Animal Farm, allegoria di una rivoluzione tradita, e Nineteen Eighty-Four, romanzo di un potere totale fondato su controllo, sorveglianza e manipolazione del linguaggio.",
         "sezioni": [
           {
-            "titolo": "The dystopian novel",
+            "titolo": "Il romanzo distopico",
             "punti": [
-              "Definizione: anti-utopia; mondo futuro in cui tendenze negative del presente sono portate all'estremo — funzione di warning.",
-              "Caratteri: Stato totalitario, sorveglianza, annullamento dell'individuo, controllo di linguaggio, memoria e affetti; protagonista che tenta una ribellione destinata (spesso) alla sconfitta.",
-              "Tradizione: Brave New World di Aldous Huxley (1932, controllo tramite piacere e condizionamento) e Nineteen Eighty-Four di Orwell (controllo tramite paura e sorveglianza).",
-              "Radici storiche: totalitarismi degli anni Trenta-Quaranta (stalinismo, nazismo), propaganda, guerra fredda incipiente."
+              "La distopia è una anti-utopia: prende tendenze negative del presente e le porta all'estremo per lanciare un avvertimento.",
+              "Di solito troviamo uno Stato totalitario, controllo della vita privata, annullamento dell'individuo, manipolazione di lingua e memoria e un protagonista che prova a ribellarsi.",
+              "Due esempi fondamentali sono Brave New World di Huxley, dove il controllo passa dal piacere e dal condizionamento, e Nineteen Eighty-Four di Orwell, dove domina la paura.",
+              "Le radici storiche stanno nei totalitarismi del Novecento, nella propaganda e nella nascente guerra fredda."
             ]
           },
           {
             "titolo": "Orwell: vita e impegno",
             "punti": [
-              "Nato in India, funzionario coloniale in Birmania (esperienza che lo rende antimperialista: 'Shooting an Elephant').",
-              "Esperienze tra i poveri (Down and Out in Paris and London) e tra i minatori (The Road to Wigan Pier): scrittura come inchiesta sociale.",
-              "Guerra civile spagnola (Homage to Catalonia): ferito al fronte, vede la repressione stalinista dei compagni anarchici e trotskisti — matura l'antitotalitarismo.",
-              "Poetica della chiarezza: prosa 'like a window pane'; 'Politics and the English Language' contro il linguaggio che maschera e manipola."
+              "Orwell nasce in India e lavora come funzionario coloniale in Birmania. Questa esperienza lo rende antimperialista, come si vede in Shooting an Elephant.",
+              "Vive anche tra poveri e minatori e trasforma queste esperienze in inchiesta sociale, per esempio in Down and Out in Paris and London e in The Road to Wigan Pier.",
+              "Nella guerra civile spagnola viene ferito e vede la repressione stalinista contro anarchici e trotzkisti. Da qui nasce il suo forte antitotalitarismo.",
+              "Difende una prosa chiara, quasi come un vetro trasparente, e attacca il linguaggio politico che nasconde e manipola la realtà."
             ]
           },
           {
             "titolo": "Animal Farm e Nineteen Eighty-Four",
             "punti": [
-              "Animal Farm: 'a fairy story' allegorica — gli animali cacciano il fattore ma i maiali (Napoleon = Stalin) instaurano una nuova tirannia; il comandamento corrotto: 'All animals are equal, but some animals are more equal than others.'",
-              "Nineteen Eighty-Four: Oceania, il Party e Big Brother ('Big Brother is watching you'); Winston Smith lavora al Ministry of Truth riscrivendo il passato.",
-              "Strumenti del potere: telescreens (sorveglianza totale), Newspeak (lingua ridotta per rendere impensabile il dissenso), doublethink (credere a due verità opposte), Thought Police, Two Minutes Hate.",
-              "Slogan del Party: 'War is peace. Freedom is slavery. Ignorance is strength.'",
-              "La ribellione di Winston (il diario, l'amore per Julia) finisce nella Stanza 101: tortura, tradimento e annientamento — ama il Big Brother.",
-              "Attualità: sorveglianza di massa, fake news e post-verità rendono Orwell un riferimento costante ('orwelliano' è entrato nel lessico comune)."
+              "Animal Farm è una favola allegorica: gli animali cacciano il padrone, ma i maiali instaurano una nuova tirannia e tradiscono l'idea di uguaglianza.",
+              "In Nineteen Eighty-Four Winston Smith vive in Oceania, dove il Party domina tutto sotto il volto del Big Brother. Il suo lavoro al Ministry of Truth consiste nel riscrivere il passato.",
+              "Il potere usa strumenti precisi: teleschermi per sorvegliare, Newspeak per ridurre il pensiero, doublethink per accettare idee opposte, Thought Police e odio collettivo.",
+              "Gli slogan del Party capovolgono il senso delle parole: guerra è pace, libertà è schiavitù, ignoranza è forza.",
+              "La ribellione di Winston, tra diario e amore per Julia, finisce con tortura, tradimento e distruzione della sua personalità nella stanza 101.",
+              "Per questo Orwell è ancora attuale quando si parla di sorveglianza di massa, fake news e manipolazione della verità."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "scienze-umane",
-            "testo": "Collegamento forte con l'analisi del totalitarismo (Hannah Arendt: terrore, ideologia, atomizzazione) e con la sociologia del controllo sociale e della sorveglianza (panopticon di Bentham/Foucault, società della sorveglianza digitale)."
+            "testo": "Il collegamento più forte è con lo studio del totalitarismo, per esempio in Hannah Arendt, e con la sociologia del controllo sociale e della sorveglianza."
           },
           {
             "materia": "italiano",
-            "testo": "Il rapporto intellettuale-potere e la manipolazione del consenso dialogano con la letteratura italiana sotto il fascismo e con l'impegno civile del Neorealismo."
+            "testo": "Il rapporto tra intellettuale e potere, e la manipolazione del consenso, si possono collegare anche alla letteratura italiana sotto il fascismo e al Neorealismo impegnato."
           },
           {
             "materia": "inglese",
-            "testo": "La Newspeak rovescia la fiducia modernista nel linguaggio: dopo Joyce e Woolf che lo espandono, Orwell mostra un potere che lo amputa per amputare il pensiero."
+            "testo": "Dopo Joyce e Woolf, che allargano le possibilità del linguaggio, Orwell mostra un potere che lo restringe per restringere anche il pensiero."
           }
         ]
       }
@@ -1023,581 +1023,996 @@
     {
       "argomento": "rivoluzione-industriale",
       "domanda": "Quale invenzione, perfezionata da James Watt nel 1769, è il simbolo della Industrial Revolution?",
-      "opzioni": ["The steam engine", "The spinning jenny", "The telegraph", "The power loom"],
+      "opzioni": [
+        "The steam engine",
+        "The spinning jenny",
+        "The telegraph",
+        "The power loom"
+      ],
       "corretta": 0,
       "spiegazione": "James Watt perfezionò la steam engine (macchina a vapore), motore della rivoluzione industriale; la spinning jenny è di Hargreaves e riguarda la filatura."
     },
     {
       "argomento": "rivoluzione-industriale",
       "domanda": "Che cosa furono le Enclosures?",
-      "opzioni": ["Leggi sul lavoro minorile", "Le recinzioni dei campi comuni che spinsero i contadini verso le città", "Sindacati operai clandestini", "Quartieri operai delle città industriali"],
+      "opzioni": [
+        "Leggi sul lavoro minorile",
+        "Le recinzioni dei campi comuni che spinsero i contadini verso le città",
+        "Sindacati operai clandestini",
+        "Quartieri operai delle città industriali"
+      ],
       "corretta": 1,
       "spiegazione": "Le Enclosures privatizzarono le terre comuni: molti contadini, privati dei mezzi di sussistenza, migrarono nelle città industriali fornendo manodopera alle fabbriche."
     },
     {
       "argomento": "rivoluzione-industriale",
       "domanda": "Chi erano i Luddites?",
-      "opzioni": ["Imprenditori tessili del Lancashire", "Riformatori parlamentari moderati", "Operai che distruggevano le macchine ritenute causa della disoccupazione", "Predicatori metodisti"],
+      "opzioni": [
+        "Imprenditori tessili del Lancashire",
+        "Riformatori parlamentari moderati",
+        "Operai che distruggevano le macchine ritenute causa della disoccupazione",
+        "Predicatori metodisti"
+      ],
       "corretta": 2,
       "spiegazione": "Il luddismo (primi anni dell'Ottocento) fu un movimento di lavoratori che distruggevano i macchinari, percepiti come minaccia al lavoro e ai salari."
     },
     {
       "argomento": "rivoluzioni-america-francia",
       "domanda": "In quale anno fu firmata la Declaration of Independence americana?",
-      "opzioni": ["1789", "1783", "1773", "1776"],
+      "opzioni": [
+        "1789",
+        "1783",
+        "1773",
+        "1776"
+      ],
       "corretta": 3,
       "spiegazione": "La Dichiarazione d'indipendenza fu adottata il 4 luglio 1776; il 1783 è la fine della guerra, il 1773 il Boston Tea Party, il 1789 la Rivoluzione francese."
     },
     {
       "argomento": "rivoluzioni-america-francia",
       "domanda": "Chi scrisse 'Reflections on the Revolution in France' (1790), condannando la Rivoluzione francese?",
-      "opzioni": ["Thomas Paine", "Edmund Burke", "William Godwin", "Thomas Jefferson"],
+      "opzioni": [
+        "Thomas Paine",
+        "Edmund Burke",
+        "William Godwin",
+        "Thomas Jefferson"
+      ],
       "corretta": 1,
       "spiegazione": "Edmund Burke condannò la Rivoluzione nelle Reflections; Thomas Paine gli rispose difendendola in 'Rights of Man'."
     },
     {
       "argomento": "rivoluzioni-america-francia",
       "domanda": "Che cosa accadde a St Peter's Fields, Manchester, nel 1819?",
-      "opzioni": ["Il Peterloo Massacre: la cavalleria caricò una folla che chiedeva riforme", "La fondazione del movimento cartista", "L'approvazione del First Reform Act", "Una rivolta luddista contro le filande"],
+      "opzioni": [
+        "Il Peterloo Massacre: la cavalleria caricò una folla che chiedeva riforme",
+        "La fondazione del movimento cartista",
+        "L'approvazione del First Reform Act",
+        "Una rivolta luddista contro le filande"
+      ],
       "corretta": 0,
       "spiegazione": "Nel cosiddetto Peterloo Massacre la cavalleria caricò una manifestazione pacifica per la riforma elettorale, causando morti e centinaia di feriti: simbolo della repressione post-napoleonica."
     },
     {
       "argomento": "romanticismo",
       "domanda": "Quale opera segna convenzionalmente l'inizio del Romanticismo inglese?",
-      "opzioni": ["The Castle of Otranto (1764)", "Childe Harold's Pilgrimage (1812)", "Lyrical Ballads (1798)", "Songs of Innocence (1789)"],
+      "opzioni": [
+        "The Castle of Otranto (1764)",
+        "Childe Harold's Pilgrimage (1812)",
+        "Lyrical Ballads (1798)",
+        "Songs of Innocence (1789)"
+      ],
       "corretta": 2,
       "spiegazione": "Le Lyrical Ballads di Wordsworth e Coleridge (1798), con la Preface del 1800, sono considerate il manifesto del Romanticismo inglese."
     },
     {
       "argomento": "romanticismo",
       "domanda": "Secondo Edmund Burke, il sublime nasce da:",
-      "opzioni": ["L'armonia e la proporzione delle forme", "L'imitazione fedele della natura", "La perfezione morale dell'oggetto contemplato", "Ciò che è vasto, oscuro e terribile, e genera un piacere misto a terrore"],
+      "opzioni": [
+        "L'armonia e la proporzione delle forme",
+        "L'imitazione fedele della natura",
+        "La perfezione morale dell'oggetto contemplato",
+        "Ciò che è vasto, oscuro e terribile, e genera un piacere misto a terrore"
+      ],
       "corretta": 3,
       "spiegazione": "Nel suo Enquiry (1757) Burke distingue il beautiful (armonia, piacere) dal sublime, che nasce da vastità, oscurità e potenza e produce 'delightful horror'."
     },
     {
       "argomento": "romanticismo",
       "domanda": "Quali poeti appartengono alla seconda generazione romantica?",
-      "opzioni": ["Blake, Burns e Gray", "Byron, Percy Shelley e Keats", "Wordsworth, Coleridge e Southey", "Tennyson, Browning e Arnold"],
+      "opzioni": [
+        "Blake, Burns e Gray",
+        "Byron, Percy Shelley e Keats",
+        "Wordsworth, Coleridge e Southey",
+        "Tennyson, Browning e Arnold"
+      ],
       "corretta": 1,
       "spiegazione": "La seconda generazione è quella di Byron, Percy Bysshe Shelley e Keats, morti tutti giovani; Wordsworth e Coleridge sono la prima; Tennyson e Browning sono vittoriani."
     },
     {
       "argomento": "romanticismo",
       "domanda": "Quale di questi NON è un tipico 'Romantic interest'?",
-      "opzioni": ["Il culto della ragione e delle regole neoclassiche", "L'infanzia come età della visione pura", "La natura come forza viva", "L'esotico e il soprannaturale"],
+      "opzioni": [
+        "Il culto della ragione e delle regole neoclassiche",
+        "L'infanzia come età della visione pura",
+        "La natura come forza viva",
+        "L'esotico e il soprannaturale"
+      ],
       "corretta": 0,
       "spiegazione": "Il Romanticismo si oppone proprio al razionalismo e alle regole neoclassiche del Settecento, esaltando immaginazione, natura, infanzia, esotico e soprannaturale."
     },
     {
       "argomento": "william-blake",
       "domanda": "A quali raccolte appartengono rispettivamente 'The Lamb' e 'The Tyger'?",
-      "opzioni": ["Entrambe a Songs of Innocence", "Songs of Experience e Songs of Innocence", "Songs of Innocence e Songs of Experience", "Entrambe a Songs of Experience"],
+      "opzioni": [
+        "Entrambe a Songs of Innocence",
+        "Songs of Experience e Songs of Innocence",
+        "Songs of Innocence e Songs of Experience",
+        "Entrambe a Songs of Experience"
+      ],
       "corretta": 2,
       "spiegazione": "'The Lamb' è in Songs of Innocence (1789), 'The Tyger' in Songs of Experience (1794): sono poesie speculari sui due stati contrari dell'anima umana."
     },
     {
       "argomento": "william-blake",
       "domanda": "Quale domanda collega esplicitamente 'The Tyger' a 'The Lamb'?",
-      "opzioni": ["'Little Lamb, who made thee?'", "'What immortal hand or eye...?'", "'How can the bird that is born for joy...?'", "'Did he who made the Lamb make thee?'"],
+      "opzioni": [
+        "'Little Lamb, who made thee?'",
+        "'What immortal hand or eye...?'",
+        "'How can the bird that is born for joy...?'",
+        "'Did he who made the Lamb make thee?'"
+      ],
       "corretta": 3,
       "spiegazione": "Nel quinto stanza di 'The Tyger' Blake chiede se lo stesso creatore abbia fatto agnello e tigre: il problema della coesistenza di mitezza e ferocia nella creazione."
     },
     {
       "argomento": "william-blake",
       "domanda": "Nel 'The Chimney Sweeper' di Songs of Experience, i genitori del bambino sono andati:",
-      "opzioni": ["A pregare in chiesa, 'God and his Priest and King'", "A lavorare in fabbrica", "Al mercato a vendere il figlio", "A chiedere aiuto alla parrocchia"],
+      "opzioni": [
+        "A pregare in chiesa, 'God and his Priest and King'",
+        "A lavorare in fabbrica",
+        "Al mercato a vendere il figlio",
+        "A chiedere aiuto alla parrocchia"
+      ],
       "corretta": 0,
       "spiegazione": "Il bambino dice che i genitori sono andati a lodare 'God and his Priest and King': Blake accusa famiglia, Chiesa e Stato di costruire un paradiso sulla miseria del bambino."
     },
     {
       "argomento": "william-blake",
       "domanda": "Quale immaginario domina la descrizione della creazione della tigre in 'The Tyger'?",
-      "opzioni": ["Quello pastorale del gregge e del prato", "Quello della fucina del fabbro: hammer, furnace, anvil", "Quello marino della tempesta", "Quello domestico del focolare"],
+      "opzioni": [
+        "Quello pastorale del gregge e del prato",
+        "Quello della fucina del fabbro: hammer, furnace, anvil",
+        "Quello marino della tempesta",
+        "Quello domestico del focolare"
+      ],
       "corretta": 1,
       "spiegazione": "Il creatore della tigre è immaginato come un fabbro titanico con martello, fornace e incudine: la creazione come atto di energia e forza, non di dolcezza."
     },
     {
       "argomento": "gothic-fiction",
       "domanda": "Quale romanzo inaugura la Gothic fiction e in che anno?",
-      "opzioni": ["The Mysteries of Udolpho, 1794", "The Monk, 1796", "Frankenstein, 1818", "The Castle of Otranto, 1764"],
+      "opzioni": [
+        "The Mysteries of Udolpho, 1794",
+        "The Monk, 1796",
+        "Frankenstein, 1818",
+        "The Castle of Otranto, 1764"
+      ],
       "corretta": 3,
       "spiegazione": "The Castle of Otranto di Horace Walpole (1764) è considerato il primo Gothic novel; Radcliffe e Lewis svilupparono poi il genere."
     },
     {
       "argomento": "gothic-fiction",
       "domanda": "Quale categoria estetica è alla base del piacere del terrore nel romanzo gotico?",
-      "opzioni": ["Il wit augusteo", "Il sublime teorizzato da Burke", "Il decorum neoclassico", "Il pathos sentimentale"],
+      "opzioni": [
+        "Il wit augusteo",
+        "Il sublime teorizzato da Burke",
+        "Il decorum neoclassico",
+        "Il pathos sentimentale"
+      ],
       "corretta": 1,
       "spiegazione": "Il gotico traduce in narrativa il sublime di Burke: l'oscuro, il vasto e il terribile come fonte di piacere estetico."
     },
     {
       "argomento": "gothic-fiction",
       "domanda": "Quale elemento NON è tipico del setting gotico settecentesco?",
-      "opzioni": ["Castelli medievali in rovina", "Sotterranei e passaggi segreti", "La metropoli industriale moderna", "Notte e tempesta"],
+      "opzioni": [
+        "Castelli medievali in rovina",
+        "Sotterranei e passaggi segreti",
+        "La metropoli industriale moderna",
+        "Notte e tempesta"
+      ],
       "corretta": 2,
       "spiegazione": "Il gotico classico predilige castelli, abbazie e rovine medievali; la città moderna come scenario gotico arriva solo nel tardo Ottocento (Stevenson, Stoker)."
     },
     {
       "argomento": "mary-shelley-frankenstein",
       "domanda": "Dove e quando nacque l'idea di Frankenstein?",
-      "opzioni": ["A Londra nel 1818, su commissione dell'editore", "A Villa Diodati nel 1816, durante una gara di racconti di fantasmi", "A Oxford nel 1812, durante gli studi di Percy Shelley", "In Scozia nel 1814, dopo la lettura di Milton"],
+      "opzioni": [
+        "A Londra nel 1818, su commissione dell'editore",
+        "A Villa Diodati nel 1816, durante una gara di racconti di fantasmi",
+        "A Oxford nel 1812, durante gli studi di Percy Shelley",
+        "In Scozia nel 1814, dopo la lettura di Milton"
+      ],
       "corretta": 1,
       "spiegazione": "Nell'estate 1816, sul lago di Ginevra con Byron e Percy Shelley, la sfida a scrivere una storia di fantasmi diede origine al romanzo, pubblicato nel 1818."
     },
     {
       "argomento": "mary-shelley-frankenstein",
       "domanda": "Qual è la struttura narrativa di Frankenstein?",
-      "opzioni": ["Diario in prima persona di Victor", "Narratore onnisciente in terza persona", "Romanzo epistolare a due voci", "Racconto a cornice: le lettere di Walton contengono il racconto di Victor, che contiene quello della creatura"],
+      "opzioni": [
+        "Diario in prima persona di Victor",
+        "Narratore onnisciente in terza persona",
+        "Romanzo epistolare a due voci",
+        "Racconto a cornice: le lettere di Walton contengono il racconto di Victor, che contiene quello della creatura"
+      ],
       "corretta": 3,
       "spiegazione": "Il romanzo ha tre narratori concentrici (frame narrative): l'esploratore Walton, Victor Frankenstein e la creatura stessa."
     },
     {
       "argomento": "mary-shelley-frankenstein",
       "domanda": "Perché il sottotitolo è 'The Modern Prometheus'?",
-      "opzioni": ["Perché Victor, come Prometeo, si appropria di un potere divino (dare la vita) e ne è punito", "Perché la creatura ruba il fuoco agli uomini", "Perché il romanzo è ambientato in Grecia", "Perché Victor è incatenato a una rupe alla fine del romanzo"],
+      "opzioni": [
+        "Perché Victor, come Prometeo, si appropria di un potere divino (dare la vita) e ne è punito",
+        "Perché la creatura ruba il fuoco agli uomini",
+        "Perché il romanzo è ambientato in Grecia",
+        "Perché Victor è incatenato a una rupe alla fine del romanzo"
+      ],
       "corretta": 0,
       "spiegazione": "Come Prometeo rubò il fuoco agli dèi, Victor usurpa il potere divino di creare la vita: l'hybris dello scienziato viene punita con la distruzione di tutto ciò che ama."
     },
     {
       "argomento": "mary-shelley-frankenstein",
       "domanda": "Nel brano 'The creation of the monster', qual è la reazione di Victor davanti alla creatura animata?",
-      "opzioni": ["Orgoglio per il successo scientifico", "Tenerezza paterna", "Orrore e disgusto: fugge abbandonandola", "Curiosità di studiarla"],
+      "opzioni": [
+        "Orgoglio per il successo scientifico",
+        "Tenerezza paterna",
+        "Orrore e disgusto: fugge abbandonandola",
+        "Curiosità di studiarla"
+      ],
       "corretta": 2,
       "spiegazione": "Appena la creatura apre l'occhio 'acquoso', il sogno di Victor si rovescia in incubo: prova horror and disgust e fugge — l'abbandono è la vera colpa che innesca la tragedia."
     },
     {
       "argomento": "william-wordsworth",
       "domanda": "Come definisce Wordsworth la poesia nella Preface alle Lyrical Ballads?",
-      "opzioni": ["'The best words in the best order'", "'A willing suspension of disbelief'", "'A mirror held up to nature'", "'The spontaneous overflow of powerful feelings'"],
+      "opzioni": [
+        "'The best words in the best order'",
+        "'A willing suspension of disbelief'",
+        "'A mirror held up to nature'",
+        "'The spontaneous overflow of powerful feelings'"
+      ],
       "corretta": 3,
       "spiegazione": "La celebre definizione della Preface (1800) prosegue: la poesia ha origine da 'emotion recollected in tranquillity', l'emozione rielaborata nella memoria."
     },
     {
       "argomento": "william-wordsworth",
       "domanda": "In 'Daffodils', quando i fiori si rivelano 'the bliss of solitude'?",
-      "opzioni": ["Nel momento stesso della passeggiata lungo il lago", "Dopo, quando riaffiorano all''inward eye' nella quiete della memoria", "Durante una tempesta sul lago", "Nel sogno notturno del poeta"],
+      "opzioni": [
+        "Nel momento stesso della passeggiata lungo il lago",
+        "Dopo, quando riaffiorano all''inward eye' nella quiete della memoria",
+        "Durante una tempesta sul lago",
+        "Nel sogno notturno del poeta"
+      ],
       "corretta": 1,
       "spiegazione": "L'ultima strofa mostra la poetica wordsworthiana in atto: sdraiato 'in vacant or pensive mood', il poeta rivede i fiori con l'occhio interiore e il cuore torna a danzare — emotion recollected in tranquillity."
     },
     {
       "argomento": "william-wordsworth",
       "domanda": "Quale linguaggio rivendica Wordsworth per la poesia?",
-      "opzioni": ["'A selection of language really used by men'", "La poetic diction della tradizione augustea", "Il linguaggio arcaico delle ballate medievali", "Un linguaggio tecnico-filosofico"],
+      "opzioni": [
+        "'A selection of language really used by men'",
+        "La poetic diction della tradizione augustea",
+        "Il linguaggio arcaico delle ballate medievali",
+        "Un linguaggio tecnico-filosofico"
+      ],
       "corretta": 0,
       "spiegazione": "Contro l'artificiosa poetic diction settecentesca, Wordsworth propone una selezione della lingua realmente parlata dagli uomini comuni, adatta a soggetti umili e rurali."
     },
     {
       "argomento": "william-wordsworth",
       "domanda": "Con quale similitudine si apre 'Daffodils'?",
-      "opzioni": ["Il poeta come un pellegrino stanco", "Il poeta vaga 'lonely as a cloud'", "I fiori come stelle della Via Lattea", "Il lago come uno specchio d'argento"],
+      "opzioni": [
+        "Il poeta come un pellegrino stanco",
+        "Il poeta vaga 'lonely as a cloud'",
+        "I fiori come stelle della Via Lattea",
+        "Il lago come uno specchio d'argento"
+      ],
       "corretta": 1,
       "spiegazione": "Il poeta si paragona a una nuvola solitaria che vaga sopra valli e colline; il paragone dei fiori con le stelle 'that shine on the milky way' compare invece nella seconda strofa."
     },
     {
       "argomento": "samuel-taylor-coleridge",
       "domanda": "Che cosa intende Coleridge con 'willing suspension of disbelief'?",
-      "opzioni": ["Il rifiuto del lettore di credere al soprannaturale", "Il dubbio religioso del poeta romantico", "La disponibilità del lettore a sospendere l'incredulità accettando il soprannaturale come vero", "La tecnica di interrompere la narrazione nel momento culminante"],
+      "opzioni": [
+        "Il rifiuto del lettore di credere al soprannaturale",
+        "Il dubbio religioso del poeta romantico",
+        "La disponibilità del lettore a sospendere l'incredulità accettando il soprannaturale come vero",
+        "La tecnica di interrompere la narrazione nel momento culminante"
+      ],
       "corretta": 2,
       "spiegazione": "Nella Biographia Literaria Coleridge spiega che il suo compito nelle Lyrical Ballads era dare al soprannaturale 'a semblance of truth' tale da indurre nel lettore la fede poetica."
     },
     {
       "argomento": "samuel-taylor-coleridge",
       "domanda": "Nella Parte I della Rime, con quale arma e con quale motivazione il marinaio uccide l'albatro?",
-      "opzioni": ["Con un fucile, per fame", "Con la balestra (cross-bow), senza alcun motivo dichiarato", "Con un arpione, per difendere la nave", "Con le mani, in preda alla follia"],
+      "opzioni": [
+        "Con un fucile, per fame",
+        "Con la balestra (cross-bow), senza alcun motivo dichiarato",
+        "Con un arpione, per difendere la nave",
+        "Con le mani, in preda alla follia"
+      ],
       "corretta": 1,
       "spiegazione": "'With my cross-bow / I shot the Albatross': l'assenza di motivo rende l'atto un crimine gratuito contro la natura e l'ospitalità, simile a un peccato originale."
     },
     {
       "argomento": "samuel-taylor-coleridge",
       "domanda": "Quale punizione segue l'uccisione dell'albatro?",
-      "opzioni": ["La bonaccia e la sete: 'Water, water, every where, / Nor any drop to drink'", "Un naufragio immediato della nave", "L'ammutinamento dell'equipaggio", "L'attacco di una nave pirata"],
+      "opzioni": [
+        "La bonaccia e la sete: 'Water, water, every where, / Nor any drop to drink'",
+        "Un naufragio immediato della nave",
+        "L'ammutinamento dell'equipaggio",
+        "L'attacco di una nave pirata"
+      ],
       "corretta": 0,
       "spiegazione": "La nave resta immobile in una bonaccia mortale; l'equipaggio muore e il marinaio porta l'albatro appeso al collo come segno della colpa."
     },
     {
       "argomento": "samuel-taylor-coleridge",
       "domanda": "Quando inizia la redenzione del vecchio marinaio?",
-      "opzioni": ["Quando confessa la colpa al capitano", "Quando la nave torna in porto", "Quando l'eremita lo assolve", "Quando benedice spontaneamente i serpenti marini, e l'albatro cade dal suo collo"],
+      "opzioni": [
+        "Quando confessa la colpa al capitano",
+        "Quando la nave torna in porto",
+        "Quando l'eremita lo assolve",
+        "Quando benedice spontaneamente i serpenti marini, e l'albatro cade dal suo collo"
+      ],
       "corretta": 3,
       "spiegazione": "La benedizione inconsapevole delle water snakes ('he blessed them unaware') segna la riconciliazione con la natura: l'albatro si stacca dal collo, ma resta la penitenza di raccontare per sempre la storia."
     },
     {
       "argomento": "samuel-taylor-coleridge",
       "domanda": "Quale forma metrica adotta The Rime of the Ancient Mariner?",
-      "opzioni": ["Il sonetto elisabettiano", "La ballata tradizionale, con quartine, ripetizioni e arcaismi", "Il blank verse miltoniano", "L'ode pindarica"],
+      "opzioni": [
+        "Il sonetto elisabettiano",
+        "La ballata tradizionale, con quartine, ripetizioni e arcaismi",
+        "Il blank verse miltoniano",
+        "L'ode pindarica"
+      ],
       "corretta": 1,
       "spiegazione": "Coleridge riprende la forma della ballata popolare medievale (quartine con rima ABCB, ripetizioni, linguaggio arcaico), aggiungendo nel 1817 le glosse in prosa a margine."
     },
     {
       "argomento": "george-gordon-byron",
       "domanda": "Quali tratti definiscono il Byronic hero?",
-      "opzioni": ["Ottimismo, fede religiosa e rispetto delle convenzioni", "Umiltà, operosità e spirito di sacrificio borghese", "Solitudine, malinconia, ribellione e una colpa oscura nel passato", "Razionalità illuministica e distacco scientifico"],
+      "opzioni": [
+        "Ottimismo, fede religiosa e rispetto delle convenzioni",
+        "Umiltà, operosità e spirito di sacrificio borghese",
+        "Solitudine, malinconia, ribellione e una colpa oscura nel passato",
+        "Razionalità illuministica e distacco scientifico"
+      ],
       "corretta": 2,
       "spiegazione": "Il Byronic hero è un outsider affascinante e maledetto: orgoglioso, ribelle alle convenzioni, malinconico, segnato da un misterioso passato — proiezione del mito dell'autore."
     },
     {
       "argomento": "george-gordon-byron",
       "domanda": "Nel brano 'Childe Harold soul searching', dove Harold trova compagnia e specchio di sé?",
-      "opzioni": ["Nei salotti dell'aristocrazia europea", "Nella natura selvaggia, lontano dagli uomini che lo hanno deluso", "Nella religione e nella preghiera", "Nell'azione politica rivoluzionaria"],
+      "opzioni": [
+        "Nei salotti dell'aristocrazia europea",
+        "Nella natura selvaggia, lontano dagli uomini che lo hanno deluso",
+        "Nella religione e nella preghiera",
+        "Nell'azione politica rivoluzionaria"
+      ],
       "corretta": 1,
       "spiegazione": "Deluso dal mondo, Harold cerca se stesso nella solitudine e sente la natura selvaggia come interlocutrice: non consolatrice morale alla Wordsworth, ma specchio del proprio titanismo inquieto."
     },
     {
       "argomento": "george-gordon-byron",
       "domanda": "Come morì Byron?",
-      "opzioni": ["Suicida a Londra dopo uno scandalo", "In un naufragio nel golfo di La Spezia", "In duello a Venezia", "Di febbri a Missolungi (1824), mentre sosteneva l'indipendenza greca"],
+      "opzioni": [
+        "Suicida a Londra dopo uno scandalo",
+        "In un naufragio nel golfo di La Spezia",
+        "In duello a Venezia",
+        "Di febbri a Missolungi (1824), mentre sosteneva l'indipendenza greca"
+      ],
       "corretta": 3,
       "spiegazione": "Byron morì a Missolungi nel 1824, impegnato nella causa dell'indipendenza greca dall'Impero ottomano; il naufragio del 1822 uccise invece Percy Bysshe Shelley."
     },
     {
       "argomento": "jane-austen",
       "domanda": "Come si apre Pride and Prejudice?",
-      "opzioni": ["Con la celebre frase ironica: 'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.'", "Con la descrizione di Pemberley", "Con il ballo di Netherfield", "Con la lettera di Mr Collins"],
+      "opzioni": [
+        "Con la celebre frase ironica: 'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.'",
+        "Con la descrizione di Pemberley",
+        "Con il ballo di Netherfield",
+        "Con la lettera di Mr Collins"
+      ],
       "corretta": 0,
       "spiegazione": "L'incipit, tra i più famosi della letteratura inglese, introduce con ironia il tema del romanzo: il matrimonio come questione economica e sociale."
     },
     {
       "argomento": "jane-austen",
       "domanda": "Nel primo capitolo ('Mr and Mrs Bennet'), qual è 'the business of her life' per Mrs Bennet?",
-      "opzioni": ["Amministrare la tenuta di Longbourn", "Maritare le cinque figlie", "Frequentare la corte di Londra", "Educare le figlie alla lettura"],
+      "opzioni": [
+        "Amministrare la tenuta di Longbourn",
+        "Maritare le cinque figlie",
+        "Frequentare la corte di Londra",
+        "Educare le figlie alla lettura"
+      ],
       "corretta": 1,
       "spiegazione": "Il narratore la definisce 'a woman of mean understanding' la cui occupazione di vita è 'to get her daughters married': il matrimonio è urgenza economica, dato il vincolo ereditario sulla proprietà."
     },
     {
       "argomento": "jane-austen",
       "domanda": "Quale tecnica narrativa, perfezionata da Austen, fonde la voce del narratore con il punto di vista del personaggio?",
-      "opzioni": ["Lo stream of consciousness", "Il monologo drammatico", "Il free indirect speech (discorso indiretto libero)", "La narrazione epistolare"],
+      "opzioni": [
+        "Lo stream of consciousness",
+        "Il monologo drammatico",
+        "Il free indirect speech (discorso indiretto libero)",
+        "La narrazione epistolare"
+      ],
       "corretta": 2,
       "spiegazione": "Austen è tra i primi grandi maestri del free indirect speech: i pensieri del personaggio filtrano nella voce in terza persona, creando ironia e profondità psicologica."
     },
     {
       "argomento": "jane-austen",
       "domanda": "A chi si riferiscono rispettivamente 'pride' e 'prejudice' nel titolo, almeno in prima lettura?",
-      "opzioni": ["Pride a Mrs Bennet, prejudice a Mr Bennet", "Pride a Bingley, prejudice a Jane", "Entrambi solo a Elizabeth", "Pride a Darcy, prejudice a Elizabeth — ma nel romanzo entrambi mostrano entrambi i difetti"],
+      "opzioni": [
+        "Pride a Mrs Bennet, prejudice a Mr Bennet",
+        "Pride a Bingley, prejudice a Jane",
+        "Entrambi solo a Elizabeth",
+        "Pride a Darcy, prejudice a Elizabeth — ma nel romanzo entrambi mostrano entrambi i difetti"
+      ],
       "corretta": 3,
       "spiegazione": "Tradizionalmente l'orgoglio di rango è di Darcy e il pregiudizio di Elizabeth; il percorso del romanzo mostra però che ciascuno deve riconoscere in sé entrambi i difetti."
     },
     {
       "argomento": "eta-vittoriana-compromesso",
       "domanda": "Che cosa si intende per Victorian Compromise?",
-      "opzioni": ["L'accordo tra Vittoria e il Parlamento sulla successione", "Il compromesso tra liberali e conservatori sulle Corn Laws", "Il trattato di pace con le colonie americane", "La coesistenza ipocrita di progresso, rispettabilità e filantropia con povertà, sfruttamento e doppia morale"],
+      "opzioni": [
+        "L'accordo tra Vittoria e il Parlamento sulla successione",
+        "Il compromesso tra liberali e conservatori sulle Corn Laws",
+        "Il trattato di pace con le colonie americane",
+        "La coesistenza ipocrita di progresso, rispettabilità e filantropia con povertà, sfruttamento e doppia morale"
+      ],
       "corretta": 3,
       "spiegazione": "Il Victorian Compromise indica la contraddizione di un'epoca che celebra progresso e virtù mentre tollera slums, sfruttamento e una rigida doppia morale, nascondendo ciò che è sgradevole dietro la facciata della respectability."
     },
     {
       "argomento": "eta-vittoriana-compromesso",
       "domanda": "Che cosa fu la Great Exhibition del 1851?",
-      "opzioni": ["La prima esposizione universale, al Crystal Palace, vetrina del primato industriale britannico", "La grande mostra dei preraffaelliti alla Royal Academy", "L'esposizione coloniale per l'incoronazione di Vittoria", "La fiera mondiale del libro a Oxford"],
+      "opzioni": [
+        "La prima esposizione universale, al Crystal Palace, vetrina del primato industriale britannico",
+        "La grande mostra dei preraffaelliti alla Royal Academy",
+        "L'esposizione coloniale per l'incoronazione di Vittoria",
+        "La fiera mondiale del libro a Oxford"
+      ],
       "corretta": 0,
       "spiegazione": "Voluta dal principe Alberto e ospitata nel Crystal Palace di Paxton, la Great Exhibition celebrò davanti al mondo la supremazia tecnologica e industriale della Gran Bretagna."
     },
     {
       "argomento": "eta-vittoriana-compromesso",
       "domanda": "Che cosa chiedeva il movimento cartista (Chartism)?",
-      "opzioni": ["L'abolizione della monarchia", "Il suffragio universale maschile e altre riforme democratiche elencate nella People's Charter", "La giornata lavorativa di otto ore per le donne", "L'indipendenza dell'Irlanda"],
+      "opzioni": [
+        "L'abolizione della monarchia",
+        "Il suffragio universale maschile e altre riforme democratiche elencate nella People's Charter",
+        "La giornata lavorativa di otto ore per le donne",
+        "L'indipendenza dell'Irlanda"
+      ],
       "corretta": 1,
       "spiegazione": "La People's Charter (1838) chiedeva tra l'altro suffragio universale maschile, voto segreto e indennità parlamentare: fallì nell'immediato ma quasi tutte le richieste furono poi realizzate."
     },
     {
       "argomento": "eta-vittoriana-compromesso",
       "domanda": "Quale principio riassume l'utilitarismo di Bentham?",
-      "opzioni": ["Il dovere categorico kantiano", "L'arte per l'arte", "'The greatest happiness of the greatest number'", "La predestinazione calvinista"],
+      "opzioni": [
+        "Il dovere categorico kantiano",
+        "L'arte per l'arte",
+        "'The greatest happiness of the greatest number'",
+        "La predestinazione calvinista"
+      ],
       "corretta": 2,
       "spiegazione": "Per l'utilitarismo un'azione è giusta se massimizza la felicità del maggior numero: filosofia dominante dell'età vittoriana, bersaglio della satira di Dickens in Hard Times."
     },
     {
       "argomento": "eta-vittoriana-compromesso",
       "domanda": "Quale opera del 1859 mise in crisi le certezze religiose vittoriane?",
-      "opzioni": ["Das Kapital di Marx", "The Origin of Species di Charles Darwin", "Principles of Psychology di William James", "Culture and Anarchy di Matthew Arnold"],
+      "opzioni": [
+        "Das Kapital di Marx",
+        "The Origin of Species di Charles Darwin",
+        "Principles of Psychology di William James",
+        "Culture and Anarchy di Matthew Arnold"
+      ],
       "corretta": 1,
       "spiegazione": "L'evoluzionismo darwiniano contraddiceva la lettura letterale della Genesi e ridimensionava il posto dell'uomo nella natura, alimentando il dubbio religioso tardo-vittoriano."
     },
     {
       "argomento": "eta-vittoriana-compromesso",
       "domanda": "Perché il romanzo vittoriano era spesso pubblicato a puntate (in instalments)?",
-      "opzioni": ["Per aggirare la censura governativa", "Perché la carta era razionata", "Perché le riviste raggiungevano un vasto pubblico borghese e le puntate, più economiche, fidelizzavano i lettori", "Perché gli autori non completavano mai le opere"],
+      "opzioni": [
+        "Per aggirare la censura governativa",
+        "Perché la carta era razionata",
+        "Perché le riviste raggiungevano un vasto pubblico borghese e le puntate, più economiche, fidelizzavano i lettori",
+        "Perché gli autori non completavano mai le opere"
+      ],
       "corretta": 2,
       "spiegazione": "La pubblicazione periodica rendeva la narrativa accessibile e creava un rapporto diretto autore-pubblico; condizionava anche la forma: capitoli con suspense e cliffhanger."
     },
     {
       "argomento": "charles-dickens",
       "domanda": "Quale esperienza infantile segnò profondamente Dickens?",
-      "opzioni": ["Il lavoro in una fabbrica di lucido da scarpe mentre il padre era in prigione per debiti", "L'educazione in un collegio aristocratico", "L'emigrazione in America", "L'orfanotrofio dopo la morte dei genitori"],
+      "opzioni": [
+        "Il lavoro in una fabbrica di lucido da scarpe mentre il padre era in prigione per debiti",
+        "L'educazione in un collegio aristocratico",
+        "L'emigrazione in America",
+        "L'orfanotrofio dopo la morte dei genitori"
+      ],
       "corretta": 0,
       "spiegazione": "A dodici anni Dickens lavorò alla Warren's Blacking Factory mentre il padre era nella prigione per debitori di Marshalsea: da qui l'ossessione per l'infanzia umiliata e la povertà."
     },
     {
       "argomento": "charles-dickens",
       "domanda": "Contro quale provvedimento è diretta la polemica di Oliver Twist?",
-      "opzioni": ["I Corn Laws del 1815", "Il Factory Act del 1833", "Il Reform Act del 1832", "La New Poor Law del 1834 e il sistema delle workhouses"],
+      "opzioni": [
+        "I Corn Laws del 1815",
+        "Il Factory Act del 1833",
+        "Il Reform Act del 1832",
+        "La New Poor Law del 1834 e il sistema delle workhouses"
+      ],
       "corretta": 3,
       "spiegazione": "La Poor Law Amendment Act (1834) confinava i poveri in workhouses volutamente dure e degradanti: Dickens ne denuncia la crudeltà ipocrita attraverso l'infanzia di Oliver."
     },
     {
       "argomento": "charles-dickens",
       "domanda": "Che cosa scatena la frase di Oliver 'Please, sir, I want some more'?",
-      "opzioni": ["La commozione del Board, che aumenta le razioni", "Una reazione spropositata: Oliver viene punito, rinchiuso e offerto come apprendista", "Una rivolta degli altri bambini", "Il licenziamento del cuoco della workhouse"],
+      "opzioni": [
+        "La commozione del Board, che aumenta le razioni",
+        "Una reazione spropositata: Oliver viene punito, rinchiuso e offerto come apprendista",
+        "Una rivolta degli altri bambini",
+        "Il licenziamento del cuoco della workhouse"
+      ],
       "corretta": 1,
       "spiegazione": "La semplice richiesta di un'altra porzione di gruel viene trattata come un crimine scandaloso: l'ironia di Dickens smaschera la sproporzione tra la 'colpa' e la punizione del sistema."
     },
     {
       "argomento": "charles-dickens",
       "domanda": "Che cosa rappresenta Thomas Gradgrind in Hard Times?",
-      "opzioni": ["Il filantropo vittoriano ideale", "Il proletario ribelle", "L'educazione utilitaristica fondata solo sui 'Facts' che soffoca immaginazione e sentimento", "L'artista romantico incompreso"],
+      "opzioni": [
+        "Il filantropo vittoriano ideale",
+        "Il proletario ribelle",
+        "L'educazione utilitaristica fondata solo sui 'Facts' che soffoca immaginazione e sentimento",
+        "L'artista romantico incompreso"
+      ],
       "corretta": 2,
       "spiegazione": "Gradgrind ('Now, what I want is, Facts') incarna la pedagogia utilitaristica: il fallimento dei figli Louisa e Tom dimostra che un'educazione senza 'Fancy' produce infelicità."
     },
     {
       "argomento": "charles-dickens",
       "domanda": "Come vengono chiamati gli operai di Coketown in Hard Times, e con quale effetto?",
-      "opzioni": ["'Hands': ridotti per sineddoche alle mani che lavorano, spersonalizzati", "'Brothers': in segno di solidarietà cristiana", "'Engines': come le macchine che governano", "'Citizens': come membri della comunità"],
+      "opzioni": [
+        "'Hands': ridotti per sineddoche alle mani che lavorano, spersonalizzati",
+        "'Brothers': in segno di solidarietà cristiana",
+        "'Engines': come le macchine che governano",
+        "'Citizens': come membri della comunità"
+      ],
       "corretta": 0,
       "spiegazione": "Chiamare gli operai 'Hands' li riduce a strumenti di produzione: Dickens denuncia così la disumanizzazione del factory system e della mentalità utilitaristica."
     },
     {
       "argomento": "tardo-vittoriano-impero",
       "domanda": "Quale titolo assunse la regina Vittoria nel 1876?",
-      "opzioni": ["Regina d'Irlanda", "Protettrice del Commonwealth", "Sovrana del Canada", "Empress of India"],
+      "opzioni": [
+        "Regina d'Irlanda",
+        "Protettrice del Commonwealth",
+        "Sovrana del Canada",
+        "Empress of India"
+      ],
       "corretta": 3,
       "spiegazione": "Su iniziativa del primo ministro Disraeli, Vittoria fu proclamata Imperatrice d'India nel 1876: l'apice simbolico dell'imperialismo britannico."
     },
     {
       "argomento": "tardo-vittoriano-impero",
       "domanda": "Quale slogan, da una poesia di Kipling, riassume l'ideologia imperialista come 'missione civilizzatrice'?",
-      "opzioni": ["'Art for Art's Sake'", "'The white man's burden'", "'Rule of the fittest'", "'Splendid isolation'"],
+      "opzioni": [
+        "'Art for Art's Sake'",
+        "'The white man's burden'",
+        "'Rule of the fittest'",
+        "'Splendid isolation'"
+      ],
       "corretta": 1,
       "spiegazione": "'The white man's burden' (1899) presenta il dominio coloniale come dovere morale dell'uomo bianco verso i popoli colonizzati: ideologia oggi al centro della critica postcoloniale."
     },
     {
       "argomento": "tardo-vittoriano-impero",
       "domanda": "Quale tema letterario caratterizza il late Victorian novel di Stevenson, Wilde e Stoker?",
-      "opzioni": ["Il ritorno alla pastorale georgiana", "L'idillio domestico borghese", "Il double: la doppiezza dell'identità dietro la facciata rispettabile", "L'epica della frontiera americana"],
+      "opzioni": [
+        "Il ritorno alla pastorale georgiana",
+        "L'idillio domestico borghese",
+        "Il double: la doppiezza dell'identità dietro la facciata rispettabile",
+        "L'epica della frontiera americana"
+      ],
       "corretta": 2,
       "spiegazione": "Jekyll/Hyde, Dorian e il suo ritratto, Dracula: il tema del doppio esprime la 'two-faced reality' tardo-vittoriana, la scissione tra rispettabilità pubblica e pulsioni nascoste."
     },
     {
       "argomento": "robert-louis-stevenson",
       "domanda": "Quale frase della confessione di Jekyll riassume la tesi del romanzo?",
-      "opzioni": ["'Man is not truly one, but truly two'", "'All art is quite useless'", "'The horror! The horror!'", "'I am Heathcliff'"],
+      "opzioni": [
+        "'Man is not truly one, but truly two'",
+        "'All art is quite useless'",
+        "'The horror! The horror!'",
+        "'I am Heathcliff'"
+      ],
       "corretta": 0,
       "spiegazione": "Nella sua dichiarazione finale Jekyll teorizza la duplicità costitutiva dell'uomo: la pozione non crea il male, lo separa e lo libera."
     },
     {
       "argomento": "robert-louis-stevenson",
       "domanda": "Perché Hyde è descritto come più piccolo e giovane di Jekyll?",
-      "opzioni": ["Perché la pozione era difettosa", "Perché Hyde è il figlio segreto di Jekyll", "Per un errore di continuità del romanzo", "Perché il lato malvagio di Jekyll era stato meno esercitato e sviluppato nella sua vita rispettabile"],
+      "opzioni": [
+        "Perché la pozione era difettosa",
+        "Perché Hyde è il figlio segreto di Jekyll",
+        "Per un errore di continuità del romanzo",
+        "Perché il lato malvagio di Jekyll era stato meno esercitato e sviluppato nella sua vita rispettabile"
+      ],
       "corretta": 3,
       "spiegazione": "Jekyll spiega che il male in lui, a lungo represso, era meno 'cresciuto': per questo Hyde è più piccolo, ma con il tempo guadagna forza fino a prendere il sopravvento."
     },
     {
       "argomento": "robert-louis-stevenson",
       "domanda": "Nel brano 'The scientist and the diabolic monster', che cosa prova Jekyll guardando Hyde allo specchio?",
-      "opzioni": ["Orrore e pentimento immediato", "Non un ripugnanza ma 'a leap of welcome': sente che 'this, too, was myself'", "Indifferenza scientifica", "Terrore di essere scoperto da Utterson"],
+      "opzioni": [
+        "Orrore e pentimento immediato",
+        "Non un ripugnanza ma 'a leap of welcome': sente che 'this, too, was myself'",
+        "Indifferenza scientifica",
+        "Terrore di essere scoperto da Utterson"
+      ],
       "corretta": 1,
       "spiegazione": "Il paradosso morale del brano: Jekyll riconosce Hyde come parte autentica di sé e ne prova sollievo ed euforia — la libertà dal peso della respectability."
     },
     {
       "argomento": "robert-louis-stevenson",
       "domanda": "Come è costruita la narrazione del romanzo?",
-      "opzioni": ["Un unico monologo interiore di Jekyll", "Narratore onnisciente che svela subito il segreto", "Struttura quasi investigativa: l'indagine di Utterson, il racconto di Lanyon, infine la confessione scritta di Jekyll", "Diario quotidiano di Hyde"],
+      "opzioni": [
+        "Un unico monologo interiore di Jekyll",
+        "Narratore onnisciente che svela subito il segreto",
+        "Struttura quasi investigativa: l'indagine di Utterson, il racconto di Lanyon, infine la confessione scritta di Jekyll",
+        "Diario quotidiano di Hyde"
+      ],
       "corretta": 2,
       "spiegazione": "Il lettore segue l'enigma con l'avvocato Utterson; la verità emerge solo alla fine con i documenti di Lanyon e di Jekyll: struttura a rivelazione progressiva, antenata del thriller psicologico."
     },
     {
       "argomento": "oscar-wilde",
       "domanda": "Quale movimento estetico incarna Oscar Wilde?",
-      "opzioni": ["Il realismo sociale", "L'Aestheticism, con il motto 'Art for Art's Sake'", "Il futurismo", "Il romanticismo della natura"],
+      "opzioni": [
+        "Il realismo sociale",
+        "L'Aestheticism, con il motto 'Art for Art's Sake'",
+        "Il futurismo",
+        "Il romanticismo della natura"
+      ],
       "corretta": 1,
       "spiegazione": "Wilde è il massimo rappresentante inglese dell'estetismo: l'arte non deve essere utile né morale, vale solo come bellezza; la vita stessa va vissuta come opera d'arte."
     },
     {
       "argomento": "oscar-wilde",
       "domanda": "Nel brano 'I would give my soul', che cosa desidera Dorian davanti al ritratto appena finito?",
-      "opzioni": ["Distruggere il quadro per gelosia", "Regalare il ritratto a Lord Henry", "Diventare un pittore come Basil", "Restare giovane per sempre mentre il ritratto invecchia al suo posto, dando in cambio l'anima"],
+      "opzioni": [
+        "Distruggere il quadro per gelosia",
+        "Regalare il ritratto a Lord Henry",
+        "Diventare un pittore come Basil",
+        "Restare giovane per sempre mentre il ritratto invecchia al suo posto, dando in cambio l'anima"
+      ],
       "corretta": 3,
       "spiegazione": "Turbato dalle parole di Lord Henry sulla fugacità della giovinezza, Dorian formula il desiderio-patto faustiano che dà avvio alla vicenda: 'I would give my soul for that!'."
     },
     {
       "argomento": "oscar-wilde",
       "domanda": "Quale funzione svolge il ritratto nel romanzo?",
-      "opzioni": ["È il doppio di Dorian: registra colpe e invecchiamento, diventando la sua coscienza visibile", "È un semplice oggetto di valore conteso", "Mostra il futuro di chi lo guarda", "Protegge Dorian dai nemici"],
+      "opzioni": [
+        "È il doppio di Dorian: registra colpe e invecchiamento, diventando la sua coscienza visibile",
+        "È un semplice oggetto di valore conteso",
+        "Mostra il futuro di chi lo guarda",
+        "Protegge Dorian dai nemici"
+      ],
       "corretta": 0,
       "spiegazione": "Il quadro nascosto in soffitta si corrompe a ogni colpa mentre Dorian resta intatto: variante del tema del double, rende visibile la scissione tra apparenza e anima."
     },
     {
       "argomento": "oscar-wilde",
       "domanda": "Con quale frase si chiude la Preface di The Picture of Dorian Gray?",
-      "opzioni": ["'Beauty is truth, truth beauty'", "'We are all in the gutter'", "'All art is quite useless.'", "'No man is an island'"],
+      "opzioni": [
+        "'Beauty is truth, truth beauty'",
+        "'We are all in the gutter'",
+        "'All art is quite useless.'",
+        "'No man is an island'"
+      ],
       "corretta": 2,
       "spiegazione": "La Preface, manifesto dell'estetismo, nega ogni funzione morale o pratica dell'arte e si chiude con il paradosso programmatico 'All art is quite useless.'"
     },
     {
       "argomento": "oscar-wilde",
       "domanda": "Come si conclude la vicenda di Dorian Gray?",
-      "opzioni": ["Dorian confessa i crimini e viene impiccato", "Dorian pugnala il ritratto e muore lui, vecchio e sfigurato, mentre il quadro torna bello", "Dorian fugge in Francia con Lord Henry", "Il ritratto viene bruciato e Dorian invecchia di colpo ma sopravvive"],
+      "opzioni": [
+        "Dorian confessa i crimini e viene impiccato",
+        "Dorian pugnala il ritratto e muore lui, vecchio e sfigurato, mentre il quadro torna bello",
+        "Dorian fugge in Francia con Lord Henry",
+        "Il ritratto viene bruciato e Dorian invecchia di colpo ma sopravvive"
+      ],
       "corretta": 1,
       "spiegazione": "Tentando di uccidere la propria coscienza, Dorian uccide se stesso: lo scambio finale tra uomo e ritratto dà al romanzo estetizzante una conclusione da apologo morale."
     },
     {
       "argomento": "eta-edoardiana-grande-guerra",
       "domanda": "Chi guidò il movimento delle suffragette in Gran Bretagna?",
-      "opzioni": ["Virginia Woolf", "Mary Wollstonecraft", "George Eliot", "Emmeline Pankhurst"],
+      "opzioni": [
+        "Virginia Woolf",
+        "Mary Wollstonecraft",
+        "George Eliot",
+        "Emmeline Pankhurst"
+      ],
       "corretta": 3,
       "spiegazione": "Emmeline Pankhurst fondò nel 1903 la Women's Social and Political Union: il voto fu concesso alle donne over 30 nel 1918 e a parità con gli uomini nel 1928. Wollstonecraft è la pioniera settecentesca."
     },
     {
       "argomento": "eta-edoardiana-grande-guerra",
       "domanda": "Quale evoluzione si osserva nei War Poets durante il conflitto?",
-      "opzioni": ["Dall'idealismo patriottico di Brooke alla denuncia dell'orrore in Owen e Sassoon", "Dalla denuncia iniziale all'esaltazione finale della guerra", "Dal pacifismo all'arruolamento volontario", "Dalla poesia di trincea al romanzo storico"],
+      "opzioni": [
+        "Dall'idealismo patriottico di Brooke alla denuncia dell'orrore in Owen e Sassoon",
+        "Dalla denuncia iniziale all'esaltazione finale della guerra",
+        "Dal pacifismo all'arruolamento volontario",
+        "Dalla poesia di trincea al romanzo storico"
+      ],
       "corretta": 0,
       "spiegazione": "Brooke ('The Soldier') canta il sacrificio con idealismo; Owen e Sassoon, dopo la trincea, smascherano la retorica: per Owen 'Dulce et decorum est pro patria mori' è 'the old Lie'."
     },
     {
       "argomento": "eta-edoardiana-grande-guerra",
       "domanda": "Che cos'era lo shell shock?",
-      "opzioni": ["Una malattia da gas tossici", "Il trauma psichico da combattimento osservato nei reduci della Grande Guerra", "Il razionamento alimentare in trincea", "Un tipo di granata tedesca"],
+      "opzioni": [
+        "Una malattia da gas tossici",
+        "Il trauma psichico da combattimento osservato nei reduci della Grande Guerra",
+        "Il razionamento alimentare in trincea",
+        "Un tipo di granata tedesca"
+      ],
       "corretta": 1,
       "spiegazione": "Lo shell shock (oggi ricondotto al PTSD) colpì migliaia di soldati: tremori, mutismo, allucinazioni. Septimus in Mrs Dalloway ne è la grande rappresentazione letteraria."
     },
     {
       "argomento": "modernismo",
       "domanda": "Chi coniò l'espressione 'stream of consciousness' e in quale ambito?",
-      "opzioni": ["Sigmund Freud, in psicoanalisi", "James Joyce, in un saggio sulla narrativa", "William James, in psicologia (Principles of Psychology, 1890)", "Henri Bergson, in filosofia"],
+      "opzioni": [
+        "Sigmund Freud, in psicoanalisi",
+        "James Joyce, in un saggio sulla narrativa",
+        "William James, in psicologia (Principles of Psychology, 1890)",
+        "Henri Bergson, in filosofia"
+      ],
       "corretta": 2,
       "spiegazione": "Lo psicologo William James descrisse la coscienza come flusso continuo, non catena di anelli; la letteratura adottò poi il termine per indicare il contenuto psichico reso dall'interior monologue."
     },
     {
       "argomento": "modernismo",
       "domanda": "Qual è la differenza corretta tra stream of consciousness e interior monologue?",
-      "opzioni": ["Sono esattamente sinonimi tecnici", "Il primo è la tecnica, il secondo il fenomeno psichico", "Il primo si usa in poesia, il secondo in prosa", "Lo stream of consciousness è il fenomeno psichico (il flusso della coscienza), l'interior monologue la tecnica letteraria che lo rappresenta"],
+      "opzioni": [
+        "Sono esattamente sinonimi tecnici",
+        "Il primo è la tecnica, il secondo il fenomeno psichico",
+        "Il primo si usa in poesia, il secondo in prosa",
+        "Lo stream of consciousness è il fenomeno psichico (il flusso della coscienza), l'interior monologue la tecnica letteraria che lo rappresenta"
+      ],
       "corretta": 3,
       "spiegazione": "Distinzione canonica del manuale: il flusso di coscienza è un fatto psichico descritto da W. James; il monologo interiore (diretto o indiretto) è lo strumento narrativo che lo traduce sulla pagina."
     },
     {
       "argomento": "modernismo",
       "domanda": "Che cosa distingue la durée di Bergson dal tempo dell'orologio?",
-      "opzioni": ["La durée è il tempo soggettivo della coscienza, in cui gli istanti si compenetrano; il tempo dell'orologio è esterno, misurabile e spazializzato", "La durée è il tempo della fisica relativistica", "La durée è più breve del tempo misurato", "Sono due nomi dello stesso concetto"],
+      "opzioni": [
+        "La durée è il tempo soggettivo della coscienza, in cui gli istanti si compenetrano; il tempo dell'orologio è esterno, misurabile e spazializzato",
+        "La durée è il tempo della fisica relativistica",
+        "La durée è più breve del tempo misurato",
+        "Sono due nomi dello stesso concetto"
+      ],
       "corretta": 0,
       "spiegazione": "Bergson oppone al tempo oggettivo e quantitativo la durata interiore, qualitativa: è il fondamento filosofico del trattamento modernista del tempo (un giorno esterno, una vita interiore)."
     },
     {
       "argomento": "modernismo",
       "domanda": "In che modo Freud influenzò il romanzo modernista?",
-      "opzioni": ["Fornì trame poliziesche basate sui casi clinici", "Convinse i romanzieri ad abbandonare la prosa per il dramma", "Legittimò l'esplorazione dell'inconscio, dell'infanzia e del rimosso come materia narrativa, ridefinendo il personaggio come io stratificato", "Impose il lieto fine terapeutico"],
+      "opzioni": [
+        "Fornì trame poliziesche basate sui casi clinici",
+        "Convinse i romanzieri ad abbandonare la prosa per il dramma",
+        "Legittimò l'esplorazione dell'inconscio, dell'infanzia e del rimosso come materia narrativa, ridefinendo il personaggio come io stratificato",
+        "Impose il lieto fine terapeutico"
+      ],
       "corretta": 2,
       "spiegazione": "Dopo Freud l'io non è più 'padrone in casa propria': il romanzo sposta l'attenzione dai fatti esterni alla vita psichica profonda, a memoria, sogni e pulsioni."
     },
     {
       "argomento": "modernismo",
       "domanda": "Che cosa hanno in comune Ulysses e Mrs Dalloway sul piano della struttura temporale?",
-      "opzioni": ["Coprono entrambi tre generazioni di una famiglia", "Sono ambientati durante la Grande Guerra", "Procedono entrambi a ritroso, dalla fine all'inizio", "Entrambi concentrano l'azione esterna in un solo giorno, dilatando il tempo interiore dei personaggi"],
+      "opzioni": [
+        "Coprono entrambi tre generazioni di una famiglia",
+        "Sono ambientati durante la Grande Guerra",
+        "Procedono entrambi a ritroso, dalla fine all'inizio",
+        "Entrambi concentrano l'azione esterna in un solo giorno, dilatando il tempo interiore dei personaggi"
+      ],
       "corretta": 3,
       "spiegazione": "Un giovedì del giugno 1904 a Dublino, un mercoledì del giugno 1923 a Londra: la contrazione del tempo esterno e l'espansione di quello mentale sono la firma del modern novel."
     },
     {
       "argomento": "james-joyce",
       "domanda": "Qual è il tema unificante dei quindici racconti di Dubliners?",
-      "opzioni": ["L'emigrazione verso l'America", "La paralysis morale e spirituale dei dublinesi", "La lotta per l'indipendenza irlandese", "Il conflitto tra cattolici e protestanti"],
+      "opzioni": [
+        "L'emigrazione verso l'America",
+        "La paralysis morale e spirituale dei dublinesi",
+        "La lotta per l'indipendenza irlandese",
+        "Il conflitto tra cattolici e protestanti"
+      ],
       "corretta": 1,
       "spiegazione": "Joyce dichiarò di voler scrivere 'a chapter of the moral history of my country' scegliendo Dublino come 'centre of paralysis': i personaggi sono incapaci di agire e liberarsi."
     },
     {
       "argomento": "james-joyce",
       "domanda": "Che cos'è l'epiphany joyciana?",
-      "opzioni": ["Una rivelazione improvvisa in cui un dettaglio banale svela la verità di una condizione esistenziale", "Una festa religiosa descritta nei racconti", "Il monologo finale di ogni racconto", "Un sogno premonitore del protagonista"],
+      "opzioni": [
+        "Una rivelazione improvvisa in cui un dettaglio banale svela la verità di una condizione esistenziale",
+        "Una festa religiosa descritta nei racconti",
+        "Il monologo finale di ogni racconto",
+        "Un sogno premonitore del protagonista"
+      ],
       "corretta": 0,
       "spiegazione": "L'epifania è 'a sudden spiritual manifestation': un gesto o oggetto comune illumina di colpo il significato profondo dell'esperienza, sostituendo il tradizionale climax narrativo."
     },
     {
       "argomento": "james-joyce",
       "domanda": "Quale promessa lega Eveline alla casa paterna?",
-      "opzioni": ["Il giuramento al padre di non sposarsi mai", "Un contratto di lavoro con i vicini", "La promessa alla madre morente di tenere unita la casa finché possibile", "Il voto religioso di assistere i fratelli"],
+      "opzioni": [
+        "Il giuramento al padre di non sposarsi mai",
+        "Un contratto di lavoro con i vicini",
+        "La promessa alla madre morente di tenere unita la casa finché possibile",
+        "Il voto religioso di assistere i fratelli"
+      ],
       "corretta": 2,
       "spiegazione": "Il ricordo della promessa fatta alla madre ('to keep the home together as long as she could') è una delle catene che, insieme a paura e abitudine, produce la paralisi finale."
     },
     {
       "argomento": "james-joyce",
       "domanda": "Come si conclude 'Eveline'?",
-      "opzioni": ["Eveline parte con Frank per Buenos Aires", "Frank rinuncia al viaggio per restare con lei", "Il padre la raggiunge al porto e la riporta a casa", "Al porto Eveline si aggrappa alla ringhiera e lascia partire Frank, 'passive, like a helpless animal'"],
+      "opzioni": [
+        "Eveline parte con Frank per Buenos Aires",
+        "Frank rinuncia al viaggio per restare con lei",
+        "Il padre la raggiunge al porto e la riporta a casa",
+        "Al porto Eveline si aggrappa alla ringhiera e lascia partire Frank, 'passive, like a helpless animal'"
+      ],
       "corretta": 3,
       "spiegazione": "Nel momento decisivo la paralysis vince: Eveline non sale sulla nave e il suo volto non dà a Frank 'alcun segno di amore o addio o riconoscimento' — l'epifania negativa del racconto."
     },
     {
       "argomento": "james-joyce",
       "domanda": "In quale giorno è ambientato Ulysses?",
-      "opzioni": ["Il 16 giugno 1904, oggi celebrato come Bloomsday", "Il giorno di Natale del 1900", "Il 24 aprile 1916, durante l'Easter Rising", "L'11 novembre 1918, giorno dell'armistizio"],
+      "opzioni": [
+        "Il 16 giugno 1904, oggi celebrato come Bloomsday",
+        "Il giorno di Natale del 1900",
+        "Il 24 aprile 1916, durante l'Easter Rising",
+        "L'11 novembre 1918, giorno dell'armistizio"
+      ],
       "corretta": 0,
       "spiegazione": "L'intero romanzo si svolge a Dublino il 16 giugno 1904 (data del primo appuntamento di Joyce con Nora Barnacle): la giornata di Leopold Bloom ricalca in parallelo l'Odissea."
     },
     {
       "argomento": "virginia-woolf",
       "domanda": "Con quale immagine Woolf definisce la vita in 'Modern Fiction'?",
-      "opzioni": ["'A tale told by an idiot'", "'A luminous halo, a semi-transparent envelope' e non 'a series of gig lamps symmetrically arranged'", "'A stage where every man must play a part'", "'A dome of many-coloured glass'"],
+      "opzioni": [
+        "'A tale told by an idiot'",
+        "'A luminous halo, a semi-transparent envelope' e non 'a series of gig lamps symmetrically arranged'",
+        "'A stage where every man must play a part'",
+        "'A dome of many-coloured glass'"
+      ],
       "corretta": 1,
       "spiegazione": "Contro il realismo materialista degli edoardiani, Woolf sostiene che la vita è un alone luminoso che avvolge la coscienza: il romanzo deve renderne il fluire, non catalogare l'esterno."
     },
     {
       "argomento": "virginia-woolf",
       "domanda": "Che rapporto c'è tra Clarissa Dalloway e Septimus Warren Smith?",
-      "opzioni": ["Sono fratello e sorella separati alla nascita", "Sono ex fidanzati che si rincontrano alla festa", "Non si incontrano mai: sono doppi narrativi, e la notizia del suicidio di lui dà a Clarissa una nuova consapevolezza della vita", "Septimus è il giardiniere di Clarissa"],
+      "opzioni": [
+        "Sono fratello e sorella separati alla nascita",
+        "Sono ex fidanzati che si rincontrano alla festa",
+        "Non si incontrano mai: sono doppi narrativi, e la notizia del suicidio di lui dà a Clarissa una nuova consapevolezza della vita",
+        "Septimus è il giardiniere di Clarissa"
+      ],
       "corretta": 2,
       "spiegazione": "Le due trame corrono parallele senza incrociarsi: Septimus è il lato oscuro di Clarissa; quando alla festa giunge la notizia della sua morte, Clarissa la sente come messaggio e sfida ('Death was defiance')."
     },
     {
       "argomento": "virginia-woolf",
       "domanda": "Quale funzione hanno i rintocchi del Big Ben in Mrs Dalloway?",
-      "opzioni": ["Annunciano gli arrivi alla festa", "Scandiscono il tempo oggettivo dell'orologio, in contrasto con il tempo interiore delle coscienze", "Sono un'allucinazione di Septimus", "Segnalano i cambi di capitolo"],
+      "opzioni": [
+        "Annunciano gli arrivi alla festa",
+        "Scandiscono il tempo oggettivo dell'orologio, in contrasto con il tempo interiore delle coscienze",
+        "Sono un'allucinazione di Septimus",
+        "Segnalano i cambi di capitolo"
+      ],
       "corretta": 1,
       "spiegazione": "I rintocchi ('leaden circles dissolved in the air') riportano periodicamente i personaggi dal flusso della memoria al presente: l'opposizione bergsoniana tra tempo esterno e durée."
     },
     {
       "argomento": "virginia-woolf",
       "domanda": "Che cosa sostiene Woolf in A Room of One's Own?",
-      "opzioni": ["Che le donne scrivono per natura meglio degli uomini", "Che il romanzo è un genere ormai esaurito", "Che la poesia è superiore alla prosa", "Che per scrivere una donna ha bisogno di indipendenza economica e di una stanza tutta per sé"],
+      "opzioni": [
+        "Che le donne scrivono per natura meglio degli uomini",
+        "Che il romanzo è un genere ormai esaurito",
+        "Che la poesia è superiore alla prosa",
+        "Che per scrivere una donna ha bisogno di indipendenza economica e di una stanza tutta per sé"
+      ],
       "corretta": 3,
       "spiegazione": "Il saggio del 1929 lega la creatività femminile alle condizioni materiali ('money and a room of her own') e immagina la sorte tragica di una ipotetica sorella di Shakespeare di pari genio."
     },
     {
       "argomento": "virginia-woolf",
       "domanda": "Quale tipo di interior monologue predilige Woolf in Mrs Dalloway?",
-      "opzioni": ["Il monologo diretto senza punteggiatura, come quello di Molly Bloom", "Il soliloquio teatrale in prima persona", "Il monologo interiore indiretto: il narratore in terza persona scivola dentro le coscienze mantenendo controllo e fluidità lirica", "Il dialogo epistolare tra i personaggi"],
+      "opzioni": [
+        "Il monologo diretto senza punteggiatura, come quello di Molly Bloom",
+        "Il soliloquio teatrale in prima persona",
+        "Il monologo interiore indiretto: il narratore in terza persona scivola dentro le coscienze mantenendo controllo e fluidità lirica",
+        "Il dialogo epistolare tra i personaggi"
+      ],
       "corretta": 2,
       "spiegazione": "A differenza delle forme dirette ed estreme di Joyce, Woolf usa l'indirect interior monologue: la voce narrante media il flusso dei pensieri, passando con fluidità da una mente all'altra."
     },
     {
       "argomento": "george-orwell-distopia",
       "domanda": "Qual è la funzione principale del romanzo distopico?",
-      "opzioni": ["Ammonire il presente mostrando un futuro in cui le sue tendenze negative sono portate all'estremo", "Descrivere società ideali da imitare", "Evadere dalla realtà con mondi fantastici", "Celebrare il progresso tecnologico"],
+      "opzioni": [
+        "Ammonire il presente mostrando un futuro in cui le sue tendenze negative sono portate all'estremo",
+        "Descrivere società ideali da imitare",
+        "Evadere dalla realtà con mondi fantastici",
+        "Celebrare il progresso tecnologico"
+      ],
       "corretta": 0,
       "spiegazione": "La dystopia è il rovescio dell'utopia: estremizza tendenze già presenti (sorveglianza, propaganda, massificazione) come warning rivolto ai contemporanei."
     },
     {
       "argomento": "george-orwell-distopia",
       "domanda": "Quale esperienza maturò l'antitotalitarismo di Orwell?",
-      "opzioni": ["La prigionia in Germania nella Seconda guerra mondiale", "La guerra civile spagnola, dove vide la repressione stalinista contro i compagni di sinistra non comunisti", "Il servizio militare in India durante la Grande Guerra", "L'esilio in Unione Sovietica"],
+      "opzioni": [
+        "La prigionia in Germania nella Seconda guerra mondiale",
+        "La guerra civile spagnola, dove vide la repressione stalinista contro i compagni di sinistra non comunisti",
+        "Il servizio militare in India durante la Grande Guerra",
+        "L'esilio in Unione Sovietica"
+      ],
       "corretta": 1,
       "spiegazione": "In Spagna (Homage to Catalonia) Orwell combatté nel POUM e fu ferito; vedere i comunisti staliniani perseguitare anarchici e trotskisti gli rivelò la natura del totalitarismo e della propaganda."
     },
     {
       "argomento": "george-orwell-distopia",
       "domanda": "In Nineteen Eighty-Four, che cos'è il Newspeak?",
-      "opzioni": ["Il gergo segreto della resistenza", "Il dialetto dei prolet", "La lingua artificiale del Party, progressivamente impoverita per rendere impensabile il dissenso", "Il linguaggio cifrato dei telescreens"],
+      "opzioni": [
+        "Il gergo segreto della resistenza",
+        "Il dialetto dei prolet",
+        "La lingua artificiale del Party, progressivamente impoverita per rendere impensabile il dissenso",
+        "Il linguaggio cifrato dei telescreens"
+      ],
       "corretta": 2,
       "spiegazione": "La Neolingua riduce il vocabolario ed elimina le parole della libertà: se mancano le parole per pensare il dissenso, il 'thoughtcrime' diventa impossibile — il controllo del linguaggio è controllo del pensiero."
     },
     {
       "argomento": "george-orwell-distopia",
       "domanda": "Dove lavora Winston Smith e con quale mansione?",
-      "opzioni": ["Al Ministry of Love, come interrogatore", "Al Ministry of Plenty, come contabile", "Al Ministry of Peace, come cartografo", "Al Ministry of Truth, dove riscrive i documenti del passato per adeguarli alla linea del Party"],
+      "opzioni": [
+        "Al Ministry of Love, come interrogatore",
+        "Al Ministry of Plenty, come contabile",
+        "Al Ministry of Peace, come cartografo",
+        "Al Ministry of Truth, dove riscrive i documenti del passato per adeguarli alla linea del Party"
+      ],
       "corretta": 3,
       "spiegazione": "Winston falsifica giornali e archivi: 'chi controlla il passato controlla il futuro' è il principio del regime; i nomi dei ministeri sono esempi di doublethink."
     },
     {
       "argomento": "george-orwell-distopia",
       "domanda": "Quale comandamento corrotto chiude la parabola di Animal Farm?",
-      "opzioni": ["'War is peace'", "'All animals are equal, but some animals are more equal than others.'", "'Four legs good, two legs bad'", "'Big Brother is watching you'"],
+      "opzioni": [
+        "'War is peace'",
+        "'All animals are equal, but some animals are more equal than others.'",
+        "'Four legs good, two legs bad'",
+        "'Big Brother is watching you'"
+      ],
       "corretta": 1,
       "spiegazione": "La modifica del comandamento originario ('All animals are equal') sancisce il tradimento della rivoluzione: i maiali sono diventati i nuovi padroni — allegoria dello stalinismo."
     }

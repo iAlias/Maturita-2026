@@ -4,46 +4,46 @@
   "argomenti": [
     {
       "id": "umanesimo-e-rinascimento",
-      "titolo": "Umanesimo e Rinascimento: concezione e termini",
+      "titolo": "Umanesimo e Rinascimento: idee e parole chiave",
       "area": "Rinascimento",
       "priorita": 2,
       "scheda": {
-        "sintesi": "Tra Quattrocento e Cinquecento l'Umanesimo e il Rinascimento segnano una svolta storico-filosofica: l'uomo torna al centro del mondo come misura di tutte le cose, si riscoprono i testi e i modelli dell'antichità classica e l'artista, da artigiano, diventa intellettuale. I termini stessi indicano un programma culturale: 'Umanesimo' rimanda agli studia humanitatis, 'Rinascimento' alla rinascita delle arti e delle lettere dopo il Medioevo, secondo la lettura proposta già da Vasari.",
+        "sintesi": "Tra Quattrocento e Cinquecento Umanesimo e Rinascimento cambiano il modo di vedere il mondo. L'uomo torna al centro, si studiano di nuovo i testi antichi greci e romani e l'artista non è più solo un artigiano, ma una persona di cultura. Anche i nomi lo spiegano: Umanesimo richiama gli studi sull'uomo, Rinascimento indica una nuova nascita delle arti e delle lettere dopo il Medioevo, come scrive anche Vasari.",
         "sezioni": [
           {
-            "titolo": "Concezione storico-filosofica",
+            "titolo": "Idea storica e culturale",
             "punti": [
-              "L'Umanesimo (XV secolo) nasce in ambito letterario con la riscoperta filologica dei classici greci e latini: gli studia humanitatis pongono al centro la dignità dell'uomo.",
-              "Il Rinascimento estende questa visione alle arti figurative e all'architettura: l'arte diventa conoscenza razionale del mondo, fondata su misura, proporzione e prospettiva.",
-              "Centralità dell'uomo: l'uomo è 'misura di tutte le cose' (ripresa di Protagora); il corpo umano diventa modulo di proporzione per l'architettura e la figurazione.",
-              "Ripresa del mondo classico: studio delle rovine, dei trattati (Vitruvio), della statuaria antica; l'antico non è copiato ma reinterpretato come modello di armonia.",
-              "Nuova figura dell'artista: non più artigiano anonimo di bottega, ma intellettuale che firma le opere, studia matematica e anatomia e frequenta le corti.",
-              "Ruolo del mecenatismo: signorie e papato (Medici a Firenze, Giulio II e Leone X a Roma) usano l'arte come strumento di prestigio e di potere."
+              "L'Umanesimo nasce nel Quattrocento soprattutto nella letteratura. Si studiano con attenzione i testi greci e latini e gli studia humanitatis, cioè le discipline che formano la persona, mettono al centro la dignità dell'uomo.",
+              "Il Rinascimento porta queste idee anche nella pittura, nella scultura e nell'architettura. L'arte diventa un modo razionale di capire il mondo, basato su misura, proporzione e prospettiva.",
+              "L'uomo è visto come misura di tutte le cose, idea ripresa da Protagora. Per questo il corpo umano diventa un modello di proporzione per edifici e immagini.",
+              "Si torna a studiare il mondo antico: rovine, testi come quelli di Vitruvio e statue romane e greche. L'antico non viene copiato in modo meccanico, ma usato come esempio di equilibrio.",
+              "Cambia anche il ruolo dell'artista. Non è più un artigiano anonimo di bottega, ma firma le opere, studia matematica e anatomia e frequenta le corti.",
+              "Signorie e papi sostengono gli artisti per mostrare prestigio e potere. Per esempio i Medici a Firenze e Giulio II e Leone X a Roma."
             ]
           },
           {
-            "titolo": "Significato dei termini",
+            "titolo": "Che cosa significano i termini",
             "punti": [
-              "'Umanesimo': dagli studia humanitatis, le discipline che formano l'uomo (grammatica, retorica, poesia, storia, filosofia morale).",
-              "'Rinascimento': termine consacrato dalla storiografia ottocentesca (Burckhardt) ma anticipato dalla 'rinascita' di cui parla Vasari nelle Vite, in contrapposizione alla presunta 'decadenza' medievale.",
-              "Prospettiva centrale: costruzione geometrica dello spazio elaborata da Brunelleschi e teorizzata da Leon Battista Alberti nel De pictura; lo spazio del quadro è razionale e misurabile.",
-              "Proporzione e armonia: rapporti matematici tra le parti, derivati dallo studio dell'antico e del corpo umano.",
-              "Imitazione della natura: la natura va osservata e compresa scientificamente, non solo riprodotta."
+              "Umanesimo viene da studia humanitatis, cioè grammatica, retorica, poesia, storia e filosofia morale: materie pensate per formare l'uomo.",
+              "Rinascimento è un nome diffuso soprattutto dagli storici dell'Ottocento, come Burckhardt, ma l'idea di rinascita era già presente in Vasari. Indica il ritorno delle arti dopo quella che allora veniva vista come la decadenza del Medioevo.",
+              "La prospettiva centrale è un metodo geometrico per costruire lo spazio. Fu avviata da Brunelleschi e spiegata da Leon Battista Alberti nel De pictura: il quadro diventa uno spazio ordinato e misurabile.",
+              "Proporzione e armonia vogliono dire rapporti equilibrati tra le parti, studiati attraverso l'antico e il corpo umano.",
+              "Imitare la natura non significa copiarla soltanto. Significa osservarla bene e capirla con attenzione."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "scienze-umane",
-            "testo": "La centralità dell'uomo e la fiducia nella sua educabilità collegano l'Umanesimo alla pedagogia umanistica (le scuole di Vittorino da Feltre e Guarino Veronese) e all'ideale di formazione integrale della persona."
+            "testo": "Mettere l'uomo al centro e credere che possa essere educato collega l'Umanesimo alla pedagogia umanistica. Le scuole di Vittorino da Feltre e Guarino Veronese puntano infatti a una formazione completa della persona."
           },
           {
             "materia": "italiano",
-            "testo": "La riscoperta dei classici e il culto della parola antica rimandano alla lezione di Petrarca e alla letteratura umanistica, fondamento del canone della tradizione italiana."
+            "testo": "Il ritorno ai classici e l'amore per la lingua antica ricordano Petrarca e la letteratura umanistica, alla base della tradizione italiana."
           },
           {
             "materia": "arte",
-            "testo": "I tre grandi del Rinascimento maturo — Leonardo, Michelangelo, Raffaello — portano a compimento i principi umanistici di proporzione, centralità dell'uomo e dialogo con l'antico."
+            "testo": "Leonardo, Michelangelo e Raffaello portano a piena maturazione le idee del Rinascimento: proporzione, centralità dell'uomo e dialogo con il mondo antico."
           }
         ]
       }
@@ -54,44 +54,44 @@
       "area": "Rinascimento",
       "priorita": 1,
       "scheda": {
-        "sintesi": "Leonardo da Vinci (Vinci 1452 - Amboise 1519), formatosi a Firenze nella bottega del Verrocchio, incarna l'ideale dell'artista-scienziato: per lui la pittura è 'cosa mentale', strumento di indagine della natura. Attraverso il disegno studia anatomia, botanica e meccanica; in pittura elabora lo sfumato, che fonde le figure nell'atmosfera, e composizioni dinamiche basate sul contrapposto. Lavora a Firenze, a Milano per Ludovico il Moro, poi a Roma e in Francia presso Francesco I.",
+        "sintesi": "Leonardo da Vinci (Vinci 1452 - Amboise 1519) si forma a Firenze nella bottega del Verrocchio e rappresenta bene l'idea dell'artista-scienziato. Per lui la pittura è cosa mentale, cioè nasce dallo studio e dal pensiero. Con il disegno osserva anatomia, piante e macchine; in pittura usa lo sfumato, che unisce figure e aria, e costruisce composizioni mosse con il contrapposto. Lavora a Firenze, a Milano per Ludovico il Moro, poi a Roma e in Francia presso Francesco I.",
         "sezioni": [
           {
-            "titolo": "Biografia, formazione e metodo",
+            "titolo": "Vita, formazione e metodo",
             "punti": [
-              "Nasce a Vinci nel 1452, figlio illegittimo del notaio ser Piero; si forma a Firenze nella bottega di Andrea del Verrocchio, dove apprende pittura, scultura e tecnica.",
-              "Dal 1482 circa è a Milano alla corte di Ludovico il Moro come ingegnere, scenografo e pittore; torna poi a Firenze, è a Roma e infine in Francia, ospite di Francesco I, dove muore ad Amboise nel 1519.",
-              "Il disegno è il suo strumento di conoscenza: nei fogli anatomici, come il Teschio sezionato (1489, Windsor), seziona e rappresenta il corpo per comprenderne struttura e funzionamento.",
-              "L'Uomo Vitruviano (1490 circa, Gallerie dell'Accademia, Venezia) traduce in immagine le proporzioni del corpo umano descritte da Vitruvio: l'uomo inscritto nel cerchio e nel quadrato, sintesi della centralità umanistica.",
-              "Sfumato: passaggio graduale dall'ombra alla luce senza contorni netti, ottenuto con sottilissime velature; restituisce l'atmosfera e i 'moti dell'animo'.",
-              "Contrapposto: torsione e rotazione delle figure su assi contrapposti, che dà vitalità e movimento alla composizione."
+              "Nasce a Vinci nel 1452, figlio naturale del notaio ser Piero. Si forma a Firenze nella bottega di Andrea del Verrocchio, dove impara pittura, scultura e tecniche diverse.",
+              "Verso il 1482 va a Milano alla corte di Ludovico il Moro, dove lavora come ingegnere, organizzatore di feste e pittore. Poi torna a Firenze, passa da Roma e infine vive in Francia presso Francesco I, dove muore ad Amboise nel 1519.",
+              "Per Leonardo il disegno serve a conoscere il mondo. Nei fogli anatomici, come il Teschio sezionato del 1489, apre e studia il corpo per capirne la struttura.",
+              "L'Uomo Vitruviano, del 1490 circa, mostra le proporzioni del corpo umano descritte da Vitruvio. L'uomo, inserito nel cerchio e nel quadrato, diventa simbolo della centralità umanistica.",
+              "Lo sfumato è il passaggio morbido tra ombra e luce senza contorni duri. Si ottiene con molte velature leggere e fa percepire l'atmosfera e le emozioni.",
+              "Il contrapposto è la torsione equilibrata del corpo su direzioni opposte. Dà energia e movimento alla figura."
             ]
           },
           {
-            "titolo": "Opere chiave",
+            "titolo": "Opere principali",
             "punti": [
-              "Annunciazione (1472 circa, Uffizi): opera giovanile; prato fiorito indagato con precisione botanica, paesaggio sfumato in lontananza, angelo con ali studiate dal vero.",
-              "Adorazione dei Magi (1481, Uffizi, incompiuta): composizione piramidale con la Vergine al centro e una folla in agitazione; il non finito lascia visibile il metodo compositivo per masse di chiaroscuro.",
-              "Vergine delle rocce, prima versione (1483-1486, Louvre): sacra conversazione ambientata in una grotta; le figure, legate da gesti e sguardi, emergono dalla penombra con lo sfumato.",
-              "Vergine delle rocce, seconda versione (1494-1508, National Gallery, Londra): più fredda e definita, con aureole e attributi espliciti; il confronto tra le due versioni mostra l'evoluzione e l'intervento della committenza (Confraternita dell'Immacolata Concezione).",
-              "Cenacolo (1495-1498, refettorio di Santa Maria delle Grazie, Milano): commissionato da Ludovico il Moro; raffigura il momento in cui Cristo annuncia il tradimento; gli apostoli reagiscono a gruppi di tre con i 'moti dell'animo'; la tecnica sperimentale a tempera grassa su muro asciutto causò il rapido degrado.",
-              "Sant'Anna, la Vergine, il Bambino e San Giovannino (cartone, National Gallery, Londra): le figure si compenetrano in un'unica massa piramidale animata dal contrapposto, modello per molta pittura del Cinquecento.",
-              "Gioconda (1503-1506 circa, Louvre): ritratto di Monna Lisa; lo sfumato fonde la figura con il paesaggio roccioso alle spalle; il celebre sorriso ambiguo esprime l'interiorità sfuggente del soggetto."
+              "Annunciazione (1472 circa, Uffizi): opera giovanile con prato studiato con precisione, paesaggio sfumato in lontananza e angelo con ali osservate dal vero.",
+              "Adorazione dei Magi (1481, Uffizi, incompiuta): composizione piramidale con la Vergine al centro e una folla agitata intorno. Il non finito lascia vedere come Leonardo costruiva la scena con masse di luce e ombra.",
+              "Vergine delle rocce, prima versione (1483-1486, Louvre): sacra conversazione ambientata in una grotta. Le figure, unite da gesti e sguardi, emergono dalla penombra grazie allo sfumato.",
+              "Vergine delle rocce, seconda versione (1494-1508, National Gallery, Londra): è più fredda e definita, con aureole e segni sacri più chiari. Il confronto con la prima mostra sia il cambiamento di Leonardo sia le richieste dei committenti.",
+              "Cenacolo (1495-1498, Santa Maria delle Grazie, Milano): raffigura il momento in cui Cristo annuncia il tradimento. Gli apostoli reagiscono a gruppi di tre mostrando emozioni diverse; la tecnica sperimentale su muro asciutto fece deteriorare presto l'opera.",
+              "Sant'Anna, la Vergine, il Bambino e San Giovannino (cartone, National Gallery, Londra): le figure formano un'unica massa piramidale animata dal contrapposto e diventano un modello per molta pittura del Cinquecento.",
+              "Gioconda (1503-1506 circa, Louvre): ritratto di Monna Lisa. Lo sfumato unisce il volto al paesaggio roccioso sullo sfondo e il sorriso sembra cambiare mentre lo guardiamo."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "scienze-umane",
-            "testo": "Il metodo leonardesco di osservazione diretta della natura anticipa l'approccio empirico: un ponte con la nascita del sapere scientifico moderno e con la psicologia della percezione (come leggiamo volti ed espressioni)."
+            "testo": "Il suo modo di osservare direttamente la natura anticipa il metodo empirico, cioè basato sull'esperienza. È un collegamento con la nascita della scienza moderna e con lo studio di come percepiamo volti ed espressioni."
           },
           {
             "materia": "arte",
-            "testo": "L'Uomo Vitruviano è l'icona stessa della centralità dell'uomo teorizzata dall'Umanesimo: arte, scienza e filosofia convergono nella stessa immagine."
+            "testo": "L'Uomo Vitruviano riassume bene la centralità dell'uomo nell'Umanesimo. In un solo disegno si incontrano arte, scienza e filosofia."
           },
           {
             "materia": "inglese",
-            "testo": "Il mito di Leonardo 'genio universale' (Renaissance man) è centrale nella cultura anglosassone: il termine inglese 'Renaissance man' indica ancora oggi la persona dai talenti molteplici."
+            "testo": "Nel mondo anglosassone Leonardo è spesso visto come il genio universale. Ancora oggi l'espressione inglese Renaissance man indica una persona capace in molti campi."
           }
         ]
       }
@@ -102,50 +102,50 @@
       "area": "Rinascimento",
       "priorita": 1,
       "scheda": {
-        "sintesi": "Michelangelo Buonarroti (Caprese 1475 - Roma 1564) si considera anzitutto scultore: per lui scolpire è 'levare', liberare la figura già contenuta nel blocco di marmo. Formatosi presso il Ghirlandaio e nel giardino di San Marco sotto la protezione di Lorenzo il Magnifico, attraversa tutta la parabola del Rinascimento: dalla perfezione classica della Pietà vaticana e del David al dramma del non finito delle ultime Pietà, in cui la materia grezza diventa espressione spirituale.",
+        "sintesi": "Michelangelo Buonarroti (Caprese 1475 - Roma 1564) si sente prima di tutto scultore. Per lui scolpire vuol dire liberare la figura già presente nel marmo. Si forma con Ghirlandaio e nel giardino di San Marco protetto da Lorenzo il Magnifico. Attraversa tutto il Rinascimento: dalla perfezione classica della Pietà Vaticana e del David arriva al dramma delle ultime Pietà non finite, dove la materia grezza esprime un forte senso religioso.",
         "sezioni": [
           {
-            "titolo": "Formazione e poetica",
+            "titolo": "Formazione e idee",
             "punti": [
-              "Nasce a Caprese nel 1475; apprendista nella bottega di Domenico Ghirlandaio, poi nel giardino di San Marco studia la scultura antica sotto la protezione di Lorenzo il Magnifico.",
-              "Concetto di scultura 'per via di levare': l'artista toglie il superfluo per liberare l'immagine che 'già vive' nel marmo, secondo una visione di matrice neoplatonica.",
-              "Non finito: parti lasciate allo stato grezzo; da limite pratico diventa scelta espressiva, immagine della lotta dello spirito per liberarsi dalla materia.",
-              "I disegni come 'teologia del corpo umano': il nudo eroico è per Michelangelo il linguaggio con cui esprimere il divino; il corpo è forma visibile dell'anima.",
-              "È anche poeta: i sonetti 'Io mi son fatto un gozzo in questi stenti' (sulla fatica della volta Sistina, in tono autoironico) e 'Giunto è già 'l corso della vita mia' (sulla vecchiaia e la vanità dell'arte di fronte alla morte) illuminano la sua visione tormentata dell'arte."
+              "Nasce a Caprese nel 1475. Inizia nella bottega di Domenico Ghirlandaio e poi, nel giardino di San Marco, studia le statue antiche sotto la protezione di Lorenzo il Magnifico.",
+              "Per lui la scultura è fatta per via di levare: l'artista toglie il superfluo e libera l'immagine che sembra già vivere nel marmo. È un'idea vicina al neoplatonismo, una filosofia molto diffusa allora.",
+              "Il non finito indica le parti lasciate grezze. Da semplice limite tecnico diventa una scelta espressiva che fa vedere la lotta dello spirito contro la materia.",
+              "Nei disegni e nelle sculture il corpo umano è il linguaggio con cui Michelangelo esprime il divino. Il nudo eroico rende visibile l'anima.",
+              "Michelangelo è anche poeta. I suoi sonetti sul lavoro nella Sistina e sulla vecchiaia fanno capire quanto per lui l'arte fosse faticosa e piena di tensione interiore."
             ]
           },
           {
-            "titolo": "Opere giovanili e della maturità",
+            "titolo": "Opere giovanili e mature",
             "punti": [
-              "Madonna della scala (1490-1492 circa, Casa Buonarroti, Firenze): rilievo in stiacciato di derivazione donatelliana; la Vergine monumentale, di profilo, anticipa la gravità michelangiolesca.",
-              "Battaglia dei centauri (1492 circa, Casa Buonarroti): rilievo ad alto aggetto ispirato all'antico; groviglio di nudi in lotta, primo manifesto del corpo in movimento.",
-              "Pietà vaticana (1497-1499, Basilica di San Pietro): commissionata dal cardinale francese Jean Bilhères; equilibrio classico, virtuosismo del panneggio, Maria giovanissima; unica opera firmata (sulla fascia a tracolla).",
-              "David (1501-1504, marmo, Galleria dell'Accademia, Firenze): ricavato da un blocco già abbozzato e abbandonato; colto prima della battaglia, concentrato e teso; collocato davanti a Palazzo Vecchio come simbolo civico della Repubblica fiorentina.",
-              "Mosè e tomba di Giulio II (San Pietro in Vincoli, Roma): il progetto grandioso del mausoleo si ridusse nei decenni (la 'tragedia della sepoltura'); il Mosè, con la terribilità dello sguardo e la torsione del corpo, ne è il fulcro superstite, insieme ai Prigioni non finiti.",
-              "Tombe medicee (Sagrestia Nuova, San Lorenzo, Firenze, 1520-1534): ai sepolcri di Giuliano duca di Nemours e Lorenzo duca di Urbino si accompagnano le allegorie del tempo: Giorno e Notte, Aurora e Crepuscolo, meditazione sulla caducità della vita."
+              "Madonna della scala (1490-1492 circa, Casa Buonarroti, Firenze): rilievo molto basso, detto stiacciato, ispirato a Donatello. La Vergine è già grande e solenne, come nelle opere future.",
+              "Battaglia dei centauri (1492 circa, Casa Buonarroti): rilievo ispirato all'antico, pieno di corpi nudi in lotta. È uno dei primi esempi della sua attenzione al movimento.",
+              "Pietà vaticana (1497-1499, Basilica di San Pietro): opera commissionata dal cardinale francese Jean Bilhères. Colpisce per equilibrio, bellezza del panneggio e volto giovanissimo di Maria; è l'unica opera firmata da Michelangelo.",
+              "David (1501-1504, Galleria dell'Accademia, Firenze): ricavato da un blocco già iniziato e poi abbandonato. David è rappresentato prima dello scontro, concentrato e teso; davanti a Palazzo Vecchio divenne simbolo della Repubblica fiorentina.",
+              "Mosè e tomba di Giulio II (San Pietro in Vincoli, Roma): il grande progetto della tomba fu ridotto più volte nel tempo. Il Mosè, con sguardo duro e corpo in torsione, resta il centro del monumento insieme ai Prigioni non finiti.",
+              "Tombe medicee (Sagrestia Nuova, San Lorenzo, Firenze, 1520-1534): sulle tombe di Giuliano e Lorenzo de' Medici compaiono Giorno e Notte, Aurora e Crepuscolo. Sono figure che fanno pensare al tempo che passa e alla fragilità della vita."
             ]
           },
           {
             "titolo": "Le ultime Pietà",
             "punti": [
-              "Pietà del Duomo di Firenze (Pietà Bandini, 1547-1555 circa, Museo dell'Opera del Duomo): pensata per la propria tomba; nel Nicodemo incappucciato Michelangelo ritrae se stesso; insoddisfatto, mutilò l'opera, poi restaurata da un allievo.",
-              "Pietà Rondanini (Castello Sforzesco, Milano): vi lavora fino a pochi giorni dalla morte (1564); le figure di madre e figlio si fondono in un'unica forma scarnificata e verticale.",
-              "Nelle ultime Pietà il non finito diventa linguaggio spirituale: la forma si dissolve, la perfezione classica è abbandonata in favore di una religiosità intima e drammatica, in sintonia con la crisi religiosa del secolo."
+              "Pietà del Duomo di Firenze, detta Pietà Bandini (1547-1555 circa): Michelangelo la pensa per la propria tomba. Nel Nicodemo con il cappuccio mette il proprio volto; a un certo punto, insoddisfatto, rompe l'opera, poi restaurata da un allievo.",
+              "Pietà Rondanini (Castello Sforzesco, Milano): ci lavora fino a pochi giorni prima di morire nel 1564. Madre e figlio quasi si uniscono in una sola forma sottile e verticale.",
+              "Nelle ultime Pietà il non finito diventa un linguaggio spirituale. La forma si scioglie, la perfezione classica scompare e resta una religiosità più intima e dolorosa, legata alla crisi del secolo."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "italiano",
-            "testo": "I sonetti di Michelangelo ('Io mi son fatto un gozzo in questi stenti', 'Giunto è già 'l corso della vita mia') uniscono arte e letteratura: la lirica come confessione del travaglio creativo e della crisi spirituale dell'artista."
+            "testo": "I sonetti di Michelangelo uniscono arte e letteratura. Nelle poesie racconta la fatica del creare e la sua crisi spirituale."
           },
           {
             "materia": "scienze-umane",
-            "testo": "Il rapporto con i committenti (Medici, Giulio II, Paolo III) illustra il legame tra arte e potere: il mecenatismo come strumento di legittimazione, tema della sociologia del potere."
+            "testo": "I rapporti con Medici, Giulio II e Paolo III mostrano il legame tra arte e potere. Il mecenatismo serve anche a dare prestigio e legittimità a chi comanda."
           },
           {
             "materia": "arte",
-            "testo": "Il 'non finito' michelangiolesco dialoga a distanza con il non finito di Leonardo (Adorazione dei Magi) e sarà rivalutato dalla sensibilità moderna come forma espressiva autonoma."
+            "testo": "Il non finito di Michelangelo si può confrontare con quello di Leonardo nell'Adorazione dei Magi. In età moderna sarà visto come una vera scelta espressiva, non come un difetto."
           }
         ]
       }
@@ -156,40 +156,40 @@
       "area": "Rinascimento",
       "priorita": 1,
       "scheda": {
-        "sintesi": "Pur dichiarandosi scultore, Michelangelo realizza in pittura imprese colossali: il Tondo Doni, la volta della Cappella Sistina per Giulio II e, trent'anni dopo, il Giudizio Universale per Paolo III, fino agli affreschi della Cappella Paolina. Anche la sua pittura è 'scultorea': corpi monumentali, colori cangianti, spazio dominato dalla figura umana. Come architetto inventa un linguaggio anticlassico e dinamico, dalla Sagrestia Nuova alla cupola di San Pietro.",
+        "sintesi": "Anche se dice di essere soprattutto scultore, Michelangelo realizza grandi opere di pittura: il Tondo Doni, la volta della Cappella Sistina per Giulio II, il Giudizio Universale per Paolo III e gli affreschi della Cappella Paolina. Anche in pittura pensa come uno scultore: corpi enormi, colori cangianti e spazio dominato dalla figura umana. Come architetto crea un linguaggio dinamico che rompe l'equilibrio classico, dalla Sagrestia Nuova fino alla cupola di San Pietro.",
         "sezioni": [
           {
             "titolo": "Pittura",
             "punti": [
-              "Tondo Doni (1504-1507 circa, Uffizi): Sacra Famiglia a tempera per il mercante Agnolo Doni; composizione a spirale, colori freddi e cangianti, nudi sullo sfondo; pittura volutamente scultorea, anticipo del manierismo.",
-              "Volta della Cappella Sistina (1508-1512, commissione di Giulio II): nove storie della Genesi incorniciate da un'architettura dipinta, con Ignudi, Profeti e Sibille; oltre 500 metri quadrati affrescati quasi da solo.",
-              "Creazione di Adamo: il celebre quasi-contatto tra il dito di Dio e quello di Adamo rappresenta la trasmissione della scintilla vitale; Adamo, nudo eroico, è l'immagine perfetta dell'uomo a somiglianza di Dio.",
-              "Giudizio Universale (1536-1541, parete d'altare della Sistina, per Paolo III): vortice di corpi attorno a Cristo giudice; clima cupo della crisi religiosa; nella pelle scorticata di San Bartolomeo, Michelangelo lascia il proprio autoritratto; le nudità furono poi censurate dai 'braghettoni' di Daniele da Volterra.",
-              "Cappella Paolina (1542-1550): Conversione di Saulo e Crocifissione di San Pietro; nella Crocifissione lo sguardo del santo, rivolto verso lo spettatore, lo chiama in causa; stile scabro ed essenziale dell'ultimo Michelangelo."
+              "Tondo Doni (1504-1507 circa, Uffizi): Sacra Famiglia dipinta per Agnolo Doni. La composizione gira a spirale, i colori cambiano tono e i nudi sullo sfondo annunciano il Manierismo.",
+              "Volta della Cappella Sistina (1508-1512): su incarico di Giulio II dipinge nove storie della Genesi dentro un'architettura finta, insieme a Ignudi, Profeti e Sibille. Affresca quasi da solo più di 500 metri quadrati.",
+              "Creazione di Adamo: il quasi contatto tra il dito di Dio e quello di Adamo mostra il momento in cui passa la vita. Adamo, nudo e potente, diventa immagine dell'uomo creato a somiglianza di Dio.",
+              "Giudizio Universale (1536-1541, parete d'altare della Sistina): una massa di corpi gira attorno a Cristo giudice. L'opera riflette il clima duro della crisi religiosa; nella pelle di San Bartolomeo Michelangelo mette il proprio autoritratto. Più tardi alcune nudità furono coperte.",
+              "Cappella Paolina (1542-1550): nella Conversione di Saulo e nella Crocifissione di San Pietro lo stile è più essenziale e severo. Nella Crocifissione lo sguardo di Pietro coinvolge direttamente chi guarda."
             ]
           },
           {
             "titolo": "Architettura",
             "punti": [
-              "Sagrestia Nuova (San Lorenzo, Firenze, dal 1519): risponde alla Sagrestia Vecchia di Brunelleschi ma anima le pareti con membrature in pietra serena dal ritmo plastico e teso, pensate insieme alle sculture delle tombe medicee.",
-              "Vestibolo della Biblioteca Laurenziana (Firenze, dal 1524): spazio verticale e compresso, colonne binate incassate nel muro, finestre cieche; la scalinata a tre rampe dilaga 'come lava' occupando quasi tutto l'ambiente: l'architettura classica è piegata a effetti espressivi.",
-              "Piazza del Campidoglio (Roma, dal 1538): risistemazione per Paolo III; pianta trapezoidale con pavimentazione stellata attorno alla statua equestre di Marco Aurelio; introduce l'ordine gigante nei palazzi che la delimitano.",
-              "Cupola di San Pietro (dal 1547): nominato architetto della fabbrica, torna alla pianta centrale di Bramante; imposta il tamburo con colonne binate e il profilo rialzato della cupola, completata dopo la sua morte da Giacomo della Porta."
+              "Sagrestia Nuova di San Lorenzo (dal 1519): riprende la Sagrestia Vecchia di Brunelleschi ma rende le pareti più tese e plastiche. Architettura e sculture delle tombe sono pensate insieme.",
+              "Vestibolo della Biblioteca Laurenziana (dal 1524): spazio alto e compresso, con colonne incassate nel muro e una grande scala a tre rampe che sembra scendere come una massa in movimento. Le regole classiche sono usate in modo libero e molto espressivo.",
+              "Piazza del Campidoglio (dal 1538): per Paolo III ridisegna la piazza con forma trapezoidale, pavimento a stella e palazzi legati da un ordine gigante, cioè colonne o lesene molto alte.",
+              "Cupola di San Pietro (dal 1547): da architetto della fabbrica torna all'idea di pianta centrale di Bramante. Imposta il tamburo con colonne binate e il profilo alto della cupola, conclusa dopo la sua morte da Giacomo della Porta."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "scienze-umane",
-            "testo": "La Sistina come impresa di comunicazione del papato: l'immagine al servizio della costruzione del consenso religioso e politico, tema sociologico del rapporto tra arte, potere e opinione pubblica."
+            "testo": "La Sistina mostra come il papato usi le immagini per comunicare e rafforzare il proprio potere religioso e politico."
           },
           {
             "materia": "italiano",
-            "testo": "Il sonetto 'Io mi son fatto un gozzo in questi stenti' descrive con autoironia la postura contorta del pittore sotto la volta Sistina: documento letterario diretto del lavoro artistico."
+            "testo": "Il sonetto Io mi son fatto un gozzo in questi stenti racconta con ironia la fatica fisica di Michelangelo mentre dipingeva la volta della Sistina."
           },
           {
             "materia": "arte",
-            "testo": "Il confronto fra la volta (1508-1512, fiducia umanistica nell'uomo) e il Giudizio Universale (1536-1541, angoscia della crisi religiosa) misura il passaggio dal Rinascimento maturo al clima della Controriforma."
+            "testo": "Confrontare la volta della Sistina e il Giudizio Universale fa vedere il passaggio da una visione fiduciosa dell'uomo al clima più angosciato della crisi religiosa."
           }
         ]
       }
@@ -200,52 +200,52 @@
       "area": "Rinascimento",
       "priorita": 1,
       "scheda": {
-        "sintesi": "Raffaello Sanzio (Urbino 1483 - Roma 1520), figlio del pittore Giovanni Santi, si forma tra Urbino e la bottega del Perugino, poi a Firenze studia Leonardo e Michelangelo. È il maestro dell'ideale classico: grazia, equilibrio, armonia compositiva, capacità di sintetizzare i linguaggi altrui in uno stile personale. A Roma, per Giulio II e Leone X, affresca le Stanze Vaticane, summa figurativa della cultura rinascimentale.",
+        "sintesi": "Raffaello Sanzio (Urbino 1483 - Roma 1520), figlio del pittore Giovanni Santi, si forma tra Urbino e la bottega del Perugino. A Firenze studia Leonardo e Michelangelo. È il pittore dell'equilibrio classico: grazia, ordine e armonia. A Roma, lavorando per Giulio II e Leone X, affresca le Stanze Vaticane, uno dei risultati più alti della cultura rinascimentale.",
         "sezioni": [
           {
-            "titolo": "Formazione e opere giovanili",
+            "titolo": "Formazione e prime opere",
             "punti": [
-              "Formazione tra Urbino, città dell'ideale cortese di Federico da Montefeltro, e la bottega del Perugino, da cui assimila dolcezza, spazialità limpida e composizioni simmetriche.",
-              "Sposalizio della Vergine (1504, Pinacoteca di Brera, Milano): riprende lo schema del maestro (e della sua Consegna delle chiavi), ma lo supera: il tempio a pianta centrale domina la scena, lo spazio si curva con la piazza, le figure si dispongono con naturalezza; firma e data sono sul tempio.",
-              "A Firenze (1504-1508) studia il contrapposto e lo sfumato di Leonardo e la potenza plastica di Michelangelo: capacità unica di assimilare e armonizzare.",
-              "Madonna del Cardellino (1506 circa, Uffizi): composizione piramidale di derivazione leonardesca; la Vergine con il Bambino e San Giovannino, legati dal cardellino, simbolo della Passione; paesaggio sereno e affetti domestici.",
-              "Trasporto di Cristo (Pala Baglioni, 1507, Galleria Borghese, Roma): commissionato da Atalanta Baglioni in memoria del figlio Grifonetto, ucciso nelle lotte di Perugia; dinamismo e citazioni michelangiolesche (la torsione della donna inginocchiata richiama il Tondo Doni)."
+              "Si forma a Urbino, ambiente di corte raffinato, e nella bottega del Perugino, da cui impara dolcezza, spazio chiaro e composizioni simmetriche.",
+              "Sposalizio della Vergine (1504, Brera): parte da un modello del Perugino ma lo supera. Il tempio centrale domina la scena, lo spazio è più profondo e le figure si muovono in modo naturale.",
+              "A Firenze, tra 1504 e 1508, studia lo sfumato e il contrapposto di Leonardo e la forza plastica di Michelangelo. La sua bravura sta nel fondere tutto con equilibrio.",
+              "Madonna del Cardellino (1506 circa, Uffizi): composizione piramidale. La Vergine, Gesù e San Giovannino sono uniti dal cardellino, uccellino che allude alla futura Passione di Cristo; il clima è sereno e familiare.",
+              "Trasporto di Cristo o Pala Baglioni (1507, Galleria Borghese): commissionata da Atalanta Baglioni per ricordare il figlio ucciso. L'opera è più dinamica e mostra l'influenza di Michelangelo."
             ]
           },
           {
-            "titolo": "Stanza della Segnatura (1508-1511)",
+            "titolo": "Stanza della Segnatura",
             "punti": [
-              "Chiamato a Roma da Giulio II nel 1508, decora la stanza destinata alla biblioteca privata del papa; il programma celebra il Vero, il Bene e il Bello.",
-              "Medaglioni della volta: le personificazioni di Teologia, Filosofia, Poesia e Giustizia annunciano i temi delle pareti sottostanti.",
-              "Disputa del Sacramento: il Vero rivelato; due semicerchi, la Chiesa trionfante in cielo attorno alla Trinità e la Chiesa militante in terra attorno all'ostia consacrata sull'altare.",
-              "Scuola di Atene: il Vero razionale; nell'architettura grandiosa (ispirata ai progetti bramanteschi per San Pietro) Platone, con il Timeo, indica il cielo e Aristotele, con l'Etica, la terra; Eraclito in primo piano ha i tratti di Michelangelo, Euclide quelli di Bramante; Raffaello si autoritrae tra i sapienti.",
-              "Parnaso: il Bello; Apollo con le Muse e i poeti antichi e moderni (Omero, Dante, Saffo) sul monte sacro alla poesia.",
-              "Parete della Giustizia: in alto l'Allegoria delle Virtù (Fortezza, Prudenza, Temperanza); ai lati Triboniano consegna le Pandette a Giustiniano (diritto civile) e Gregorio IX approva le Decretali (diritto canonico)."
+              "Nel 1508 Giulio II lo chiama a Roma per decorare la stanza che sarebbe stata la biblioteca privata del papa. Il programma celebra il Vero, il Bene e il Bello.",
+              "Sulla volta ci sono medaglioni con Teologia, Filosofia, Poesia e Giustizia. Anticipano i temi delle pareti.",
+              "Disputa del Sacramento: rappresenta la verità rivelata dalla fede. In alto c'è la Chiesa in cielo attorno alla Trinità, in basso la Chiesa sulla terra raccolta intorno all'ostia consacrata.",
+              "Scuola di Atene: rappresenta la verità raggiunta con la ragione. In una grande architettura classica Platone indica il cielo e Aristotele la terra; tra i personaggi compaiono anche volti di Michelangelo, Bramante e dello stesso Raffaello.",
+              "Parnaso: rappresenta la poesia e quindi il Bello. Apollo è con le Muse e con poeti antichi e moderni, come Omero, Dante e Saffo.",
+              "Parete della Giustizia: in alto ci sono le Virtù, cioè Fortezza, Prudenza e Temperanza. Ai lati compaiono scene legate al diritto civile e al diritto canonico, cioè le leggi della Chiesa."
             ]
           },
           {
-            "titolo": "Stanza di Eliodoro (1511-1514)",
+            "titolo": "Stanza di Eliodoro",
             "punti": [
-              "Tema: gli interventi miracolosi di Dio a protezione della Chiesa, con evidente valore politico per il papato di Giulio II.",
-              "Cacciata di Eliodoro dal tempio: il sacrilego Eliodoro è abbattuto da un cavaliere celeste; Giulio II assiste in lettiga: l'episodio biblico allude ai nemici contemporanei della Chiesa.",
-              "Messa di Bolsena: il miracolo dell'ostia sanguinante convince il sacerdote dubbioso della transustanziazione; ricchezza cromatica di influenza veneta.",
-              "Liberazione di San Pietro: straordinario notturno con tre fonti di luce (l'angelo, la luna, la torcia); la luce divina che libera Pietro è anche metafora del papato.",
-              "Incontro di Leone Magno e Attila: il papa, con i volti dei santi Pietro e Paolo in cielo, ferma gli Unni; Leone Magno ha i tratti di Leone X, succeduto a Giulio II durante i lavori."
+              "Il tema è la protezione miracolosa di Dio verso la Chiesa, con un chiaro significato politico a favore del papato di Giulio II.",
+              "Cacciata di Eliodoro dal tempio: Eliodoro, che vuole rubare il tesoro sacro, viene fermato da un cavaliere celeste. Giulio II guarda la scena in lettiga e il racconto biblico allude ai nemici della Chiesa del tempo.",
+              "Messa di Bolsena: il sacerdote che dubita della presenza reale di Cristo vede l'ostia sanguinare. L'opera colpisce anche per i colori ricchi, vicini alla pittura veneta.",
+              "Liberazione di San Pietro: scena notturna costruita con tre luci diverse, quella dell'angelo, della luna e della torcia. La luce che libera Pietro allude anche alla forza del papato.",
+              "Incontro di Leone Magno e Attila: il papa ferma gli Unni con l'aiuto dei santi Pietro e Paolo che appaiono in cielo. Leone Magno ha il volto di Leone X, che succede a Giulio II durante i lavori."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "scienze-umane",
-            "testo": "La Scuola di Atene è un manifesto pedagogico: la conoscenza come dialogo tra maestri e discepoli e la convivenza armonica dei saperi, ideale della formazione umanistica."
+            "testo": "La Scuola di Atene mostra la conoscenza come dialogo tra maestri e allievi e come convivenza armonica dei diversi saperi. È un ideale tipico della formazione umanistica."
           },
           {
             "materia": "italiano",
-            "testo": "Nel Parnaso Dante compare tra i poeti laureati: la pittura consacra il canone letterario italiano accanto ai classici antichi."
+            "testo": "Nel Parnaso Dante appare tra i grandi poeti. La pittura conferma così il posto centrale della tradizione letteraria italiana accanto ai classici antichi."
           },
           {
             "materia": "arte",
-            "testo": "Il confronto tra lo Sposalizio della Vergine di Raffaello e quello del Perugino mostra come l'allievo superi il maestro: stesso schema, ma spazio più profondo, figure più mosse e naturali."
+            "testo": "Confrontare lo Sposalizio della Vergine di Raffaello con quello del Perugino fa vedere come l'allievo superi il maestro: stesso schema di base, ma spazio più profondo e figure più naturali."
           }
         ]
       }
@@ -256,85 +256,85 @@
       "area": "Controriforma e Barocco",
       "priorita": 2,
       "scheda": {
-        "sintesi": "La Riforma luterana (1517) e la risposta cattolica del Concilio di Trento (1545-1563) cambiano profondamente il ruolo dell'arte sacra. Nel mondo protestante le chiese si spogliano di immagini e si organizzano attorno alla parola; nel mondo cattolico la Controriforma rilancia le immagini come 'Bibbia dei poveri', purché chiare, decorose e capaci di muovere alla devozione. La Chiesa del Gesù del Vignola a Roma diventa il modello della nuova chiesa controriformata.",
+        "sintesi": "La Riforma luterana del 1517 e la risposta cattolica del Concilio di Trento, tra 1545 e 1563, cambiano molto il ruolo dell'arte sacra. Nel mondo protestante le chiese si svuotano di immagini e si concentrano sulla parola. Nel mondo cattolico, invece, la Controriforma rilancia le immagini come aiuto per insegnare la fede, purché siano chiare, dignitose e capaci di suscitare devozione. La Chiesa del Gesù a Roma diventa il modello della nuova chiesa cattolica.",
         "sezioni": [
           {
-            "titolo": "Riforma luterana e struttura delle chiese",
+            "titolo": "Riforma protestante e chiese",
             "punti": [
-              "Lutero contesta il culto delle immagini quando degenera in idolatria; le correnti più radicali (Calvino, Zwingli) arrivano all'iconoclastia e alla rimozione delle opere d'arte dalle chiese.",
-              "La chiesa protestante si organizza attorno alla predicazione: centralità del pulpito e della parola, aule spoglie, assenza di altari laterali, di immagini di santi e di apparati decorativi.",
-              "Conseguenza artistica: nei paesi riformati declina la grande pittura sacra e si sviluppano generi 'laici' come ritratto, paesaggio e natura morta."
+              "Lutero critica il culto delle immagini quando diventa idolatria. I gruppi più radicali, come quelli di Calvino e Zwingli, arrivano all'iconoclastia, cioè alla distruzione o rimozione delle immagini sacre.",
+              "Nelle chiese protestanti conta soprattutto la predicazione. Per questo gli spazi sono più semplici: pulpito centrale, poche decorazioni, niente altari laterali e quasi nessuna immagine di santi.",
+              "Nei paesi riformati diminuisce la grande pittura religiosa e crescono generi non sacri, come ritratto, paesaggio e natura morta."
             ]
           },
           {
             "titolo": "Arte e Controriforma",
             "punti": [
-              "Il Concilio di Trento (sessione del 1563) riafferma la legittimità e l'utilità delle immagini sacre: devono istruire i fedeli, essere chiare, verosimili, decorose e fedeli alle Scritture.",
-              "L'arte diventa strumento di persuasione e propaganda della fede: nascono trattati sul 'decoro' delle immagini e i vescovi vigilano sull'ortodossia iconografica (le nudità del Giudizio michelangiolesco vengono coperte).",
-              "Nuovi ordini religiosi, in primo luogo i Gesuiti di Ignazio di Loyola, fanno dell'immagine e dell'architettura strumenti di evangelizzazione.",
-              "Vignola, Chiesa del Gesù a Roma (iniziata nel 1568, committente il cardinale Alessandro Farnese): navata unica ampia per la predicazione, cappelle laterali al posto delle navate minori, transetto ridotto, cupola luminosa all'incrocio.",
-              "La facciata, realizzata da Giacomo della Porta, a due ordini raccordati da volute, e l'impianto del Gesù diventano il modello replicato dalle chiese cattoliche in Europa e nelle missioni.",
-              "Questo impianto prepara il Barocco: lo spazio unitario orientato all'altare sarà arricchito nel Seicento da decorazione, luce e teatralità."
+              "Il Concilio di Trento, nel 1563, conferma che le immagini sacre sono utili. Devono però insegnare la fede, essere chiare, credibili, rispettose e fedeli alla Scrittura.",
+              "L'arte diventa uno strumento per convincere e rafforzare la fede. Nascono regole sul decoro delle immagini e i vescovi controllano che i soggetti siano corretti; per esempio alcune nudità del Giudizio Universale vengono coperte.",
+              "I nuovi ordini religiosi, soprattutto i Gesuiti fondati da Ignazio di Loyola, usano immagini e architettura per evangelizzare, cioè diffondere la fede.",
+              "La Chiesa del Gesù a Roma, progettata da Vignola dal 1568 per il cardinale Alessandro Farnese, ha una navata unica molto ampia per ascoltare la predicazione, cappelle laterali e una cupola luminosa al centro.",
+              "La facciata di Giacomo della Porta, con due ordini uniti da volute, e tutto l'impianto della chiesa diventano un modello per molte chiese cattoliche in Europa e nelle missioni.",
+              "Questo modello prepara il Barocco: lo spazio unico rivolto all'altare nel Seicento sarà arricchito da decorazioni, luce e teatralità."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "scienze-umane",
-            "testo": "Il dibattito sulle immagini è un caso esemplare di sociologia della comunicazione: la Chiesa cattolica sceglie il linguaggio visivo come medium di massa per istruire e persuadere i fedeli, anche analfabeti."
+            "testo": "Il dibattito sulle immagini è un ottimo esempio di sociologia della comunicazione: la Chiesa cattolica sceglie il linguaggio visivo come mezzo per istruire e convincere anche i fedeli che non sanno leggere."
           },
           {
             "materia": "italiano",
-            "testo": "Il clima della Controriforma condiziona anche la letteratura del secondo Cinquecento: censura, indice dei libri proibiti e il travaglio religioso che attraversa la cultura italiana."
+            "testo": "Il clima della Controriforma influenza anche la letteratura della seconda metà del Cinquecento, segnata da censura, Indice dei libri proibiti e tensioni religiose."
           },
           {
             "materia": "arte",
-            "testo": "Le regole tridentine su chiarezza e decoro spiegano sia il successo di Caravaggio (immediatezza del sacro) sia i rifiuti che subì quando il suo realismo parve mancare di decoro (Morte della Vergine)."
+            "testo": "Le regole del Concilio di Trento su chiarezza e decoro aiutano a capire sia il successo di Caravaggio sia i rifiuti ricevuti quando il suo realismo sembrava poco rispettoso, come nella Morte della Vergine."
           }
         ]
       }
     },
     {
       "id": "barocco",
-      "titolo": "Il Barocco: caratteri generali",
+      "titolo": "Il Barocco: caratteristiche generali",
       "area": "Controriforma e Barocco",
       "priorita": 2,
       "scheda": {
-        "sintesi": "Il Barocco è la civiltà artistica del Seicento, nata a Roma sotto il segno della Chiesa trionfante. Il suo scopo è coinvolgere ed emozionare lo spettatore: meraviglia, stupore e teatralità sostituiscono l'equilibrio rinascimentale. Le arti si fondono in opere totali; l'architettura religiosa abbandona la stasi classica per linee curve, ellissi, giochi di luce e spazi dinamici.",
+        "sintesi": "Il Barocco è la grande cultura artistica del Seicento e nasce soprattutto a Roma, nel clima della Chiesa trionfante. Vuole coinvolgere ed emozionare chi guarda: meraviglia, stupore e teatralità prendono il posto dell'equilibrio rinascimentale. Le arti si uniscono in opere totali e l'architettura religiosa usa curve, ellissi, luce e spazi in movimento.",
         "sezioni": [
           {
             "titolo": "Caratteri generali",
             "punti": [
-              "Il termine 'barocco', in origine spregiativo (indicava una perla irregolare e un ragionamento contorto), designa l'arte del Seicento, riabilitata solo dalla critica moderna.",
-              "Centro propulsore è Roma: i papi del Seicento (Urbano VIII Barberini, Innocenzo X Pamphilj, Alessandro VII Chigi) usano l'arte per celebrare la Chiesa trionfante dopo la crisi della Riforma.",
-              "Poetica della meraviglia: l'opera deve stupire e coinvolgere emotivamente lo spettatore, in parallelo con la poesia di Marino ('è del poeta il fin la maraviglia').",
-              "Teatralità: lo spettatore è chiamato dentro l'opera; l'arte costruisce vere e proprie scene, con quinte, luci nascoste e punti di vista calcolati.",
-              "Fusione delle arti: architettura, scultura, pittura e luce concorrono a un effetto unitario ('bel composto' berniniano).",
-              "Dinamismo e movimento: linee curve, superfici ondulate, composizioni diagonali e a spirale al posto della stasi rinascimentale."
+              "La parola barocco all'inizio era negativa: indicava una perla irregolare e, per estensione, qualcosa di complicato. Oggi indica l'arte del Seicento.",
+              "Il centro principale è Roma. I papi del Seicento usano l'arte per celebrare la Chiesa dopo la crisi della Riforma.",
+              "L'opera barocca deve stupire e coinvolgere. È la stessa idea che Marino esprime nella poesia quando dice che il fine del poeta è la meraviglia.",
+              "L'arte diventa teatrale: chi guarda viene coinvolto dentro la scena, costruita con luci nascoste e punti di vista studiati.",
+              "Le arti si uniscono. Architettura, scultura, pittura e luce lavorano insieme in un unico effetto, quello che Bernini chiamerà bel composto.",
+              "Al posto dell'equilibrio fermo del Rinascimento arrivano movimento, linee curve, superfici ondulate e composizioni diagonali o a spirale."
             ]
           },
           {
-            "titolo": "Forme architettoniche religiose",
+            "titolo": "Forme delle chiese barocche",
             "punti": [
-              "Piante centrali allungate ed ellittiche al posto del cerchio perfetto rinascimentale: l'ellisse è la figura barocca per eccellenza, dinamica e avvolgente.",
-              "Facciate concave e convesse che dialogano con lo spazio urbano: la chiesa 'esce' verso la città e la piazza diventa scenografia.",
-              "Luce come materiale da costruzione: finestre nascoste, lanterne e cupole convogliano la luce con valore simbolico e teatrale.",
-              "Ricchezza decorativa: marmi policromi, stucchi e ori, affreschi illusionistici che sfondano le volte verso il cielo (quadratura e 'sotto in su')."
+              "Le piante diventano più allungate o ellittiche invece che perfettamente circolari. L'ellisse è tipica del Barocco perché dà un senso di movimento e avvolge chi entra.",
+              "Le facciate alternano parti concave e convesse e dialogano con la città. La piazza sembra diventare una scenografia.",
+              "La luce è usata come un vero materiale costruttivo. Finestre nascoste, lanterne e cupole la guidano con effetti simbolici e teatrali.",
+              "La decorazione è ricca: marmi colorati, stucchi, oro e affreschi illusionistici che sembrano aprire il soffitto verso il cielo."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "italiano",
-            "testo": "La poetica barocca della meraviglia attraversa anche la letteratura (Marino); la sua teatralità e il gusto per la parola preziosa verranno ripresi in chiave estetizzante da D'Annunzio, poeta della vita come opera d'arte."
+            "testo": "L'idea barocca della meraviglia si ritrova anche nella letteratura di Marino. Più tardi D'Annunzio riprenderà, in modo diverso, il gusto per lo spettacolo e per la vita come opera d'arte."
           },
           {
             "materia": "scienze-umane",
-            "testo": "Il Barocco come comunicazione persuasiva: la Chiesa investe nell'emozione e nello spettacolo per orientare i fedeli, anticipando logiche studiate dalla sociologia dei media e della propaganda."
+            "testo": "Il Barocco usa emozione e spettacolo per orientare i fedeli. Questo lo collega ai temi studiati dalla sociologia dei media e della propaganda."
           },
           {
             "materia": "arte",
-            "testo": "Caravaggio (luce drammatica), Bernini (scultura teatrale) e Borromini (architettura dinamica) declinano in tre linguaggi diversi gli stessi caratteri barocchi."
+            "testo": "Caravaggio, Bernini e Borromini mostrano il Barocco in tre modi diversi: con la luce, con la scultura teatrale e con l'architettura in movimento."
           }
         ]
       }
@@ -345,53 +345,53 @@
       "area": "Controriforma e Barocco",
       "priorita": 1,
       "scheda": {
-        "sintesi": "Michelangelo Merisi da Caravaggio (Milano 1571 - Porto Ercole 1610) rivoluziona la pittura sacra con un realismo radicale: i santi hanno i volti del popolo, le scene avvengono in ambienti spogli e la luce, tagliente sull'ombra (tenebrismo), rivela il momento decisivo, quello della grazia o della morte. Dalla natura morta giovanile alle grandi tele romane fino alle opere drammatiche della fuga, la sua pittura unisce verità ottica e profondo simbolismo religioso.",
+        "sintesi": "Michelangelo Merisi, detto Caravaggio (Milano 1571 - Porto Ercole 1610), cambia profondamente la pittura sacra con un realismo molto forte. I santi hanno i volti della gente comune, le scene avvengono in spazi semplici e la luce, netta contro il buio, mostra il momento decisivo della grazia o della morte. Dalle prime nature morte alle grandi tele romane fino alle opere degli anni di fuga, la sua pittura unisce osservazione del vero e forte significato religioso.",
         "sezioni": [
           {
-            "titolo": "Realismo, simbolismo e luce",
+            "titolo": "Realismo, simboli e luce",
             "punti": [
-              "Formazione a Milano presso Simone Peterzano, erede della tradizione lombarda del naturalismo e della luce; nel 1592 circa si trasferisce a Roma, dove lavora per il Cavalier d'Arpino e viene scoperto dal cardinale Francesco Maria Del Monte.",
-              "Dipinge dal vero, senza disegno preparatorio, usando modelli presi dalla strada: il sacro irrompe nella vita quotidiana.",
-              "Luce e tenebrismo: un fascio di luce diretto e radente scolpisce le figure contro fondi scuri; la luce è insieme fisica e simbolica (la grazia che irrompe).",
-              "Vita violenta: nel 1606 uccide Ranuccio Tomassoni in una rissa e fugge da Roma (Napoli, Malta, Sicilia); muore a Porto Ercole nel 1610 mentre attende la grazia papale.",
-              "'I due Michelangelo': Buonarroti idealizza il corpo per innalzarlo al divino, Merisi cala il divino nella realtà più umile; eppure Caravaggio cita il maestro, come nella mano di Cristo della Vocazione, ripresa dall'Adamo della Sistina."
+              "Si forma a Milano con Simone Peterzano, in un ambiente attento al naturalismo, cioè all'osservazione del vero, e alla luce. Verso il 1592 va a Roma, lavora per il Cavalier d'Arpino e poi viene protetto dal cardinale Del Monte.",
+              "Dipinge dal vero, senza un grande disegno preparatorio, usando modelli presi dalla strada. Così il sacro entra nella vita quotidiana.",
+              "Il tenebrismo è l'uso di una luce forte che colpisce figure immerse nel buio. Questa luce è reale ma anche simbolica, perché può indicare la grazia divina.",
+              "Ha una vita violenta: nel 1606 uccide Ranuccio Tomassoni in una rissa e fugge da Roma. Passa per Napoli, Malta e Sicilia e muore a Porto Ercole nel 1610 mentre aspetta la grazia del papa.",
+              "Si parla spesso dei due Michelangelo: Buonarroti idealizza il corpo per avvicinarlo al divino, Caravaggio porta il divino dentro la realtà più umile. Però cita Michelangelo, per esempio nella mano di Cristo della Vocazione, che ricorda l'Adamo della Sistina."
             ]
           },
           {
-            "titolo": "Opere giovanili romane",
+            "titolo": "Prime opere romane",
             "punti": [
-              "Bacchino malato (1593-1594 circa, Galleria Borghese): probabile autoritratto dal colorito livido, dipinto allo specchio nel periodo della malattia; ironico rovesciamento del dio classico.",
-              "Ragazzo con canestra di frutta (1593-1594 circa, Galleria Borghese): figura e natura morta hanno la stessa dignità; frutta descritta con precisione ottica, anche nei segni di deperimento.",
-              "Ragazzo morso da un ramarro (1594-1596 circa, due versioni: National Gallery di Londra e Fondazione Longhi di Firenze): studio dell'espressione istantanea del dolore e della sorpresa; vanitas nascosta nel piacere che si fa dolore.",
-              "Bacco (1596-1597 circa, Uffizi): giovane dal volto popolano vestito da dio antico; il vino nella coppa offerta allo spettatore increspa ancora la superficie: pittura dell'istante.",
-              "Canestra di frutta (1597-1600 circa, Pinacoteca Ambrosiana, Milano): prima natura morta autonoma della pittura italiana; foglie secche e frutti bacati come meditazione sulla caducità (vanitas); 'ci vuole tanta manifattura a fare un quadro di fiori come di figure'."
+              "Bacchino malato (1593-1594 circa, Galleria Borghese): probabile autoritratto dipinto allo specchio durante un periodo di malattia. Il dio classico appare fragile e quasi ironico.",
+              "Ragazzo con canestra di frutta (1593-1594 circa, Galleria Borghese): figura umana e natura morta hanno lo stesso valore. La frutta è osservata con grande precisione, anche nei segni del deterioramento.",
+              "Ragazzo morso da un ramarro (1594-1596 circa): studia l'attimo della sorpresa e del dolore. Dietro il piacere che si trasforma in sofferenza si nasconde anche un significato di vanitas, cioè di fragilità della vita.",
+              "Bacco (1596-1597 circa, Uffizi): un giovane dall'aspetto popolare veste i panni del dio antico. Il vino nella coppa, ancora mosso, dà l'idea di un istante fermato nel tempo.",
+              "Canestra di frutta (1597-1600 circa, Pinacoteca Ambrosiana): è considerata la prima natura morta autonoma della pittura italiana. Foglie secche e frutti rovinati fanno pensare alla vanitas, cioè alla brevità della vita."
             ]
           },
           {
-            "titolo": "Le grandi commissioni romane",
+            "titolo": "Le grandi commissioni a Roma",
             "punti": [
-              "Cappella Contarelli, San Luigi dei Francesi (1599-1602): Vocazione di San Matteo: in una stanza spoglia il fascio di luce accompagna il gesto di Cristo che chiama il gabelliere; il sacro accade in un interno contemporaneo.",
-              "San Matteo e l'angelo, due versioni: la prima (santo rozzo, a gambe accavallate, guidato fisicamente dall'angelo) fu rifiutata perché priva di decoro (già a Berlino, distrutta nel 1945); la seconda, più composta, è ancora sull'altare.",
-              "Martirio di San Matteo: composizione centrifuga attorno al sicario; tra i presenti che fuggono, Caravaggio inserisce il proprio autoritratto che si volta verso la scena.",
-              "Cappella Cerasi, Santa Maria del Popolo (1600-1601): Crocifissione di San Pietro (il santo anziano issato sulla croce capovolta, fatica fisica reale dei carnefici senza volto) e Conversione di San Paolo (il santo a terra sotto il cavallo, folgorato da una luce che solo lui percepisce).",
-              "Morte della Vergine (1605-1606 circa, Louvre): rifiutata dai carmelitani di Santa Maria della Scala per il realismo eccessivo (la Vergine gonfia e scalza, secondo le fonti modellata su una donna annegata); acquistata dal duca di Mantova su consiglio di Rubens.",
-              "Amor vincit omnia / Omnia vincit amor (1602-1603, Gemäldegalerie, Berlino): per il marchese Vincenzo Giustiniani; Cupido adolescente, beffardo e realissimo, calpesta i simboli delle arti e del potere: tutto vince l'amore (Virgilio).",
-              "Deposizione (1602-1604, Pinacoteca Vaticana, già alla Chiesa Nuova): composizione a diagonale discendente sulla pietra del sepolcro che 'sporge' verso lo spettatore; equilibrio perfetto tra realismo e monumentalità classica, l'opera sua più lodata anche dai contemporanei."
+              "Cappella Contarelli, San Luigi dei Francesi (1599-1602): nella Vocazione di San Matteo un fascio di luce accompagna il gesto di Cristo che chiama Matteo. Il sacro accade in una stanza simile a un interno contemporaneo.",
+              "San Matteo e l'angelo: la prima versione, con un santo troppo rozzo e guidato quasi fisicamente dall'angelo, viene rifiutata perché giudicata poco decorosa; la seconda è più composta.",
+              "Martirio di San Matteo: la scena ruota attorno all'assassino. Tra le persone in fuga Caravaggio inserisce anche il proprio volto.",
+              "Cappella Cerasi, Santa Maria del Popolo (1600-1601): nella Crocifissione di San Pietro si vede la fatica concreta dei carnefici; nella Conversione di San Paolo Paolo è a terra, colpito da una luce che solo lui percepisce.",
+              "Morte della Vergine (1605-1606 circa, Louvre): viene rifiutata dai carmelitani per il realismo troppo forte. Poi viene comprata dal duca di Mantova su consiglio di Rubens.",
+              "Amor vincit omnia (1602-1603, Berlino): un Cupido adolescente e molto realistico calpesta i simboli delle arti e del potere. Il significato è che l'amore vince tutto.",
+              "Deposizione (1602-1604, Pinacoteca Vaticana): la composizione scende in diagonale verso la pietra del sepolcro che sembra uscire verso chi guarda. Unisce realismo e grandezza classica."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "arte",
-            "testo": "Il confronto 'i due Michelangelo' (Buonarroti e Merisi) misura la distanza tra idealizzazione rinascimentale e realismo barocco: stessa grandezza, due idee opposte del corpo e del sacro."
+            "testo": "Il confronto tra Buonarroti e Merisi fa capire la distanza tra idealizzazione rinascimentale e realismo barocco: stessa grandezza artistica, ma due idee molto diverse del corpo e del sacro."
           },
           {
             "materia": "scienze-umane",
-            "testo": "I santi con i volti degli ultimi: la pittura di Caravaggio dà visibilità ai marginali (poveri, prostitute, popolani), un tema che dialoga con la sociologia della marginalità e della devianza."
+            "testo": "I santi con i volti della gente comune danno visibilità ai poveri e ai marginali. Questo tema si collega alla sociologia della marginalità e della devianza."
           },
           {
             "materia": "italiano",
-            "testo": "La poetica dell'istante e dell'effetto su chi guarda accomuna Caravaggio alla letteratura barocca della meraviglia; il suo 'maledettismo' biografico anticipa il mito moderno dell'artista ribelle caro anche a D'Annunzio."
+            "testo": "La ricerca dell'effetto immediato su chi guarda avvicina Caravaggio alla letteratura barocca della meraviglia. Anche la sua vita ribelle anticipa il mito moderno dell'artista maledetto."
           }
         ]
       }
@@ -402,49 +402,49 @@
       "area": "Controriforma e Barocco",
       "priorita": 1,
       "scheda": {
-        "sintesi": "Gian Lorenzo Bernini (Napoli 1598 - Roma 1680), figlio dello scultore Pietro, è il protagonista assoluto del Barocco romano: scultore, architetto, scenografo. La sua arte unisce virtuosismo tecnico, formazione sul classico e teatralità: sceglie l'attimo culminante dell'azione, fonde le arti nel 'bel composto' e trasforma San Pietro nel grande teatro della cristianità con il Baldacchino, la Cattedra e il colonnato.",
+        "sintesi": "Gian Lorenzo Bernini (Napoli 1598 - Roma 1680), figlio dello scultore Pietro, è il grande protagonista del Barocco romano. È scultore, architetto e scenografo. La sua arte unisce bravura tecnica, studio del classico e forte teatralità: sceglie l'attimo più intenso dell'azione, fonde le arti nel bel composto e trasforma San Pietro nel grande teatro della cristianità con il Baldacchino, la Cattedra e il colonnato.",
         "sezioni": [
           {
-            "titolo": "Formazione e gruppi Borghese",
+            "titolo": "Formazione e gruppi per Borghese",
             "punti": [
-              "Si forma nella bottega del padre Pietro Bernini, studiando la statuaria antica e i maestri del Cinquecento: il suo Barocco poggia su un solido formalismo classico.",
-              "Enfant prodige, lavora giovanissimo per il cardinale Scipione Borghese, per cui esegue i grandi gruppi mitologici della Galleria Borghese.",
-              "Ratto di Proserpina (1621-1622, Galleria Borghese): Plutone afferra Proserpina; le dita affondano nella carne di marmo, virtuosismo che rende morbida la pietra; lacrime e grido fissati nell'attimo.",
-              "Apollo e Dafne (1622-1625, Galleria Borghese): scelta del momento culminante: l'istante esatto della metamorfosi, quando Apollo raggiunge Dafne e la ninfa si trasforma in alloro; il gruppo va girato intorno, come una scena in svolgimento.",
-              "Rispetto alla scultura rinascimentale, ferma e conclusa, quella berniniana è azione colta nel tempo: lo spettatore arriva 'durante' l'evento."
+              "Si forma nella bottega del padre Pietro Bernini e studia le statue antiche e i maestri del Cinquecento. Anche se è barocco, parte sempre da una forte base classica.",
+              "È un talento precocissimo e lavora molto giovane per il cardinale Scipione Borghese, per cui realizza i grandi gruppi mitologici oggi alla Galleria Borghese.",
+              "Ratto di Proserpina (1621-1622): Plutone afferra Proserpina e le dita sembrano entrare nella carne di marmo. Il virtuosismo tecnico rende la pietra morbida e viva.",
+              "Apollo e Dafne (1622-1625): Bernini sceglie l'attimo esatto in cui Dafne si trasforma in alloro mentre Apollo la raggiunge. La scultura va vista girandole intorno, come una scena in movimento.",
+              "Rispetto alla scultura rinascimentale, più ferma e conclusa, quella di Bernini coglie l'azione mentre sta accadendo. Lo spettatore arriva nel mezzo dell'evento."
             ]
           },
           {
-            "titolo": "Cappella Cornaro e il bel composto",
+            "titolo": "Cappella Cornaro e bel composto",
             "punti": [
-              "Cappella Cornaro, Santa Maria della Vittoria, Roma (1647-1652): Bernini progetta l'intero ambiente come un teatro sacro: architettura, scultura, pittura e luce concorrono a un unico effetto ('bel composto').",
-              "Estasi di Santa Teresa: la santa, trafitta dal dardo dell'angelo secondo il racconto della sua autobiografia, è colta nell'abbandono mistico su una nuvola di marmo.",
-              "La luce vera, che scende da una finestra nascosta lungo raggi dorati di bronzo, 'accende' la scena: la regia luministica è parte dell'opera.",
-              "Ai lati, nei palchetti come a teatro, i membri della famiglia Cornaro assistono e commentano: lo spettatore è incluso nella rappresentazione del miracolo."
+              "Nella Cappella Cornaro, a Santa Maria della Vittoria (1647-1652), Bernini progetta tutto l'ambiente come un teatro sacro. Architettura, scultura, pittura e luce si uniscono in un unico effetto, il bel composto.",
+              "Nell'Estasi di Santa Teresa la santa è colpita dalla freccia dell'angelo, come racconta nella sua autobiografia. Bernini la rappresenta in un momento di abbandono mistico sopra una nuvola di marmo.",
+              "Una finestra nascosta fa scendere la luce vera lungo raggi dorati di bronzo. La regia della luce è parte essenziale dell'opera.",
+              "Ai lati, nei palchetti, i membri della famiglia Cornaro assistono alla scena come a teatro. Anche chi guarda si sente coinvolto nel miracolo."
             ]
           },
           {
-            "titolo": "Bernini per San Pietro",
+            "titolo": "Bernini e San Pietro",
             "punti": [
-              "Baldacchino di San Pietro (1624-1633, per Urbano VIII Barberini): gigantesca struttura in bronzo (in parte ricavato, secondo la tradizione, dalle travi del Pantheon) sopra la tomba dell'apostolo; le colonne tortili riprendono quelle dell'antica basilica; opera tra scultura e architettura.",
-              "Cattedra di San Pietro (1657-1666, per Alessandro VII): reliquiario monumentale nell'abside; il trono bronzeo, sorretto dai quattro Dottori della Chiesa, sembra levitare verso la gloria dorata di angeli attorno alla colomba dello Spirito Santo nella finestra di alabastro: apoteosi della luce barocca.",
-              "Colonnato di Piazza San Pietro (1656-1667, per Alessandro VII): due bracci ellittici di colonne doriche a quattro file che 'abbracciano' i fedeli, 'a braccia aperte' come la Chiesa madre; raccordo scenografico tra la basilica e la città.",
-              "Con questi interventi Bernini fa di San Pietro l'immagine stessa della Chiesa trionfante della Controriforma."
+              "Baldacchino di San Pietro (1624-1633): enorme struttura in bronzo sopra la tomba di San Pietro. Le colonne tortili richiamano quelle dell'antica basilica e l'opera unisce scultura e architettura.",
+              "Cattedra di San Pietro (1657-1666): grande reliquiario nell'abside. Il trono bronzeo sembra sollevarsi verso la luce dorata che circonda la colomba dello Spirito Santo nella finestra di alabastro.",
+              "Colonnato di Piazza San Pietro (1656-1667): due grandi bracci ellittici di colonne sembrano abbracciare i fedeli, come la Chiesa madre che accoglie.",
+              "Con questi lavori Bernini trasforma San Pietro nel simbolo della Chiesa trionfante della Controriforma."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "italiano",
-            "testo": "La teatralità berniniana, l'arte come spettacolo totale che esalta i sensi, trova un erede letterario nell'estetismo di D'Annunzio: la vita e l'arte come scena e meraviglia."
+            "testo": "La teatralità di Bernini, cioè l'arte come spettacolo totale, può essere collegata all'estetismo di D'Annunzio, dove vita e arte diventano scena e meraviglia."
           },
           {
             "materia": "scienze-umane",
-            "testo": "Il rapporto organico tra Bernini e i papi committenti (Urbano VIII, Alessandro VII) è un caso da manuale di mecenatismo come strategia di potere e costruzione del consenso."
+            "testo": "Il rapporto stretto tra Bernini e i papi, come Urbano VIII e Alessandro VII, è un chiaro esempio di mecenatismo usato come strumento di potere e consenso."
           },
           {
             "materia": "arte",
-            "testo": "L'Apollo e Dafne dialoga con il David di Michelangelo: là la concentrazione prima dell'azione, qua l'attimo culminante della metamorfosi: due idee opposte di tempo nella scultura."
+            "testo": "Apollo e Dafne si può confrontare con il David di Michelangelo: nel David c'è la tensione prima dell'azione, in Bernini l'attimo in cui l'evento sta accadendo."
           }
         ]
       }
@@ -455,40 +455,40 @@
       "area": "Controriforma e Barocco",
       "priorita": 2,
       "scheda": {
-        "sintesi": "Francesco Borromini (Bissone 1599 - Roma 1667), nato Francesco Castelli, è il grande rivale di Bernini e il più radicale innovatore dell'architettura barocca. Formatosi come scalpellino, conosce la costruzione dall'interno e piega la geometria a spazi dinamici e ondulati: pareti curve, piante stellari, luce calcolata. Dal piccolo San Carlino a Sant'Ivo alla Sapienza fino alla prospettiva ingannevole di Palazzo Spada, la sua architettura è invenzione continua. Morì suicida nel 1667.",
+        "sintesi": "Francesco Borromini (Bissone 1599 - Roma 1667), nato Francesco Castelli, è il grande rivale di Bernini e il più radicale innovatore dell'architettura barocca. Si forma come scalpellino e conosce molto bene il lavoro della costruzione. Per questo piega la geometria a spazi mossi e ondulati, con pareti curve, piante complesse e luce studiata con precisione. Da San Carlino a Sant'Ivo alla Sapienza fino alla Galleria Spada, la sua architettura è una continua invenzione. Muore suicida nel 1667.",
         "sezioni": [
           {
-            "titolo": "Formazione e novità dell'architettura barocca",
+            "titolo": "Formazione e novità",
             "punti": [
-              "Nato a Bissone, sul lago di Lugano, si forma come scalpellino al Duomo di Milano; a Roma lavora con il parente Carlo Maderno e poi, in subordine, con Bernini al Baldacchino di San Pietro, da cui si separa per rivalità.",
-              "A differenza di Bernini, cortigiano e regista di grandi committenze papali, Borromini è solitario e tormentato; lavora soprattutto per ordini religiosi poveri; muore suicida nel 1667.",
-              "Novità: progetta a partire da moduli geometrici (triangoli, cerchi, ellissi intrecciati) e non dal modulo della colonna; la parete diventa superficie elastica, ondulata, in movimento.",
-              "Usa materiali poveri (mattone, stucco, intonaco bianco) ottenendo effetti di luce e plasticità senza marmi né ori: un barocco di pura forma e geometria."
+              "Nasce a Bissone, sul lago di Lugano, e si forma come scalpellino al Duomo di Milano. A Roma lavora con Carlo Maderno e poi con Bernini nel Baldacchino di San Pietro, ma tra i due nasce una forte rivalità.",
+              "A differenza di Bernini, più vicino alla corte e ai papi, Borromini ha un carattere solitario e inquieto. Lavora spesso per ordini religiosi poveri e muore suicida nel 1667.",
+              "La sua novità sta nel progettare con figure geometriche come triangoli, cerchi ed ellissi intrecciati. Le pareti non sono più ferme, ma sembrano piegarsi e muoversi.",
+              "Usa materiali semplici come mattone, stucco e intonaco bianco. Senza marmi o oro ottiene comunque effetti forti di luce e volume: è un Barocco fatto soprattutto di forma e geometria."
             ]
           },
           {
-            "titolo": "Opere chiave",
+            "titolo": "Opere principali",
             "punti": [
-              "San Carlo alle Quattro Fontane / San Carlino (dal 1634, per i Trinitari scalzi spagnoli): prima il piccolo chiostro, con angoli smussati e convessi, poi la chiesa: pianta ellittica generata da due triangoli, pareti ondulate, cupola ovale a cassettoni geometrici (croci, esagoni, ottagoni) che si rimpiccioliscono illusionisticamente verso la lanterna.",
-              "La facciata di San Carlino (1665-1667, completata dopo la morte): alterna concavo e convesso su due ordini, come una superficie che respira; l'intera chiesa starebbe, si disse, in un pilone della cupola di San Pietro.",
-              "Sant'Ivo alla Sapienza (1642-1660): chiesa dell'università romana, costruita in fondo al cortile di Giacomo della Porta; pianta centrale a stella generata da due triangoli sovrapposti (esagono stellato), pareti alternativamente concave e convesse che salgono senza interruzione nella cupola.",
-              "La lanterna di Sant'Ivo termina nella celebre spirale elicoidale, forma senza precedenti, simbolo della sapienza che sale verso Dio.",
-              "Galleria di Palazzo Spada (1652-1653, per il cardinale Bernardino Spada): galleria prospettica con colonnato che si restringe e pavimento che sale: lunga in realtà circa 9 metri, appare profonda oltre 30; gioco illusionistico sulla prospettiva accelerata, emblema barocco dell'inganno dei sensi."
+              "San Carlo alle Quattro Fontane, detto San Carlino (dal 1634): prima realizza il piccolo chiostro, poi la chiesa. La pianta ellittica nasce da forme geometriche, le pareti ondeggiano e la cupola ovale ha cassettoni che si rimpiccioliscono verso la lanterna, creando un effetto ottico.",
+              "La facciata di San Carlino (1665-1667, finita dopo la sua morte) alterna parti concave e convesse, come se respirasse. Si diceva che tutta la chiesa sarebbe entrata in uno dei piloni della cupola di San Pietro.",
+              "Sant'Ivo alla Sapienza (1642-1660), chiesa dell'università romana, ha una pianta a stella ottenuta da due triangoli sovrapposti. Le pareti passano da concave a convesse e salgono senza interruzioni fino alla cupola.",
+              "La lanterna di Sant'Ivo finisce con una famosa spirale, una forma nuova che simboleggia la sapienza che sale verso Dio.",
+              "Galleria di Palazzo Spada (1652-1653): è una galleria prospettica che in realtà misura circa 9 metri ma sembra lunga più di 30. Colonne più piccole e pavimento in salita creano un inganno visivo tipicamente barocco."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "arte",
-            "testo": "La rivalità Bernini-Borromini è il dualismo del Barocco romano: teatralità scenografica e classicismo del primo contro sperimentazione geometrica e inquietudine del secondo."
+            "testo": "La rivalità tra Bernini e Borromini mostra due volti del Barocco romano: da una parte la teatralità più classica di Bernini, dall'altra la sperimentazione geometrica di Borromini."
           },
           {
             "materia": "scienze-umane",
-            "testo": "La prospettiva ingannevole di Palazzo Spada interroga la psicologia della percezione: ciò che vediamo dipende dalle regole con cui il cervello interpreta gli indizi spaziali."
+            "testo": "La finta profondità di Palazzo Spada è un buon esempio di psicologia della percezione: quello che vediamo dipende da come il cervello legge gli indizi dello spazio."
           },
           {
             "materia": "italiano",
-            "testo": "L'illusione e l'inganno dei sensi della Galleria Spada incarnano un tema centrale della cultura barocca, lo stesso del teatro e della poesia secentesca: il mondo come apparenza e rappresentazione."
+            "testo": "L'illusione della Galleria Spada esprime un tema tipico del Barocco e del Seicento: il mondo come apparenza, scena e rappresentazione."
           }
         ]
       }
@@ -499,39 +499,39 @@
       "area": "Settecento",
       "priorita": 3,
       "scheda": {
-        "sintesi": "Il Settecento è il secolo dei Lumi: la fiducia nella ragione, la critica della tradizione e la circolazione europea delle idee trasformano anche l'arte. Al fasto barocco subentrano la grazia leggera del Rococò, il vedutismo legato al Grand Tour e, nella seconda metà del secolo, il ritorno all'antico che prepara il Neoclassicismo. L'arte esce dalle corti e dalle chiese verso un pubblico nuovo: accademie, salotti, mercato.",
+        "sintesi": "Il Settecento è il secolo dei Lumi. La fiducia nella ragione, la critica delle tradizioni e la circolazione delle idee cambiano anche l'arte. Dopo il fasto barocco arrivano la leggerezza del Rococò, il vedutismo legato al Grand Tour e, nella seconda metà del secolo, il ritorno all'antico che prepara il Neoclassicismo. L'arte non resta più solo nelle corti e nelle chiese: crescono accademie, salotti e mercato.",
         "sezioni": [
           {
             "titolo": "Caratteri generali del Settecento",
             "punti": [
-              "L'Illuminismo afferma il primato della ragione, la critica dell'autorità e l'idea di progresso: anche l'arte viene discussa pubblicamente e nasce la moderna critica d'arte.",
-              "Il Rococò, nato in Francia, traduce in arte il gusto aristocratico: decorazione leggera e raffinata, colori chiari, temi galanti e mondani, in netto contrasto con la solennità barocca.",
-              "Il Grand Tour, viaggio di formazione dei giovani aristocratici europei in Italia, alimenta il vedutismo: a Venezia Canaletto dipinge vedute lucide e 'razionali', spesso con l'ausilio della camera ottica, strumento in sintonia con lo spirito scientifico del secolo.",
-              "Le scoperte di Ercolano (1738) e Pompei (1748) e gli scritti di Winckelmann rilanciano lo studio dell'antico: verso fine secolo matura il Neoclassicismo, arte della ragione e della 'nobile semplicità'.",
-              "Cambia il sistema dell'arte: accanto a corti e Chiesa crescono accademie, esposizioni pubbliche, collezionismo borghese e mercato: l'artista inizia a rivolgersi a un pubblico."
+              "L'Illuminismo mette al centro la ragione, critica l'autorità e crede nel progresso. Anche l'arte viene discussa pubblicamente e nasce la critica d'arte moderna.",
+              "Il Rococò nasce in Francia e mostra il gusto dell'aristocrazia: decorazioni leggere, colori chiari e scene eleganti, molto diverse dalla solennità del Barocco.",
+              "Il Grand Tour è il viaggio di formazione dei giovani aristocratici europei in Italia. Favorisce il vedutismo: a Venezia Canaletto dipinge vedute precise, spesso usando la camera ottica, uno strumento che aiuta a osservare e disegnare.",
+              "Le scoperte di Ercolano e Pompei e gli scritti di Winckelmann fanno tornare di moda l'antico. Verso la fine del secolo nasce così il Neoclassicismo, fondato su ragione e semplicità.",
+              "Cambia anche il sistema dell'arte: accanto a corti e Chiesa crescono accademie, mostre pubbliche, collezionisti borghesi e mercato. L'artista inizia a parlare a un pubblico più ampio."
             ]
           },
           {
             "titolo": "Eredità e passaggi",
             "punti": [
-              "Dal Barocco al Rococò: la teatralità si fa intimità e decorazione; dal Rococò al Neoclassicismo: la grazia frivola è criticata in nome della morale e della ragione.",
-              "Il Settecento chiude idealmente il percorso del programma: dalla centralità dell'uomo rinascimentale alla fiducia illuminista nella ragione umana, due 'umanesimi' a confronto.",
-              "Roma e Venezia restano capitali artistiche europee, mete obbligate del Grand Tour, ponte tra la tradizione italiana e la nuova cultura dei Lumi."
+              "Dal Barocco al Rococò la teatralità diventa più intima e decorativa. Dal Rococò al Neoclassicismo quella leggerezza viene criticata in nome della morale e della ragione.",
+              "Il Settecento chiude idealmente questo percorso: dall'uomo al centro nel Rinascimento si arriva alla fiducia illuminista nella ragione umana.",
+              "Roma e Venezia restano grandi capitali artistiche europee e tappe obbligate del Grand Tour, ponte tra la tradizione italiana e la nuova cultura dei Lumi."
             ]
           }
         ],
         "collegamenti": [
           {
             "materia": "scienze-umane",
-            "testo": "L'Illuminismo fonda la pedagogia moderna (l'educazione come diritto e strumento di emancipazione, da Rousseau in poi) e prepara la nascita delle scienze sociali."
+            "testo": "L'Illuminismo pone le basi della pedagogia moderna: l'educazione diventa un diritto e uno strumento di libertà, da Rousseau in poi. Da qui nasceranno anche le scienze sociali."
           },
           {
             "materia": "italiano",
-            "testo": "Il secolo dei Lumi in letteratura: Parini e Goldoni criticano e ritraggono la società aristocratica, la stessa raffigurata dalle arti del Rococò."
+            "testo": "Nel Settecento, anche in letteratura, Parini e Goldoni raccontano e criticano la società aristocratica che il Rococò spesso rappresenta."
           },
           {
             "materia": "inglese",
-            "testo": "Il Grand Tour è un fenomeno soprattutto britannico: i viaggiatori inglesi in Italia commissionano vedute e ritratti, e l'Enlightenment anglosassone (Locke, Hume) è matrice del secolo dei Lumi."
+            "testo": "Il Grand Tour riguarda soprattutto i viaggiatori inglesi. In Italia commissionano vedute e ritratti, mentre autori come Locke e Hume sono tra i protagonisti dell'Enlightenment, cioè dell'Illuminismo inglese."
           }
         ]
       }
